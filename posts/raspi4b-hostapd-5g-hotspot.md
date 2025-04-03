@@ -108,21 +108,24 @@ sudo apt install hostapd
 interface=wlan0
 country_code=US
 driver=nl80211
-ssid=Wifiname
+ssid=<wifiname>
 hw_mode=a
 channel=149
 ieee80211n=1
 ieee80211ac=1
 wmm_enabled=1
-ht_capab=[HT40-][HT40+][SHORT-GI-40][DSSS_CCK-40]
+ht_capab=[HT40+][SHORT-GI-20]
+vht_capab=[SHORT-GI-80]
 vht_oper_chwidth=1
 vht_oper_centr_freq_seg0_idx=155
 wpa=2
-wpa_passphrase=Password
+wpa_passphrase=<password>
 wpa_key_mgmt=WPA-PSK
 rsn_pairwise=CCMP
 
 ```
+其中: `ssid`为热点名称，`wpa_passphrase`为热点密码，可以自行设置
+
 使用自定义配置启动hostapd：
 ```bash
 sudo hostapd /etc/hostapd/hostapd.conf
