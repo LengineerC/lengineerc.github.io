@@ -1,8 +1,14 @@
 [
   {
     "id": "react-router-transition",
-    "tags": [],
-    "categories": [],
+    "tags": [
+      "前端",
+      "React"
+    ],
+    "categories": [
+      "笔记",
+      "教程"
+    ],
     "top": true,
     "title": "React添加路由切换过渡动画",
     "author": "LengineerC",

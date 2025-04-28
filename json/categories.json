@@ -1,6 +1,24 @@
 {
   "笔记": [
     {
+      "id": "react-router-transition",
+      "tags": [
+        "前端",
+        "React"
+      ],
+      "categories": [
+        "笔记",
+        "教程"
+      ],
+      "top": true,
+      "title": "React添加路由切换过渡动画",
+      "author": "LengineerC",
+      "time": "2025-04-28 13:26:58",
+      "lock": false,
+      "password": "",
+      "path": "/posts/react-router-transition.md"
+    },
+    {
       "id": "raspi4b-hostapd-5g-hotspot",
       "tags": [
         "树莓派",
@@ -20,6 +38,24 @@
     }
   ],
   "教程": [
+    {
+      "id": "react-router-transition",
+      "tags": [
+        "前端",
+        "React"
+      ],
+      "categories": [
+        "笔记",
+        "教程"
+      ],
+      "top": true,
+      "title": "React添加路由切换过渡动画",
+      "author": "LengineerC",
+      "time": "2025-04-28 13:26:58",
+      "lock": false,
+      "password": "",
+      "path": "/posts/react-router-transition.md"
+    },
     {
       "id": "raspi4b-hostapd-5g-hotspot",
       "tags": [
