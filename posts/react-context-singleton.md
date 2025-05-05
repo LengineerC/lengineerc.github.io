@@ -227,11 +227,14 @@ export default class ClassComponent extends Component {
 ```
 ## 开始测试
 首先分别查看两个组件中的单例初始值
-![1.png](./img/react-context-singleton/1.png)
+![1.png](https://s2.loli.net/2025/05/06/Umaw3WTGfxC8ADz.png)
+
 点击类式组件的`increase`按钮，再次查看单例初始值，两个组件中打印的值都变为了1
-![2.png](./img/react-context-singleton/2.png)
+![2.png](https://s2.loli.net/2025/05/06/mI8brlLsiCQMfd5.png)
+
 再次点击类式组件的`increase`按钮进行测试
-![3.png](./img/react-context-singleton/3.png)
+![3.png](https://s2.loli.net/2025/05/06/95MwdK318yjCpes.png)
+
 两个组件中的值都变为了2，由此可以说明它们使用的是同一个对象
 > **需要注意的是上下文的值并不是响应式变量，不能触发页面更新！**
 
