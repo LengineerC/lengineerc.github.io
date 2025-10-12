@@ -50,6 +50,12 @@
   </url>
 
   <url>
+    <loc>https://blog.lengineerc.com/#/toolbox/ipa-input</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.lengineerc.com/#/media</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
