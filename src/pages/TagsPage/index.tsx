@@ -1,72 +1,78 @@
-'use client';
+"use client";
 import { useRouter } from "next/navigation";
 import Card from "../../components/Card";
 import PageTitle from "../../components/PageTitle";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Tag from "../../components/Tag";
 import { useAppSelector } from "../../redux/hooks";
 
 import "./index.scss";
 
 export default function TagsPage() {
-  const tags = useAppSelector(state => state.taxonomy.tagsList);
-  const darkMode = useAppSelector(state => state.ui.darkMode) ?? false;
+  const tags = useAppSelector((state) => state.taxonomy.tagsList);
+  const darkMode = useAppSelector((state) => state.ui.darkMode) ?? false;
   const chartRef = useRef(null);
+  const [mounted, setMounted] = useState(false);
   const router = useRouter();
 
   useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  useEffect(() => {
+    console.log(`chartRef.current: ${chartRef.current}, tags: ${tags}`);
     if (!chartRef.current || !tags) return;
 
-    import('echarts/core').then(echarts => {
-      import('echarts-wordcloud').then(() => {
+    import("echarts/core").then((echarts) => {
+      import("echarts-wordcloud").then(() => {
         let wordcloud = echarts.init(chartRef.current);
         const option = {
           series: [
             {
-              type: 'wordCloud',
+              type: "wordCloud",
               gridSize: 2,
               sizeRange: [20, 60],
               rotationRange: [0, 0],
-              shape: 'pentagon',
+              shape: "pentagon",
               textStyle: {
                 normal: {
                   color: () => {
                     return (
-                      'rgb(' +
+                      "rgb(" +
                       [
                         Math.round(Math.random() * 255),
                         Math.round(Math.random() * 255),
                         Math.round(Math.random() * 255),
-                      ].join(',') +
-                      ')'
+                      ].join(",") +
+                      ")"
                     );
                   },
                 },
                 emphasis: {
                   shadowBlur: 10,
-                  shadowColor: '#333',
+                  shadowColor: "#333",
                 },
               },
-              data: Object.keys(tags).map(tagName => {
-                return ({
+              data: Object.keys(tags).map((tagName) => {
+                return {
                   name: tagName,
-                  value: parseInt(tags[(tagName as any)].length),
+                  value: parseInt(tags[tagName as any].length),
                   link: `/tags/${tagName}`,
-                })
-              })
-            }
-          ]
+                };
+              }),
+            },
+          ],
         };
 
         wordcloud.setOption(option);
-        wordcloud.on('click', function (params: any) {
+        wordcloud.on("click", function (params: any) {
           if (params.data && params.data.link) {
-            router.push(`${params.data.link}`)
+            router.push(`${params.data.link}`);
           }
         });
       });
     });
-  }, [tags]);
+  }, [tags, mounted]);
 
   const createTags = (): React.ReactNode => {
     if (tags) {
@@ -75,23 +81,20 @@ export default function TagsPage() {
           <div className="tag-container" key={tag}>
             <Tag tag={tag} />
           </div>
-        )
-      })
+        );
+      });
     }
-  }
+  };
 
   return (
     <div className="page-main">
-
       <div className="page-main-title">
         <PageTitle title="Tags" />
       </div>
 
       <div className="page-main-content">
         <Card darkMode={darkMode}>
-          <div className="tags-page-card-tags">
-            {createTags()}
-          </div>
+          <div className="tags-page-card-tags">{createTags()}</div>
         </Card>
 
         <div className="tags-page-chart-main">
@@ -100,7 +103,6 @@ export default function TagsPage() {
           </Card>
         </div>
       </div>
-
     </div>
   );
 }

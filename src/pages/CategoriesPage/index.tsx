@@ -1,29 +1,27 @@
-'use client';
+"use client";
 import Card from "../../components/Card";
 import PageTitle from "../../components/PageTitle";
-import { useEffect, useRef } from "react";
-import * as echarts from 'echarts/core';
-import { RadarChart } from 'echarts/charts';
-import { CanvasRenderer } from 'echarts/renderers';
-// import 'echarts-wordcloud';
-import Category from "../../components/Category";
+import { useEffect, useRef, useState } from "react";
+import * as echarts from "echarts/core";
+import { RadarChart } from "echarts/charts";
+import { CanvasRenderer } from "echarts/renderers";
 import { useAppSelector } from "../../redux/hooks";
+import Category from "@/components/Category";
 
 import "./index.scss";
 
 export default function CategoriesPage() {
-  const categories = useAppSelector(state => state.taxonomy.categoriesList);
-  const postCount = useAppSelector(state => state.post.postList).length || 0;
-  const darkMode = useAppSelector(state => state.ui.darkMode) ?? false;
-
+  const categories = useAppSelector(
+    (state) => state.taxonomy.categoriesList,
+  );
+  const postCount = useAppSelector((state) => state.post.postList).length || 0;
+  const darkMode = useAppSelector((state) => state.ui.darkMode) ?? false;
+  const [mounted, setMounted] = useState(false);
   const chartRef = useRef(null);
 
   useEffect(() => {
-    if (!chartRef.current) return;
-    if (categories && Object.keys(categories).length > 0 && postCount !== 0) {
-      createRadarChart();
-    }
-  }, [categories, postCount, darkMode]);
+    setMounted(true);
+  }, []);
 
   const createRadarChart = () => {
     echarts.use([RadarChart, CanvasRenderer]);
@@ -31,47 +29,46 @@ export default function CategoriesPage() {
     let textStyle = {
       fontFamily: "CustomFont1",
       fontSize: 15,
-      color: `${darkMode ? '#ffffffcc' : '#000000c0'}`
+      color: `${darkMode ? "#ffffffcc" : "#000000c0"}`,
     };
     let itemStyle = {
-      color: `${darkMode ? '#42cf52' : '#67abff'}`
-    }
+      color: `${darkMode ? "#42cf52" : "#67abff"}`,
+    };
     let axisName = {
       fontFamily: "CustomFont1",
       fontSize: 15,
-      color: `${darkMode ? '#ffffffcc' : '#000000c0'}`,
-      fontWeight: 'bold'
-    }
+      color: `${darkMode ? "#ffffffcc" : "#000000c0"}`,
+      fontWeight: "bold",
+    };
 
     let max = 0;
     const getMaxCount = () => {
-      Object.keys(categories).forEach(item => {
-        if (item.length > max) {
-          max = item.length;
-        }
-      })
-    }
-    getMaxCount();
+      Object.keys(categories).forEach((key) => {
+        const len = categories[key].length;
 
+        if (len > max) max = len;
+      });
+    };
+    getMaxCount();
     const option = {
       backgroundColor: "",
       radar: {
-        indicator: Object.keys(categories).map(categoryName => ({
+        indicator: Object.keys(categories).map((categoryName) => ({
           name: categoryName,
           max: max,
         })),
         name: {
-          textStyle: textStyle
+          textStyle: textStyle,
         },
         axisName,
         center: ["50%", "50%"],
-        radius: "70%"
+        radius: "70%",
       },
       series: [
         {
           areaStyle: { opacity: "0.25" },
           label: { show: "true" },
-          type: 'radar',
+          type: "radar",
           data: [
             {
               value: Object.keys(categories).map((catagoryName: any) => {
@@ -82,19 +79,30 @@ export default function CategoriesPage() {
               label: {
                 show: true,
                 fontSize: 13,
-                position: 'right',
-                color: `${darkMode ? '#ffffff' : "#000000"}`,
+                position: "right",
+                color: `${darkMode ? "#ffffff" : "#000000"}`,
                 fontWeight: "bold",
                 fontFamily: "CustomFont1",
-              }
-            }
-          ]
-        }
+              },
+            },
+          ],
+        },
       ],
     };
 
     radarChart.setOption(option);
-  }
+  };
+
+  useEffect(() => {
+    if (
+      categories &&
+      Object.keys(categories).length > 0 &&
+      postCount !== 0 &&
+      chartRef.current
+    ) {
+      createRadarChart();
+    }
+  }, [categories, postCount, darkMode, mounted]);
 
   const createCategories = (): React.ReactNode => {
     if (categories) {
@@ -103,14 +111,13 @@ export default function CategoriesPage() {
           <div className="categories-container" key={categories}>
             <Category category={categories} />
           </div>
-        )
-      })
+        );
+      });
     }
-  }
+  };
 
   return (
     <div className="page-main">
-
       <div className="page-main-title">
         <PageTitle title="Categories" />
       </div>
@@ -128,7 +135,7 @@ export default function CategoriesPage() {
           </Card>
         </div>
       </div>
-
     </div>
-  )
+  );
 }
+

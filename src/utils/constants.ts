@@ -21,16 +21,16 @@ export const SITE_DEFAULT_THEME_MODE: boolean = false;
 
 //副标题默认内容
 export const SUB_TITLE_TEXTS: string[] = [
-    "All tragedies crased, I see only wonders.",
-    "On n'oublie jamais une personne, on s'habitue seulement à son absence.",
-    "日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。"
+  "All tragedies crased, I see only wonders.",
+  "On n'oublie jamais une personne, on s'habitue seulement à son absence.",
+  "日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない。",
 ];
 
 // 网站亮色暗色背景(文件路径和网址均可)
 export const BACKGROUND_IMG = {
-    LIGHT: bgImgLight,
-    DARK: bgImgDark,
-}
+  LIGHT: bgImgLight,
+  DARK: bgImgDark,
+};
 
 //公告栏内容
 export const NOTICE_CARD_TEXT: string = "网站正在建设中...";
@@ -57,7 +57,8 @@ export const SHOW_CLOCK_CARD: boolean = true;
 // export const MUSIC_SERVER:string="netease";
 
 //音乐播放器歌单url(根据服务器设置)，详情见https://github.com/metowolf/MetingJS
-export const MUSIC_URL: string = "https://music.163.com/playlist?id=8741983740";
+export const MUSIC_URL: string =
+  "https://music.163.com/playlist?id=13174138370";
 
 //是否显示吸底音乐播放器
 export const SHOW_APLAYER: boolean = false;
@@ -66,14 +67,14 @@ export const SHOW_APLAYER: boolean = false;
 export const IRC_TYPE: boolean = false;
 
 // B站视频地址
-export const BILIBILI_VIDEO_URL: string = "//player.bilibili.com/player.html?isOutside=true&aid=43083956&bvid=BV1Pb411S7Tu&cid=75540675&p=1";
+export const BILIBILI_VIDEO_URL: string =
+  "//player.bilibili.com/player.html?isOutside=true&aid=43083956&bvid=BV1Pb411S7Tu&cid=75540675&p=1";
 
 // 时间轴的github用户名和仓库名
 export const GITHUB_REPO = {
-    owner: "LengineerC",
-    repo: "React-blog"
-}
+  owner: "LengineerC",
+  repo: "React-blog",
+};
 
 // github pages mode
 // export const DEPLOY_ON_GITHUB_PAGES:boolean=true;
-

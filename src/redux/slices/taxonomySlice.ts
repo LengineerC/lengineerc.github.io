@@ -1,17 +1,18 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { Categories } from "@/utils/types";
+import { createSlice } from "@reduxjs/toolkit";
 
 interface TaxonomyState {
   tagsList: any[];
-  categoriesList: any[];
+  categoriesList: Categories;
 }
 
 const initialState: TaxonomyState = {
   tagsList: [],
-  categoriesList: [],
+  categoriesList: {},
 };
 
 const taxonomySlice = createSlice({
-  name: 'taxonomy',
+  name: "taxonomy",
   initialState,
   reducers: {
     saveTagsList: (state, action) => {
@@ -24,7 +25,7 @@ const taxonomySlice = createSlice({
       state.categoriesList = action.payload;
     },
     clearCategoriesList: (state) => {
-      state.categoriesList = [];
+      state.categoriesList = {};
     },
   },
 });
@@ -36,4 +37,3 @@ export const {
   clearCategoriesList,
 } = taxonomySlice.actions;
 export default taxonomySlice.reducer;
-

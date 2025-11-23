@@ -1,3 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
+# *
 User-agent: *
-Disallow:
+Allow: /
+
+# Host
+Host: https://blog.lengineerc.com
+
+# Sitemaps
+Sitemap: https://blog.lengineerc.com/sitemap.xml

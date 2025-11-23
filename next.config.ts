@@ -1,17 +1,18 @@
 import type { NextConfig } from "next";
 
-const DEPLOY_ON_GITHUB_PAGES = process.env.DEPLOY_ON_GITHUB_PAGES === 'true';
-const basePath = DEPLOY_ON_GITHUB_PAGES ? '/blog-next' : '';
-const assetPrefix = DEPLOY_ON_GITHUB_PAGES ? '/blog-next' : '';
+const isGithubPages = process.env.DEPLOY_ON_GITHUB_PAGES === "true";
+
+const repoName = "lengineerc.github.io";
 
 const nextConfig: NextConfig = {
-  output: DEPLOY_ON_GITHUB_PAGES ? 'export' : 'standalone',
-  basePath: basePath,
-  assetPrefix: assetPrefix,
+  output: isGithubPages ? "export" : undefined,
+  basePath: isGithubPages ? `/${repoName}` : "",
+  assetPrefix: isGithubPages ? `/${repoName}/` : undefined,
   images: {
     unoptimized: true,
   },
   trailingSlash: true,
+  distDir: "out",
 };
 
 export default nextConfig;
