@@ -149,7 +149,8 @@ type Props={
 
 export default function TOC({markdown, showDrawer,callbackOnClose}:Props) {
   const [open,setOpen]=useState<boolean>(showDrawer);
-  const [drawerVisible,setDrawerVisible]=useState<boolean>(window.innerWidth<=MOBILE_MAX_WIDTH);
+  // 在 SSR 时默认为 false，在客户端 useEffect 中设置正确值
+  const [drawerVisible,setDrawerVisible]=useState<boolean>(false);
   // const [isDarkMode,setIsDarkMode]=useState<boolean>(store.getState().darkMode);
   const darkMode=useAppSelector(state=>state.ui.darkMode) ?? false;
 
@@ -163,20 +164,31 @@ export default function TOC({markdown, showDrawer,callbackOnClose}:Props) {
   }
 
   useEffect(()=>{
+    // 在客户端设置初始值
+    if (typeof window !== 'undefined') {
+      setDrawerVisible(window.innerWidth<=MOBILE_MAX_WIDTH);
+    }
+
     // const unsubscribe=store.subscribe(()=>{
     //   const {darkMode}=store.getState();
     //   setIsDarkMode(darkMode);
     // })
 
     const handleResize=()=>{
-      setDrawerVisible(window.innerWidth<=MOBILE_MAX_WIDTH);
+      if (typeof window !== 'undefined') {
+        setDrawerVisible(window.innerWidth<=MOBILE_MAX_WIDTH);
+      }
     }
 
-    window.addEventListener("resize",handleResize);
+    if (typeof window !== 'undefined') {
+      window.addEventListener("resize",handleResize);
+    }
 
     return ()=>{
       // unsubscribe();
-      window.removeEventListener("resize",handleResize);
+      if (typeof window !== 'undefined') {
+        window.removeEventListener("resize",handleResize);
+      }
     }
   },[])
 

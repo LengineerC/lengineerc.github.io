@@ -1,11 +1,9 @@
 'use client';
-// import React, { useState, useEffect } from 'react'
 import PageTitle from '../../components/PageTitle'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faXmark, faCircleExclamation } from '@fortawesome/free-solid-svg-icons'
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-// import { MOBILE_MAX_WIDTH } from '../../utils/constants'
 import Card from '../../components/Card'
 import { useAppSelector } from '../../redux/hooks'
 

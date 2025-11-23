@@ -1,12 +1,24 @@
-'use client';
+import CategoriesDetail from '@/pages/CategoriesDetail';
+import fs from "fs";
+import path from "path";
+import { Categories } from '@/utils/types';
 
-import { useParams } from 'next/navigation';
-import CategoriesDetail from '../../../pages/CategoriesDetail';
+export function generateStaticParams() {
+  const file = fs.readFileSync(
+    path.join(process.cwd(), 'public/json/categories.json'),
+    'utf-8',
+  );
 
-export default function CategoriesDetailPage() {
-  const params = useParams();
-  const category = params?.category as string;
-  
-  return <CategoriesDetail category={category} />;
+  const categories: Categories = JSON.parse(file);
+
+  return Object.keys(categories).map((category) => ({
+    category: encodeURIComponent(category)
+  }));
 }
 
+export default async function CategoriesDetailPage({ params }: { params: Promise<{ category: string }> }) {
+  const { category } = await params;
+  const decodeCategoty = decodeURIComponent(category);
+
+  return <CategoriesDetail category={decodeCategoty} />;
+}

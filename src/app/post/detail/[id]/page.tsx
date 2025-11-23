@@ -1,13 +1,27 @@
-'use client';
+import Post from '@/pages/Post';
 
-import { useParams, useRouter } from 'next/navigation';
-// import { useState, useEffect } from 'react';
-import Post from '../../../../pages/Post';
+import fs from "fs";
+import path from "path";
+import { PostConfig } from '@/utils/types';
 
-export default function PostDetailPage() {
-  const params = useParams();
-  const id = params?.id as string;
-  
-  return <Post postId={id} />;
+export function generateStaticParams() {
+  const file = fs.readFileSync(
+    path.join(process.cwd(), 'public/json/posts.json'),
+    'utf-8',
+  );
+
+  const posts: PostConfig[] = JSON.parse(file);
+
+  return posts.map(post => ({
+    id: post.id,
+  }));
 }
 
+export default async function PostDetailPage(
+  { params }: { params: Promise<{ id: string }> }
+) {
+  const { id } = await params;
+  const decodedId = decodeURIComponent(id);
+
+  return <Post postId={decodedId} />;
+}

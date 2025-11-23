@@ -21,7 +21,8 @@ export default function TopPostCard() {
   // const [topPosts,setTopPosts]=useState<PostConfig[]>([]);
   // const [isDarkMode,setIsDarkMode]=useState<boolean>(store.getState().darkMode);
   const darkMode = useAppSelector(state => state.ui.darkMode) ?? false;
-  const topPosts = useAppSelector(state => state.post.postList).filter(item => item.top);
+  const postList = useAppSelector(state => state.post.postList) ?? [];
+  const topPosts = postList.filter(item => item.top);
   const dispatch = useAppDispatch();
 
   // useEffect(() => {

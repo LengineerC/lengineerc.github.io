@@ -16,11 +16,11 @@ import { BACKGROUND_IMG } from '../utils/constants';
 import { useAppDispatch, useAppSelector } from '../redux/hooks';
 import { Dispatch } from 'redux';
 import '../App.scss';
-import APlayerClient from './APlayer/client';
+import ReduxProvider from '@/redux/Provider';
 
-const MobileMenu = lazy(() => import('./MobileMenu/index'))
+const MobileMenu = lazy(() => import('./MobileMenu/index'));
 
-export default function AppWrapper({ children }: { children: React.ReactNode }) {
+function App({ children }: { children: React.ReactNode }) {
   const [showMenu, setShowMenu] = useState<boolean>(false);
   const darkMode: boolean = useAppSelector(state => state.ui.darkMode) ?? false;
   const dispatch: Dispatch = useAppDispatch();
@@ -163,6 +163,15 @@ export default function AppWrapper({ children }: { children: React.ReactNode }) 
       }
 
     </div>
-  )
+  );
 }
 
+export default function AppWrapper({ children }: { children: React.ReactNode }) {
+  return (
+    <ReduxProvider>
+      <App>
+        {children}
+      </App>
+    </ReduxProvider>
+  );
+}

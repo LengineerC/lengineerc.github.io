@@ -1,15 +1,21 @@
 import type { Metadata } from "next";
-import ReduxProvider from "../redux/Provider";
 import AppWrapper from "../components/AppWrapper";
 import Script from "next/script";
 import "../App.scss";
 import "../index.scss";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
+const getAssetPath = (path: string) => {
+  const cleanBasePath = basePath.replace(/\/$/, "");
+  return `${cleanBasePath}${path.startsWith("/") ? path : `/${path}`}`;
+};
+
 export const metadata: Metadata = {
   title: "LengineerC's blog",
   description: "LengineerC's blog",
   icons: {
-    icon: "/favicon.png",
+    icon: getAssetPath("/favicon.png"),
   },
 };
 
@@ -22,21 +28,25 @@ export default function RootLayout({
     <html lang="zh-CN">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="apple-touch-icon" href="/favicon.png" />
-        <link rel="icon" href="/favicon.png" />
+        <link rel="apple-touch-icon" href={getAssetPath("/favicon.png")} />
+        <link rel="icon" href={getAssetPath("/favicon.png")} />
 
         <style id="bodyStyle" dangerouslySetInnerHTML={{ __html: '' }} />
-        <link rel="stylesheet" href="/libs/APlayer.min.css" />
+        <link rel="stylesheet" href={getAssetPath("/libs/APlayer.min.css")} />
       </head>
       <body>
-        <ReduxProvider>
-          <AppWrapper>
-            {children}
-          </AppWrapper>
-        </ReduxProvider>
+        <AppWrapper>
+          {children}
+        </AppWrapper>
 
-        <Script src="/libs/APlayer.min.js" />
-        <Script src="/libs/Meting.min.js" />
+        <Script 
+          src={getAssetPath("/libs/APlayer.min.js")} 
+          strategy="lazyOnload"
+        />
+        <Script 
+          src={getAssetPath("/libs/Meting.min.js")} 
+          strategy="lazyOnload"
+        />
       </body>
     </html>
   );

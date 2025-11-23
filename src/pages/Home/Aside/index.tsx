@@ -1,3 +1,4 @@
+'use client';
 import ClockCard from "./components/ClockCard";
 import NoticeCard from "./components/NoticeCard";
 import PostsInfoCard from "./components/PostsInfoCard";

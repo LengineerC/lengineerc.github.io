@@ -20,7 +20,6 @@ export default function TagsPage() {
   }, []);
 
   useEffect(() => {
-    console.log(`chartRef.current: ${chartRef.current}, tags: ${tags}`);
     if (!chartRef.current || !tags) return;
 
     import("echarts/core").then((echarts) => {
@@ -56,7 +55,7 @@ export default function TagsPage() {
               data: Object.keys(tags).map((tagName) => {
                 return {
                   name: tagName,
-                  value: parseInt(tags[tagName as any].length),
+                  value: tags[tagName].length,
                   link: `/tags/${tagName}`,
                 };
               }),

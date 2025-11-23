@@ -13,8 +13,9 @@ import "./index.scss";
 export default function CategoriesPage() {
   const categories = useAppSelector(
     (state) => state.taxonomy.categoriesList,
-  );
-  const postCount = useAppSelector((state) => state.post.postList).length || 0;
+  ) ?? {};
+  const postList = useAppSelector((state) => state.post.postList) ?? [];
+  const postCount = postList.length || 0;
   const darkMode = useAppSelector((state) => state.ui.darkMode) ?? false;
   const [mounted, setMounted] = useState(false);
   const chartRef = useRef(null);

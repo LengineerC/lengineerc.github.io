@@ -1,7 +1,5 @@
 'use client';
-import { useEffect, useState } from "react";
 import Card from "../../../../../components/Card";
-// import store from "../../../../../redux/store";
 import { useAppSelector } from "../../../../../redux/hooks";
 import Clock from "@/components/Clock";
 
@@ -29,5 +27,5 @@ export default function ClockCard() {
         />
       </div>
     </Card>
-  )
+  );
 }

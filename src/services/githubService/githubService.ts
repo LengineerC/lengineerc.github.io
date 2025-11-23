@@ -1,3 +1,4 @@
+'use client';
 import { GetRepoCommitsPayload } from "./type";
 import { githubBaseUrl } from "../../utils/requests/ip";
 import createGetUrl from "../../utils/requests/createGetUrl";

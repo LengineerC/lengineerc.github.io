@@ -22,7 +22,7 @@ const darkBgColor:string="linear-gradient(to right,#ffffff55 0%,#c0c0c055 50%,#f
 
 export default function Friends() {
   // const [friendsUrlData,setFriendsUrlData]=useState<FriendUrl[]>([]);
-  const friendsUrlData=useAppSelector(state=>state.app.friendsUrlData);
+  const friendsUrlData=useAppSelector(state=>state.app.friendsUrlData) ?? [];
   // const [isDarkMode,setIsDarkMode]=useState<boolean>(store.getState().darkMode);
   const darkMode=useAppSelector(state=>state.ui.darkMode) ?? false;
   const dispatch=useAppDispatch();

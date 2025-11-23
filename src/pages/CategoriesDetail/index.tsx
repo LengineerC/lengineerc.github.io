@@ -17,12 +17,8 @@ type CategoriesDetailProps = {
 export default function CategoriesDetail({
   category,
 }: CategoriesDetailProps = {}) {
-  const categoriesDetail = (
-    useAppSelector((state) => state.taxonomy.categoriesList) as Record<
-      string,
-      any
-    >
-  )[category as string];
+  const categoriesList = useAppSelector((state) => state.taxonomy.categoriesList) ?? {};
+  const categoriesDetail = (categoriesList as Record<string, any>)[category as string];
   const dispatch = useAppDispatch();
 
   const setSelectedPost = (post: PostConfig) => {

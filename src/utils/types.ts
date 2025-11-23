@@ -16,6 +16,8 @@ export type PostConfig = {
 
 export type Categories = Record<string, PostConfig[]>;
 
+export type Tags = Record<string, PostConfig[]>;
+
 // Nav菜单配置(要展开子菜单path不能以/开头)
 export type MenuConfig = {
   name: string;

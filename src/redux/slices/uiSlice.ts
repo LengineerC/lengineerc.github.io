@@ -1,3 +1,4 @@
+'use client';
 import { createSlice } from '@reduxjs/toolkit';
 import { SITE_DEFAULT_THEME_MODE } from '../../utils/constants';
 
