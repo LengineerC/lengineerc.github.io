@@ -5,9 +5,6 @@ time: '2025-03-03 14:04:51'
 lock: false
 password: ''
 top: true
-categories:
-  - 笔记
-  - 教程
 tags:
   - 树莓派
   - 硬件

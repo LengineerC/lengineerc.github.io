@@ -5,9 +5,6 @@ time: '2025-01-01 20:14:46'
 lock: false
 password: ''
 top: true
-categories:
-  - 教程
-  - 语言学
 tags:
   - 道本语
   - 语言学

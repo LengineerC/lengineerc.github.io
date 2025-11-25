@@ -5,9 +5,6 @@ time: '2024-06-29 22:14:34'
 lock: false
 password: ''
 top: false
-categories: 
-  - 笔记
-  - 教程
 tags: 
   - 前端
   - 微信小程序

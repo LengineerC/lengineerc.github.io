@@ -5,9 +5,6 @@ time: '2025-01-02 12:07:58'
 lock: false
 password: ''
 top: false
-categories: 
-  - 笔记
-  - 教程
 tags: 
   - 前端
   - React
