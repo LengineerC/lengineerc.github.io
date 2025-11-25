@@ -1,12 +1,27 @@
 [
   {
+    "id": "rust-node-event-emitter",
+    "tags": [
+      "rust",
+      "事件总线"
+    ],
+    "category": "rust",
+    "top": true,
+    "title": "Rust仿node事件总线的简单实现",
+    "author": "LengineerC",
+    "time": "2025-11-25 16:25:17",
+    "lock": false,
+    "password": "",
+    "path": "/posts/rust/rust-node-event-emitter.md"
+  },
+  {
     "id": "react-router-transition",
     "tags": [
       "前端",
       "React"
     ],
     "category": "前端",
-    "top": true,
+    "top": false,
     "title": "React添加路由切换过渡动画",
     "author": "LengineerC",
     "time": "2025-04-28 13:26:58",

@@ -25,6 +25,7 @@ export default class Singleton{
 	get value(){
 		return this.#value;
 	}
+	
 	set value(val){
 		this.#value=val;
 	}
@@ -62,9 +63,9 @@ import React from 'react';
 
 export default function FunctionComponent() {
 	return (
-	<div>
-		FunctionComponent
-	</div>
+		<div>
+			FunctionComponent
+		</div>
 	);
 }
 ```

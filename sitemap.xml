@@ -68,6 +68,12 @@
   </url>
 
   <url>
+    <loc>https://blog.lengineerc.com/#/post/detail/rust-node-event-emitter</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.lengineerc.com/#/post/detail/react-router-transition</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -93,6 +99,18 @@
 
   <url>
     <loc>https://blog.lengineerc.com/#/post/detail/wx-pull-up-pull-down</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/rust</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
