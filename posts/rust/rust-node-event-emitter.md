@@ -2,9 +2,10 @@
 title: 'Rust仿node事件总线的简单实现'
 author: 'LengineerC'
 time: '2025-11-25 16:25:17'
+abstract: '前端开发学习rust中不得不品的一环....'
 lock: false
 password: ''
-top: true
+top: false
 tags:
   - rust
   - 事件总线

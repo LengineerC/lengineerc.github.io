@@ -2,6 +2,7 @@
 title: 'React使用Context创建对象单例'
 author: 'LengineerC'
 time: '2025-01-02 12:07:58'
+abstract: '经典设计模式的React实现'
 lock: false
 password: ''
 top: false

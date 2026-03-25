@@ -68,6 +68,12 @@
   </url>
 
   <url>
+    <loc>https://blog.lengineerc.com/#/post/detail/neovide-vscode-cursor</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.lengineerc.com/#/post/detail/rust-node-event-emitter</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -104,6 +110,24 @@
   </url>
 
   <url>
+    <loc>https://blog.lengineerc.com/#/tags/%E5%89%8D%E7%AB%AF</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/%E7%BE%8E%E5%8C%96</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/VSCode</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.lengineerc.com/#/tags/rust</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -111,12 +135,6 @@
 
   <url>
     <loc>https://blog.lengineerc.com/#/tags/%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.lengineerc.com/#/tags/%E5%89%8D%E7%AB%AF</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

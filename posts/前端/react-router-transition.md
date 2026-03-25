@@ -2,6 +2,7 @@
 title: 'React添加路由切换过渡动画'
 author: 'LengineerC'
 time: '2025-04-28 13:26:58'
+abstract: '本网站初版加载动画解决方案'
 lock: false
 password: ''
 top: false

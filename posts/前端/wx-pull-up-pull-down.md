@@ -2,6 +2,7 @@
 title: '微信小程序实现上拉加载下拉刷新'
 author: 'LengineerC'
 time: '2024-06-29 22:14:34'
+abstract: 'Taro UI ScrollView组件一个简单使用场景'
 lock: false
 password: ''
 top: false

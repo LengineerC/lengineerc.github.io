@@ -1,15 +1,33 @@
 [
   {
+    "id": "neovide-vscode-cursor",
+    "tags": [
+      "前端",
+      "美化",
+      "VSCode"
+    ],
+    "category": "前端",
+    "top": true,
+    "title": "VSCode的仿Neovide光标动画",
+    "author": "LengineerC",
+    "time": "2026-03-25 22:08:38",
+    "abstract": "在VSCode中基于Custom Css and JS Loader复刻Neovide的灵魂之一的光标动画",
+    "lock": false,
+    "password": "",
+    "path": "/posts/前端/neovide-vscode-cursor.md"
+  },
+  {
     "id": "rust-node-event-emitter",
     "tags": [
       "rust",
       "事件总线"
     ],
     "category": "rust",
-    "top": true,
+    "top": false,
     "title": "Rust仿node事件总线的简单实现",
     "author": "LengineerC",
     "time": "2025-11-25 16:25:17",
+    "abstract": "前端开发学习rust中不得不品的一环....",
     "lock": false,
     "password": "",
     "path": "/posts/rust/rust-node-event-emitter.md"
@@ -25,6 +43,7 @@
     "title": "React添加路由切换过渡动画",
     "author": "LengineerC",
     "time": "2025-04-28 13:26:58",
+    "abstract": "本网站初版加载动画解决方案",
     "lock": false,
     "password": "",
     "path": "/posts/前端/react-router-transition.md"
@@ -40,6 +59,7 @@
     "title": "树莓派4B使用hostapd开启5G热点",
     "author": "LengineerC",
     "time": "2025-03-03 14:04:51",
+    "abstract": "被校园网连接数折磨之后想出来的邪修解决方案（树莓派最有用的一集）",
     "lock": false,
     "password": "",
     "path": "/posts/技术整活/raspi4b-hostapd-5g-hotspot.md"
@@ -55,6 +75,7 @@
     "title": "React使用Context创建对象单例",
     "author": "LengineerC",
     "time": "2025-01-02 12:07:58",
+    "abstract": "经典设计模式的React实现",
     "lock": false,
     "password": "",
     "path": "/posts/前端/react-context-singleton.md"
@@ -86,6 +107,7 @@
     "title": "微信小程序实现上拉加载下拉刷新",
     "author": "LengineerC",
     "time": "2024-06-29 22:14:34",
+    "abstract": "Taro UI ScrollView组件一个简单使用场景",
     "lock": false,
     "password": "",
     "path": "/posts/前端/wx-pull-up-pull-down.md"
