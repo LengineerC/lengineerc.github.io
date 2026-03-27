@@ -20,11 +20,11 @@ Neovide的灵魂之一就是它的光标动画（~~我就是图这个才用neovi
 
 ### 单个光标
 
-![2025-12-02 16-20-37.gif](https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6df303ddf95642c6a2cfbbad2114a2a0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTGVuZ2luZWVyQw==:q75.awebp?rk3s=f64ab15b&x-expires=1774489484&x-signature=OKqLsam8ehFxHh1qCMzwv597jB8%3D)
+![single cursor](https://files.seeusercontent.com/2026/03/27/hQ7u/single-cursor.webp)
 
 ### 多个光标
 
-![2025-12-02 16-21-29.gif](https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6097c892ae2d413882c8c24bccb84b0a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTGVuZ2luZWVyQw==:q75.awebp?rk3s=f64ab15b&x-expires=1774489484&x-signature=Q%2FANxOegdvQybmA92nwRZPjOfmY%3D)
+![multi cursor](https://files.seeusercontent.com/2026/03/27/Fm6a/multi-cursor.webp)
 
 ## 现有问题
 

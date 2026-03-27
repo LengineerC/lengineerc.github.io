@@ -1,5 +1,21 @@
 [
   {
+    "id": "claude-code-installation",
+    "tags": [
+      "Claude Code",
+      "AI"
+    ],
+    "category": "AI",
+    "top": false,
+    "title": "Claude Code安装并使用第三方API",
+    "author": "LengineerC",
+    "time": "2026-03-27 22:35:55",
+    "abstract": "记录一下Claude Code安装方式以及使用中转站API的小坑",
+    "lock": false,
+    "password": "",
+    "path": "/posts/AI/claude-code-installation.md"
+  },
+  {
     "id": "neovide-vscode-cursor",
     "tags": [
       "前端",

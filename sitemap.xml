@@ -68,6 +68,12 @@
   </url>
 
   <url>
+    <loc>https://blog.lengineerc.com/#/post/detail/claude-code-installation</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.lengineerc.com/#/post/detail/neovide-vscode-cursor</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -105,6 +111,18 @@
 
   <url>
     <loc>https://blog.lengineerc.com/#/post/detail/wx-pull-up-pull-down</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/Claude%20Code</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/AI</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
