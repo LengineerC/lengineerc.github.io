@@ -68,6 +68,12 @@
   </url>
 
   <url>
+    <loc>https://blog.lengineerc.com/#/post/detail/kvm_gpu_direct_connection</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.lengineerc.com/#/post/detail/claude-code-installation</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -111,6 +117,18 @@
 
   <url>
     <loc>https://blog.lengineerc.com/#/post/detail/wx-pull-up-pull-down</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/KVM</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/Linux</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
