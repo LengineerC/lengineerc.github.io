@@ -5,7 +5,7 @@ time: '2025-03-03 14:04:51'
 abstract: '被校园网连接数折磨之后想出来的邪修解决方案（树莓派最有用的一集）'
 lock: false
 password: ''
-top: true
+top: false
 tags:
   - 树莓派
   - 硬件
