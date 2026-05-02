@@ -65,6 +65,7 @@ _当前虚拟机只是用来打游戏，暂时没有配置文件共享的需求�
 ### 网络接口
 
 设备型号也是设置为`VirtIO`。同时设置网络源为**桥接**。
+
 ![nic-setting.png](https://files.seeusercontent.com/2026/04/25/bf1O/nic-setting.png)
 
 目前就设置这些内容，其他的安装完系统之后再进行设置。
