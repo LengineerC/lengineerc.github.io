@@ -376,7 +376,7 @@ cgroup_device_acl =[
 ]
 ```
 
-_如果使用了AppArmor的自行去原文档查看对应配置_
+*如果使用了AppArmor的自行去原文档查看对应配置*
 
 ### 虚拟机配置
 
@@ -471,3 +471,62 @@ sudo rm /etc/sysctl.d/40-hugepage.conf
 ## 总结
 
 亲自体验了一次一趟操作下来性能损耗在接受范围内，更多选项和优化还是参照[原文](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/wiki/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA)
+
+---
+
+## 错误处理
+记录目前碰到的错误以及处理方式
+
+### Can't open backing store /dev/kvmfr0 for guest RAM: Permission denied
+报错信息：
+```
+启动域时出错: 内部错误：QEMU unexpectedly closed the monitor (vm='win11'): 2026-05-08T09:40:12.246154Z qemu-system-x86_64: can't open backing store /dev/kvmfr0 for guest RAM: Permission denied
+```
+
+#### 解决
+1. 查看udev规则是否创建
+```bash
+sudo vim /etc/udev/rules.d/99-kvmfr.rules
+```
+
+是否有：
+```
+SUBSYSTEM=="kvmfr", OWNER="username", GROUP="kvm", MODE="0660"
+```
+
+检查`kvmfr`内存分配是否正确
+```bash
+cat /etc/modprobe.d/kvmfr.conf
+```
+检查内存大小是否正确
+```
+options kvmfr static_size_mb=内存大小
+```
+
+检查`kvmfr`是否存在
+```bash
+sudo modprobe kvmfr
+```
+
+没有输出则代表模块还存在，如果报错`not found`之类的，执行
+```bash
+dkms status
+```
+如果报错`command not found: dkms`则执行
+```bash
+sudo pacman -S dkms linux-headers base-devel
+```
+
+> 安装的注意事项：标准版内核安装`linux-headers`，如果用的是 `linux-zen`，则需要安装 `linux-zen-headers`；如果是 `linux-lts`，则是 `linux-lts-headers`
+
+我是使用的`LookingGlass`，可以尝试重新安装
+```bash
+yay -S looking-glass-git
+```
+
+也可以进行手动构建，拉取[LookingGlass](https://github.com/gnif/LookingGlass)源码，进入里面的`module`文件夹，执行
+```bash
+sudo dkms install .
+```
+
+之后再次运行`sudo modprobe kvmfr`验证。同时通过`ls -l /dev/kvmfr0`查看udev配置是否生效。能看到设备，并且所属用户是设置的用户，组是 `kvm`就恢复正常

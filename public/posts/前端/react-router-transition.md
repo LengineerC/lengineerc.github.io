@@ -123,11 +123,11 @@ export default function Loading() {
 然后在`componentDidMount`时添加`fade-in`，在`componentWillUnMount`的时候添加`fade-out`实现`Loading`组件本身的过渡效果，后面测试时发现这种方法并不可行，经过搜索和自己测试，最终采取了下面的方式解决。
 ### 使用`react-transition-group`库
 [react-transition-group]([react-transition-group - npm](https://www.npmjs.com/package/react-transition-group))是管理组件的挂载和卸载，并提供生命周期钩子来应用CSS动画或JavaScript动画的库，使用其可以实现比较完美的过渡动画
-- ### 安装
+#### 安装
 ```shell
 npm install react-transition-group --save
 ```
-- ### 使用
+#### 使用
 创建两个state用于管理动画状态
 ```TSX
 const [isLoading, setIsLoading] = useState(false);
