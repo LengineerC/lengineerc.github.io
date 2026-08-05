@@ -391,7 +391,7 @@ cgroup_device_acl =[
 </qemu:commandline>
 ```
 
-其中`<size>`替换为之前计算出的$共享内存大小\times 1024 \times 1024$。
+其中`<size>`替换为之前计算出的 $共享内存大小\times 1024 \times 1024$ 。
 
 然后关闭虚拟显卡，在`<devices>`中查找`<video>`，修改为：
 
