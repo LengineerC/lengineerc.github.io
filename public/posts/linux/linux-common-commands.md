@@ -40,14 +40,14 @@ tags:
 - `sed '3c hello' file` 替换第3行
 ## 常用组合
 ### &
-```shell
+```bash
 echo 'hello 123 world' | sed -E 's/[0-9]+/[&]/'
 hello [123] world
 ```
 `&` 表示整个正则匹配到的内容（用于不想改变匹配内容本身，只想在其前后添加东西）
 
 ### 捕获组
-```shell
+```bash
 echo "hello world" | sed -E 's/(hello) (world)/\2 \1/'
 world hello
 ```
@@ -72,7 +72,7 @@ world hello
 
 ## 计算
 ### 求和
-```shell
+```bash
 > awk '{sum += $1} END {print sum}' file
 10
 20
@@ -86,7 +86,7 @@ world hello
 `awk '{sum += $1} END {print sum}'`
 
 ### 统计
-```shell
+```bash
 awk '{count[$1]++} END {for (x in count) print x, count[x]}' file
 apple
 apple
@@ -100,7 +100,7 @@ banana 2
 ```
 
 ### 命令结构
-```shell
+```bash
 awk '
 BEGIN {
     print "开始"
@@ -114,7 +114,7 @@ END {
 ' file
 ```
 执行顺序
-```shell
+```bash
 BEGIN
    ↓
 逐行读取文件
