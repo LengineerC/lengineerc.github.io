@@ -11,9 +11,9 @@ tags:
   - React
 ---
 
-## 使用场景
+# 使用场景
 在使用`React router dom`进行路由切换的时候，视图会直接切换，导致观感过于生硬，由此可以添加过渡动画，使过渡更加平滑。以下是两种可能的实现方案以供参考
-### 组件懒加载+`Suspense`
+## 组件懒加载+`Suspense`
 `React`组件在被挂载可视前会执行一系列生命周期函数，如果待加载的组件被`Suspense`组件包裹，那组件在加载完毕前会被`Suspense`中设置的组件替代显示。
 ```jsx
 <Suspense fallback={<Loading/>}>
@@ -121,13 +121,13 @@ export default function Loading() {
 }
 ```
 然后在`componentDidMount`时添加`fade-in`，在`componentWillUnMount`的时候添加`fade-out`实现`Loading`组件本身的过渡效果，后面测试时发现这种方法并不可行，经过搜索和自己测试，最终采取了下面的方式解决。
-### 使用`react-transition-group`库
+## 使用`react-transition-group`库
 [react-transition-group]([react-transition-group - npm](https://www.npmjs.com/package/react-transition-group))是管理组件的挂载和卸载，并提供生命周期钩子来应用CSS动画或JavaScript动画的库，使用其可以实现比较完美的过渡动画
-#### 安装
+### 安装
 ```shell
 npm install react-transition-group --save
 ```
-#### 使用
+### 使用
 创建两个state用于管理动画状态
 ```TSX
 const [isLoading, setIsLoading] = useState(false);
