@@ -1,119 +1,135 @@
 [
   {
-    "id": "kvm_gpu_direct_connection",
+    "id": "linux/linux-common-commands",
+    "tags": [
+      "Linux",
+      "Shell"
+    ],
+    "category": "linux",
+    "top": true,
+    "author": "LengineerC",
+    "time": "2026-08-25 17:39:17",
+    "lock": false,
+    "password": "",
+    "title": "Linux常用命令",
+    "abstract": "grep -i, --ignore-case 忽略大小写 -n 显示行号 -v 反向匹配 -R 递归搜索目录 -o, --only-matching 仅打印匹配的文本 -E, --extended regexp 扩展正则（替代旧的egrep） -c 统计匹配行数 -l 只显示哪些文件匹配，不显示匹配内容 -H 正常显示匹配内容，同时在每一行前显示文件名 常用组合 grep -Hn --color=auto 打印每个匹配项的文件名和行号，并带彩色输出 sed sed 's/old/new/' fi...",
+    "contentPath": "/generated/posts/linux/linux-common-commands.json"
+  },
+  {
+    "id": "linux/kvm_gpu_direct_connection",
     "tags": [
       "KVM",
       "Linux"
     ],
     "category": "linux",
     "top": true,
-    "title": "KVM-QEMU配置显卡直通以及性能优化",
     "author": "LengineerC",
     "time": "2026-04-25 21:04:19",
     "lock": false,
     "password": "",
+    "title": "KVM-QEMU配置显卡直通以及性能优化",
     "abstract": "本文为热切换显卡直通和KVM虚拟机在天选4笔记本的实践记录。 近日突发奇想想用linux玩洛克王国，可惜腾讯ACE支持SteamOS也不给Arch添加白名单。在使用proton转译之后，还是无法正常打开游戏，最后还是只能使用在linux上运行windows虚拟机的方式来运行。 安装 先简单说明一下KVM以及QEMU的关系：KVM是虚拟机引擎，可以直接调用物理CPU硬件虚拟化指令执行计算以及硬件加速。QEMU则是负责硬件模拟（主板，显卡，网卡等），QEMU也可以模拟CPU,但是如果采用纯软件的方式...",
-    "path": "/posts/linux/kvm_gpu_direct_connection.md"
+    "contentPath": "/generated/posts/linux/kvm_gpu_direct_connection.json"
   },
   {
-    "id": "claude-code-installation",
+    "id": "AI/claude-code-installation",
     "tags": [
       "Claude Code",
       "AI"
     ],
     "category": "AI",
     "top": false,
-    "title": "Claude Code安装并使用第三方API",
     "author": "LengineerC",
     "time": "2026-03-27 22:35:55",
     "lock": false,
     "password": "",
+    "title": "Claude Code安装并使用第三方API",
     "abstract": "记录一下Claude Code安装方式以及使用中转站API的小坑",
-    "path": "/posts/AI/claude-code-installation.md"
+    "contentPath": "/generated/posts/AI/claude-code-installation.json"
   },
   {
-    "id": "neovide-vscode-cursor",
+    "id": "前端/neovide-vscode-cursor",
     "tags": [
       "前端",
       "美化",
       "VSCode"
     ],
     "category": "前端",
-    "top": true,
-    "title": "VSCode的仿Neovide光标动画",
+    "top": false,
     "author": "LengineerC",
     "time": "2026-03-25 22:08:38",
     "lock": false,
     "password": "",
+    "title": "VSCode的仿Neovide光标动画",
     "abstract": "在VSCode中基于Custom Css and JS Loader复刻Neovide的灵魂之一的光标动画",
-    "path": "/posts/前端/neovide-vscode-cursor.md"
+    "contentPath": "/generated/posts/%E5%89%8D%E7%AB%AF/neovide-vscode-cursor.json"
   },
   {
-    "id": "rust-node-event-emitter",
+    "id": "rust/rust-node-event-emitter",
     "tags": [
-      "rust",
+      "Rust",
       "事件总线"
     ],
     "category": "rust",
     "top": false,
-    "title": "Rust仿node事件总线的简单实现",
     "author": "LengineerC",
     "time": "2025-11-25 16:25:17",
     "lock": false,
     "password": "",
+    "title": "Rust仿node事件总线的简单实现",
     "abstract": "前端开发学习rust中不得不品的一环....",
-    "path": "/posts/rust/rust-node-event-emitter.md"
+    "contentPath": "/generated/posts/rust/rust-node-event-emitter.json"
   },
   {
-    "id": "react-router-transition",
+    "id": "前端/react-router-transition",
     "tags": [
       "前端",
       "React"
     ],
     "category": "前端",
     "top": false,
-    "title": "React添加路由切换过渡动画",
     "author": "LengineerC",
     "time": "2025-04-28 13:26:58",
     "lock": false,
     "password": "",
+    "title": "React添加路由切换过渡动画",
     "abstract": "本网站初版加载动画解决方案",
-    "path": "/posts/前端/react-router-transition.md"
+    "contentPath": "/generated/posts/%E5%89%8D%E7%AB%AF/react-router-transition.json"
   },
   {
-    "id": "raspi4b-hostapd-5g-hotspot",
+    "id": "技术整活/raspi4b-hostapd-5g-hotspot",
     "tags": [
       "树莓派",
       "硬件"
     ],
     "category": "技术整活",
     "top": false,
-    "title": "树莓派4B使用hostapd开启5G热点",
     "author": "LengineerC",
     "time": "2025-03-03 14:04:51",
     "lock": false,
     "password": "",
+    "title": "树莓派4B使用hostapd开启5G热点",
     "abstract": "被校园网连接数折磨之后想出来的邪修解决方案（树莓派最有用的一集）",
-    "path": "/posts/技术整活/raspi4b-hostapd-5g-hotspot.md"
+    "contentPath": "/generated/posts/%E6%8A%80%E6%9C%AF%E6%95%B4%E6%B4%BB/raspi4b-hostapd-5g-hotspot.json"
   },
   {
-    "id": "react-context-singleton",
+    "id": "前端/react-context-singleton",
     "tags": [
       "前端",
       "React"
     ],
     "category": "前端",
     "top": false,
-    "title": "React使用Context创建对象单例",
     "author": "LengineerC",
     "time": "2025-01-02 12:07:58",
     "lock": false,
     "password": "",
+    "title": "React使用Context创建对象单例",
     "abstract": "经典设计模式的React实现",
-    "path": "/posts/前端/react-context-singleton.md"
+    "contentPath": "/generated/posts/%E5%89%8D%E7%AB%AF/react-context-singleton.json"
   },
   {
-    "id": "toki-pona-guide",
+    "id": "语言学/toki-pona-guide",
     "tags": [
       "道本语",
       "语言学",
@@ -121,28 +137,28 @@
     ],
     "category": "语言学",
     "top": true,
-    "title": "道本语教程",
     "author": "LengineerC",
     "time": "2025-01-01 20:14:46",
     "lock": false,
     "password": "",
+    "title": "道本语教程",
     "abstract": "该教程全程使用IPA宽式记音，具体音标发音参见IPA Chart 概述 道本语是一种由加拿大翻译员 Sonja Lang 创造的人工语言。在 2001年夏天首次在网上公布。以极度少量的词汇来满足生活中的基本表达，人造语(Conlang)圈内广为人知，词汇来源于:英语、荷兰语、芬兰语、格鲁吉亚语、汉语(官话和粤语)、世界语、克罗地亚语、阿卡迪亚语、法语、巴布亚皮钦语、日语等等。是一门十分简单的语言。 (也是十分啰嗦的一门语言 说白了就是一种行为艺术 ) 官网： 英语资源 : 语音 道本语语音系统极...",
-    "path": "/posts/语言学/toki-pona-guide.md"
+    "contentPath": "/generated/posts/%E8%AF%AD%E8%A8%80%E5%AD%A6/toki-pona-guide.json"
   },
   {
-    "id": "wx-pull-up-pull-down",
+    "id": "前端/wx-pull-up-pull-down",
     "tags": [
       "前端",
       "微信小程序"
     ],
     "category": "前端",
     "top": false,
-    "title": "微信小程序实现上拉加载下拉刷新",
     "author": "LengineerC",
     "time": "2024-06-29 22:14:34",
     "lock": false,
     "password": "",
+    "title": "微信小程序实现上拉加载下拉刷新",
     "abstract": "Taro UI ScrollView组件一个简单使用场景",
-    "path": "/posts/前端/wx-pull-up-pull-down.md"
+    "contentPath": "/generated/posts/%E5%89%8D%E7%AB%AF/wx-pull-up-pull-down.json"
   }
 ]

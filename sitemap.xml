@@ -68,67 +68,79 @@
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/kvm_gpu_direct_connection</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/linux/linux-common-commands</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/claude-code-installation</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/linux/kvm_gpu_direct_connection</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/neovide-vscode-cursor</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/AI/claude-code-installation</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/rust-node-event-emitter</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/%E5%89%8D%E7%AB%AF/neovide-vscode-cursor</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/react-router-transition</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/rust/rust-node-event-emitter</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/raspi4b-hostapd-5g-hotspot</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/%E5%89%8D%E7%AB%AF/react-router-transition</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/react-context-singleton</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/%E6%8A%80%E6%9C%AF%E6%95%B4%E6%B4%BB/raspi4b-hostapd-5g-hotspot</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/toki-pona-guide</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/%E5%89%8D%E7%AB%AF/react-context-singleton</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/wx-pull-up-pull-down</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/%E8%AF%AD%E8%A8%80%E5%AD%A6/toki-pona-guide</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/tags/KVM</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/%E5%89%8D%E7%AB%AF/wx-pull-up-pull-down</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://blog.lengineerc.com/#/tags/Linux</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/Shell</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.lengineerc.com/#/tags/KVM</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -164,7 +176,7 @@
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/tags/rust</loc>
+    <loc>https://blog.lengineerc.com/#/tags/Rust</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

@@ -11,7 +11,7 @@ tags:
   - AI
 ---
 
-## 安装
+# 安装
 通过[Claude Code官网](https://code.claude.com/docs/zh-CN/overview)提供的命令行安装：
 - mac, linux
 ```bash
@@ -24,7 +24,7 @@ irm https://claude.ai/install.ps1 | iex
 ```
 没什么好说的，等他下载完就行。
 
-## 配置第三方API
+# 配置第三方API
 我用的是[cc-switch](https://github.com/farion1231/cc-switch)。打开后新建供应商，填写API Key。
 
 **重点：填写请求地址的时候一定不要以斜杠结尾，而且不要携带请求地址中的v1**
