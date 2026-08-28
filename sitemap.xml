@@ -68,13 +68,13 @@
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/linux/linux-common-commands</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/Linux/linux-common-commands</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/linux/kvm_gpu_direct_connection</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/Linux/kvm_gpu_direct_connection</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -92,7 +92,7 @@
   </url>
 
   <url>
-    <loc>https://blog.lengineerc.com/#/post/detail/rust/rust-node-event-emitter</loc>
+    <loc>https://blog.lengineerc.com/#/post/detail/Rust/rust-node-event-emitter</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
