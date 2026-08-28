@@ -1,12 +1,12 @@
 {
-  "linux": [
+  "Linux": [
     {
-      "id": "linux/linux-common-commands",
+      "id": "Linux/linux-common-commands",
       "tags": [
         "Linux",
         "Shell"
       ],
-      "category": "linux",
+      "category": "Linux",
       "top": true,
       "author": "LengineerC",
       "time": "2026-08-25 17:39:17",
@@ -14,15 +14,15 @@
       "password": "",
       "title": "Linux常用命令",
       "abstract": "grep -i, --ignore-case 忽略大小写 -n 显示行号 -v 反向匹配 -R 递归搜索目录 -o, --only-matching 仅打印匹配的文本 -E, --extended regexp 扩展正则（替代旧的egrep） -c 统计匹配行数 -l 只显示哪些文件匹配，不显示匹配内容 -H 正常显示匹配内容，同时在每一行前显示文件名 常用组合 grep -Hn --color=auto 打印每个匹配项的文件名和行号，并带彩色输出 sed sed 's/old/new/' fi...",
-      "contentPath": "/generated/posts/linux/linux-common-commands.json"
+      "contentPath": "/generated/posts/Linux/linux-common-commands.json"
     },
     {
-      "id": "linux/kvm_gpu_direct_connection",
+      "id": "Linux/kvm_gpu_direct_connection",
       "tags": [
         "KVM",
         "Linux"
       ],
-      "category": "linux",
+      "category": "Linux",
       "top": true,
       "author": "LengineerC",
       "time": "2026-04-25 21:04:19",
@@ -30,7 +30,7 @@
       "password": "",
       "title": "KVM-QEMU配置显卡直通以及性能优化",
       "abstract": "本文为热切换显卡直通和KVM虚拟机在天选4笔记本的实践记录。 近日突发奇想想用linux玩洛克王国，可惜腾讯ACE支持SteamOS也不给Arch添加白名单。在使用proton转译之后，还是无法正常打开游戏，最后还是只能使用在linux上运行windows虚拟机的方式来运行。 安装 先简单说明一下KVM以及QEMU的关系：KVM是虚拟机引擎，可以直接调用物理CPU硬件虚拟化指令执行计算以及硬件加速。QEMU则是负责硬件模拟（主板，显卡，网卡等），QEMU也可以模拟CPU,但是如果采用纯软件的方式...",
-      "contentPath": "/generated/posts/linux/kvm_gpu_direct_connection.json"
+      "contentPath": "/generated/posts/Linux/kvm_gpu_direct_connection.json"
     }
   ],
   "AI": [
@@ -118,14 +118,14 @@
       "contentPath": "/generated/posts/%E5%89%8D%E7%AB%AF/wx-pull-up-pull-down.json"
     }
   ],
-  "rust": [
+  "Rust": [
     {
-      "id": "rust/rust-node-event-emitter",
+      "id": "Rust/rust-node-event-emitter",
       "tags": [
         "Rust",
         "事件总线"
       ],
-      "category": "rust",
+      "category": "Rust",
       "top": false,
       "author": "LengineerC",
       "time": "2025-11-25 16:25:17",
@@ -133,7 +133,7 @@
       "password": "",
       "title": "Rust仿node事件总线的简单实现",
       "abstract": "前端开发学习rust中不得不品的一环....",
-      "contentPath": "/generated/posts/rust/rust-node-event-emitter.json"
+      "contentPath": "/generated/posts/Rust/rust-node-event-emitter.json"
     }
   ],
   "技术整活": [
