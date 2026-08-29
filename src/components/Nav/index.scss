@@ -1,0 +1,250 @@
+@use '../../styles/base.scss' as *;
+@use '../../styles/page_layout.scss' as *;
+
+.nav {
+  height: $navHeight;
+  width: 100%;
+  max-width: 100vw;
+  z-index: 1020;
+
+  transition: transform 0.3s ease;
+  background-color: $navBackgroundColor;
+  color: black;
+  transform: translateY(0);
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+  -webkit-transform: translateZ(0);
+  touch-action: manipulation;
+  transition: 0.3s;
+  backdrop-filter: blur(5px);
+}
+
+.nav-transparent {
+  transition: 0.3s;
+  background-color: transparent !important;
+  backdrop-filter: blur(0);
+}
+
+.hidden-nav {
+  transform: translateY(-$navHeight);
+}
+
+// .nav-content {
+//   display: flex;
+//   flex-direction: row;
+//   justify-content: space-evenly;
+// }
+
+// .nav-content-container {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+//   text-align: center;
+//   height: $navHeight;
+// }
+
+.nav-content {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 5vw;
+  width: 100%;
+}
+
+.nav-content-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: $navHeight;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.nav-content-container:first-child {
+  justify-self: center;
+}
+
+
+.nav-center-col {
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+  text-align: center;
+  height: $navHeight;
+}
+
+.nav-content-container:last-child {
+  justify-self: center;
+}
+
+.sub-menu {
+  @extend .hv-center;
+  flex-direction: column;
+  position: absolute;
+  background-color: rgba(232, 232, 232, 0.8);
+  top: 100%;
+  width: 1.5 * $navHeight;
+  border-radius: 7px;
+  height: auto;
+  animation: sub-menu-animation-in 0.15s linear;
+  backdrop-filter: blur(5px);
+
+  &.fade-out {
+    animation: none;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-10px);
+  }
+
+  .sub-menu-item {
+    @extend .hv-center;
+    font-size: .9rem;
+    flex-direction: column;
+    height: 30px;
+    width: 100%;
+    color: rgb(0, 20, 71);
+    transition: 0.3s;
+    border-radius: 7px;
+    user-select: none;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+
+    a {
+      font-family: $customFontFamily;
+      text-decoration: none;
+      color: $postColor;
+    }
+  }
+}
+
+@keyframes sub-menu-animation-in {
+  from {
+    opacity: 0;
+    // transform: translateY(-150px);
+    // transform: translateY(10px);
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes sub-menu-animation-out {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(-10px);
+    display: none;
+  }
+}
+
+.click-container {
+  display: flex;
+  color: white;
+  user-select: none;
+  font-size: 20px;
+  transition: 0.3s;
+  height: $navHeight;
+  justify-content: center;
+  align-items: center;
+  width: 1.4 * $navHeight;
+  padding: 0 3px;
+  border-radius: 3px;
+  border: 0;
+  background: transparent;
+  font-family: $customFontFamily;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  touch-action: manipulation;
+
+  &:hover {
+    background-color: rgba(0, 128, 225, 0.7);
+    // transform: scale(1.1);
+  }
+
+  // text-shadow: 1px 1px 5px black;
+
+  .nav-click-text-container {
+    font-size: 1rem;
+    margin-left: 5px;
+
+    .nav-click-text-icon {
+      margin-left: 4px;
+    }
+  }
+}
+
+.nav-tool-click-container {
+  display: flex;
+  color: white;
+  font-size: 19px;
+  transition: 0.3s;
+  height: $navHeight;
+  justify-content: center;
+  align-items: center;
+  width: $navHeight;
+  cursor: pointer;
+  user-select: none;
+  padding: 0 5px;
+
+  &:hover {
+    transform: scale(1.2);
+  }
+}
+
+//移动端隐藏Nav
+@media screen and (max-width: $mobileMaxWidth),
+screen and (hover: none) and (pointer: coarse) {
+  .nav {
+    transform: translateY(-$navHeight);
+    transition: transform 0s ease;
+    display: none;
+  }
+}
+
+// 夜间模式
+.nav-dark {
+  @extend .nav;
+  background-color: transparentize($themeBackgroundColor-dark, 0.4);
+}
+
+.sub-menu-dark {
+  @extend .sub-menu;
+  background-color: transparentize($themeBackgroundColor-dark, 0.4);
+
+  .sub-menu-item-dark {
+    @extend .sub-menu-item;
+
+    a {
+      font-family: $customFontFamily;
+      text-decoration: none;
+      color: #fff;
+    }
+  }
+}
+
+.click-container-dark {
+  @extend .click-container;
+
+  &:hover {
+    background-color: rgba(96, 75, 172, 0.7);
+  }
+}

@@ -1,0 +1,32 @@
+$textColor: #fff;
+
+//导航栏高度
+$navHeight: 60px;
+
+//移动端设备最大宽度
+$mobileMaxWidth: 992px;
+
+// Comic Sans MS + 圆体中文整合字体，以及整合字体缺字时的回退顺序
+$customFontFallback: 'Comic Sans MS', 'YouYuan', '幼圆', 'Yuanti SC', 'PingFang SC',
+  'Microsoft YaHei', system-ui, sans-serif;
+$customFontFamily: 'CustomFont1', $customFontFallback;
+$customFullFontFamily: 'CustomFont1Full', $customFontFallback;
+
+//浅色主题背景色
+$themeBackgroundColor: #67abff;
+
+//深色模式背景主题色
+$themeBackgroundColor-dark: #393958;
+$dark-highlight-color: #29b839;
+
+// 文章字体颜色
+$postColor: #1f1e33;
+$postColor-dark: #ffffffcc;
+
+//Nav栏背景色
+// $navBackgroundColor:rgba(211, 236, 255, 0.65);
+$navBackgroundColor: mix(transparentize($themeBackgroundColor, 0.3), rgba(0, 0, 0, 0.1), 75%);
+
+//Footer背景色
+// $footerBackgroundColor:rgba(178, 196, 210, 0.7);
+$footerBackgroundColor: mix(transparentize($themeBackgroundColor, 0.3), rgba(0, 0, 0, 0.1));

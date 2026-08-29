@@ -1,0 +1,50 @@
+html {
+  min-height: 100%;
+  font-size: 17px;
+}
+
+html,
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  font-family: 'CustomFont1', 'Comic Sans MS', 'YouYuan', '幼圆', 'Yuanti SC', 'PingFang SC',
+    'Microsoft YaHei', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+@supports (overflow: clip) {
+  body {
+    overflow-x: clip;
+  }
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.mobile-toolbar button {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}

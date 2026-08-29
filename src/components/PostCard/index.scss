@@ -1,0 +1,119 @@
+@use '../../styles/base.scss' as *;
+@use '../../styles/page_layout.scss' as *;
+
+.post-card-main {
+  // background-color: black;
+  display: flex;
+  flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+  font-family: $customFontFamily;
+  width: 100%;
+
+  .hr-dashed {
+    width: 100%;
+    color: #fff;
+    border: 1px dashed #fff;
+  }
+  .hr-dashed-dark {
+    width: 100%;
+    color: #a0a0a0bb;
+    border: 1px dashed #a0a0a0bb;
+  }
+
+  .hr-double {
+    border: 0;
+    margin: 20px 0 0 0;
+    border-top: 3px double #fff;
+  }
+  .hr-double-dark {
+    border: 0;
+    margin: 20px 0 0 0;
+    border-top: 3px double #a0a0a0bb;
+  }
+}
+
+.post-card-title {
+  padding-left: 10px;
+  font-size: 20px;
+  color: $postColor;
+  font-weight: bold;
+  text-align: center;
+}
+
+.post-card-content {
+  color: $postColor;
+}
+
+.post-card-footer {
+  display: flex;
+  min-width: 0;
+  align-items: flex-start;
+  gap: 8px 20px;
+  justify-content: space-between;
+  margin-top: 10px;
+  color: $postColor;
+
+  .post-card-tags-block {
+    display: flex;
+    min-width: 0;
+    max-width: calc(67% - 20px);
+    flex: 1 1 calc(67% - 20px);
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: flex-end;
+
+    .post-card-tag-container {
+      min-width: 0;
+      max-width: 100%;
+    }
+  }
+
+  .post-card-categories-block {
+    display: flex;
+    min-width: 0;
+    max-width: 33%;
+    flex: 0 1 33%;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: flex-start;
+
+    .post-card-category-container {
+      min-width: 0;
+      max-width: 100%;
+      overflow-wrap: anywhere;
+    }
+  }
+}
+
+@media screen and (max-width: $mobileMaxWidth) {
+  .post-card-footer {
+    gap: 8px;
+
+    .post-card-tags-block {
+      max-width: calc(67% - 8px);
+      flex-basis: calc(67% - 8px);
+    }
+
+    .post-card-categories-block {
+      max-width: 33%;
+      flex-basis: 33%;
+    }
+  }
+}
+
+// 夜间模式
+.post-card-title-dark {
+  @extend .post-card-title;
+  color: $postColor-dark;
+}
+
+.post-card-content-dark {
+  @extend .post-card-content;
+  color: $postColor-dark;
+}
+
+.post-card-footer-dark {
+  @extend .post-card-footer;
+  color: $postColor-dark;
+}

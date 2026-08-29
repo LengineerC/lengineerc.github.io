@@ -1,0 +1,17 @@
+.ant-float-btn-group-square .ant-float-btn-square:first-child {
+    border-radius: 0;
+}
+
+.float-btn {
+    margin: 3px 0;
+    border-radius: 7px !important;
+}
+
+.float-btn-group {
+    right: max(24px, calc(env(safe-area-inset-right) + 16px)) !important;
+    bottom: max(24px, calc(env(safe-area-inset-bottom) + 16px)) !important;
+    z-index: 1200;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    touch-action: manipulation;
+}
