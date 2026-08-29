@@ -11,9 +11,9 @@ tags:
   - React
 ---
 
-# 前言
+## 前言
 单例模式在许多工程中被大幅使用，其提供了一个全局访问点来操作一个实例，从而节省资源。在`React`中有许多知名第三方库也采用了这种设计模式，比如`Redux`。最近就碰到一个需求，要求实现的就是整个`React`项目中只能创建一个`WebSocket`实例，并且还要给不同组件调用。翻了翻`React`官方文档，发现使用`useContext`可以很好的满足该需求，于是记录下单例的一个固定写法。
-# 构建单例
+## 构建单例
 创建类
 ```javascript
 export default class Singleton{
@@ -55,7 +55,7 @@ export function SingletonProvider({children}){
 }
 ```
 这样就创建了一个单例对象了
-## 测试准备
+### 测试准备
 因为函数式组件和类式组件调用方式不同，因此分别创建创建两个测试组件
 
 函数式组件
@@ -102,8 +102,8 @@ function App() {
 
 export default App;
 ```
-# 使用单例
-## 函数式组件
+## 使用单例
+### 函数式组件
 函数式组件使用刚刚创建的`useSingleton`钩子即可，该函数的返回值便是之前创建的实例对象，并且添加按钮用于改变`singleton.value`的值
 ```JSX
 import React from 'react';
@@ -139,7 +139,7 @@ export default function FunctionComponent() {
 	);
 }
 ```
-## 类式组件
+### 类式组件
 类式组件调用单例相对函数式组件有点复杂，因为**类式组件不能使用钩子函数**。但是类式组件继承的父类：`React.Component`中有一个静态属性`contextType`用于设置组件的上下文，设置上下文之后便可以使用`this.context`来获取上下文的值了
 `React.Component`的部分源码：
 ```typescript
@@ -224,7 +224,7 @@ export default class ClassComponent extends Component {
   }
 }
 ```
-# 开始测试
+## 开始测试
 首先分别查看两个组件中的单例初始值
 ![1.png](https://s2.loli.net/2025/05/06/Umaw3WTGfxC8ADz.png)
 
@@ -237,5 +237,5 @@ export default class ClassComponent extends Component {
 两个组件中的值都变为了2，由此可以说明它们使用的是同一个对象
 > **需要注意的是上下文的值并不是响应式变量，不能触发页面更新！**
 
-# 参考链接
+## 参考链接
 https://zh-hans.react.dev/reference/react/createContext

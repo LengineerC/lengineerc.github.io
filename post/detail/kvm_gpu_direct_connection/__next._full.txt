@@ -1,0 +1,631 @@
+1:"$Sreact.fragment"
+2:I[36763,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default"]
+3:I[39756,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default"]
+4:I[37457,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default"]
+5:I[94943,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js","/_next/static/chunks/1f0-jlcvu3peu.js"],"default"]
+b:I[68027,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default",1]
+:HL["/_next/static/chunks/2nqzrr1k17b77.css","style"]
+:HL["/_next/static/chunks/1j1nz1m8ssi9v.css","style"]
+:HL["/_next/static/chunks/31r2grztmvylx.css","style"]
+:HL["/_next/static/chunks/1mkyb6ha7m1fd.css","style"]
+:HL["/_next/static/chunks/3n3kbmdy45-cn.css","style"]
+:HL["/_next/static/chunks/2fuggdtidgq-j.css","style"]
+:HL["/_next/static/chunks/2pplp-n2-ksz_.css","style"]
+:HL["/_next/static/chunks/085yk5cb1qxwu.css","style"]
+:HL["/generated/font-subset.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/_next/static/chunks/1l-m-8xqhufo2.css","style"]
+9:X
+0:{"P":null,"c":["","post","detail","kvm_gpu_direct_connection",""],"q":"","i":false,"f":[[["",{"children":["post",{"children":["detail",{"children":[["slug","kvm_gpu_direct_connection","c",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2nqzrr1k17b77.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05zdfvmr9uzu7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1u_ur6nk-ac7v.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1vtppmabffa-n.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1vtieaz8wy-qs.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/1w2mylgmi_mxn.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/43vp5uuq0rysp.js","async":true,"nonce":"$undefined"}],["$","script","script-6",{"src":"/_next/static/chunks/3i5y3n66uph4o.js","async":true,"nonce":"$undefined"}],["$","script","script-7",{"src":"/_next/static/chunks/38rfc5cjod16a.js","async":true,"nonce":"$undefined"}],["$","script","script-8",{"src":"/_next/static/chunks/2-at84_iyz43q.js","async":true,"nonce":"$undefined"}],["$","script","script-9",{"src":"/_next/static/chunks/1oc3088uq_8wb.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/generated/font-subset.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","style",null,{"children":"@font-face{font-family:'CustomFont1';src:url('/generated/font-subset.woff2') format('woff2');font-display:swap;font-style:normal;font-weight:400}"}]]}],["$","body",null,{"children":[["$","style",null,{"id":"bodyStyle"}],["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"route-page-enter","children":["$","$L4",null,{}]}],"templateStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1j1nz1m8ssi9v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"templateScripts":null,"notFound":[["$","$L5",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3n3kbmdy45-cn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/31r2grztmvylx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/1l-m-8xqhufo2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1j1nz1m8ssi9v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"route-page-enter","children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/31r2grztmvylx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/1mkyb6ha7m1fd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3n3kbmdy45-cn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2fuggdtidgq-j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/2pplp-n2-ksz_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/085yk5cb1qxwu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2hy0vgz84yk4-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14p2r5knx4xeo.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1m0bxqw09sr4h.js","async":true,"nonce":"$undefined"}],"$L7"],"$L8"]}],{},null,false,null]},null,false,"$9"]},null,false,"$9"]},null,false,"$9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"d5shaKPgI6wPKhjMq9b4v"}
+d:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"MetadataBoundary"]
+7:["$","script","script-3",{"src":"/_next/static/chunks/1-870vhwgf5_8.js","async":true,"nonce":"$undefined"}]
+8:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L13"}]}]}],null]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2nqzrr1k17b77.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:I[94402,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js","/_next/static/chunks/2hy0vgz84yk4-.js","/_next/static/chunks/14p2r5knx4xeo.js","/_next/static/chunks/1m0bxqw09sr4h.js","/_next/static/chunks/1-870vhwgf5_8.js"],"default"]
+9:C
+15:Tfb57,<blockquote>
+<p>本文为<a href="https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/wiki/%E7%83%AD%E5%88%87%E6%8D%A2%E6%98%BE%E5%8D%A1%E7%9B%B4%E9%80%9A">热切换显卡直通</a>和<a href="https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/wiki/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA">KVM虚拟机</a>在天选4笔记本的实践记录。</p>
+</blockquote>
+<p>近日突发奇想想用linux玩洛克王国，可惜腾讯ACE支持SteamOS也不给Arch添加白名单。在使用proton转译之后，还是无法正常打开游戏，最后还是只能使用在linux上运行windows虚拟机的方式来运行。</p>
+<h2 id="heading-0" data-id="heading-0">安装</h2>
+<p>先简单说明一下KVM以及QEMU的关系：KVM是虚拟机引擎，可以直接调用物理CPU硬件虚拟化指令执行计算以及硬件加速。QEMU则是负责硬件模拟（主板，显卡，网卡等），QEMU也可以模拟CPU,但是如果采用纯软件的方式翻译执行CPU指令，性能会极其低下，因此需要两者结合。QEMU负责指令转发，KVM负责调用物理硬件从而提高执行效率。</p>
+<p>先安装QEMU本体以及其依赖组件</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20pacman%20-S%20qemu-full%20virt-manager%20swtpm%20dnsmasq"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> pacman -S qemu-full virt-manager swtpm dnsmasq</span>
+          </div></code>
+</code></pre><p>之后开启<a href="https://wiki.archlinux.org.cn/title/Libvirt">libvirt</a>守护进程，其作用是提供了一种管理虚拟机和其他虚拟化功能（如存储和网络接口管理）的便捷方式。这些软件包括一个长期稳定的 C API、一个守护进程 (libvirtd) 和一个命令行实用程序 (virsh)。libvirt 的主要目标是为管理多个不同的虚拟化提供商/Hypervisor 提供统一的接口。</p>
+<p>再开启NAT, 以便后续直接通过桥接的方式分享网络给虚拟机</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20virsh%20net-start%20default%0Asudo%20virsh%20net-autostart%20default"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh net-start default</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh net-autostart default</span>
+          </div></code>
+</code></pre><p>再给当前用户添加组权限</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20usermod%20-a%20-G%20libvirt%20%24(whoami)"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> usermod -a -G libvirt $(<span class="hljs-built_in">whoami</span>)</span>
+          </div></code>
+</code></pre><h3 id="heading-1" data-id="heading-1">镜像下载</h3>
+<p>本文使用的系统是Win11, 可以去<a href="https://next.itellyou.cn/Original/Index">MSDN</a>上面下载，此外还需要一个类似VMWare Tools的镜像，用于安装系统时自动检测硬件，安装后自动安装驱动以及分辨率适配：<a href="https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/?C=M;O=D">virtio-win-tools</a>下载最新的iso即可。</p>
+<h2 id="heading-2" data-id="heading-2">创建虚拟机</h2>
+<p><em>当前虚拟机只是用来打游戏，暂时没有配置文件共享的需求。有需要的可以自行去原文链接配置。</em>
+在创建虚拟机的最后一步，需要点击<strong>在安装前自定义配置</strong>的选项。在创建虚拟机之后，需要更进一步的设置。</p>
+<h3 id="heading-3" data-id="heading-3">CPU</h3>
+<p>想要最大优化虚拟机的性能，CPU配置必须拉满。我的R9-7940H就是8核心16线程。虚拟机的CPU也可以直接复刻参数，不要超过实际参数大小即可。
+<img data-markdown-image="true" src="https://files.seeusercontent.com/2026/04/25/mwX8/cpu-setting.png" alt="cpu-setting.png"></p>
+<h3 id="heading-4" data-id="heading-4">内存</h3>
+<p>我设置的是我物理内存一半的大小（32GB / 2 = 16GB），记得选中<strong>启用共享内存</strong>。</p>
+<h3 id="heading-5" data-id="heading-5">磁盘</h3>
+<p>虚拟机创建的硬盘设置为<code>VirtIO</code>。其余系统镜像盘之类的保持默认<code>SATA CDROM</code>。</p>
+<h3 id="heading-6" data-id="heading-6">网络接口</h3>
+<p>设备型号也是设置为<code>VirtIO</code>。同时设置网络源为<strong>桥接</strong>。</p>
+<p><img data-markdown-image="true" src="https://files.seeusercontent.com/2026/04/25/bf1O/nic-setting.png" alt="nic-setting.png"></p>
+<p>目前就设置这些内容，其他的安装完系统之后再进行设置。</p>
+<h3 id="heading-7" data-id="heading-7">安装系统</h3>
+<p>没啥好说的，和平时装系统一样修改引导顺序进入安装引导点下一步即可。只需要注意一点，在选择安装Windows11的位置这个界面的时候，可能不会显示新建虚拟机时创建的磁盘，需要手动点击加载驱动（Load Driver）, 选择<code>virtio-win</code>的驱动盘，进入<code>viostor</code>文件夹，选择<code>w11</code>下的<code>amd64</code>。选中后点击自动安装磁盘驱动，就可以选中创建虚拟机时的硬盘了。</p>
+<p>安装完成后，在文件管理器中进入<code>virtio-win</code>的驱动盘，里面有个<code>virtio-win-guest-tools.exe</code>，右键管理员运行，进度条跑完后则完成基础安装，然后关机。</p>
+<h2 id="heading-8" data-id="heading-8">显卡直通</h2>
+<blockquote>
+<p>该显卡直通基于双显卡（核显+独显），单显卡直通请自行另查教程</p>
+</blockquote>
+<p>前提：<strong>华硕电脑务必开启混合模式（Windows默认）</strong>，有外接显示器的把连接线插在<strong>核显输出口</strong>（不然会黑屏）。使用命令<code>sudo dmesg | grep -e DMAR -e IOMMU</code>检查是否开启IOMMU（有输出即可）。调整完成后最好自己检查一下笔记本自带屏幕在内的所有屏幕是否都是核显输出。<strong>一定要确认之后再进行后续步骤！！！</strong></p>
+<h3 id="heading-9" data-id="heading-9">确定文件名</h3>
+<p>查看nvidia的<code>drm</code>文件名</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="ls%20-l%20%2Fsys%2Fclass%2Fdrm%2Fcard*%2Fdevice%2Fdriver%0Als%20-l%20%2Fsys%2Fclass%2Fdrm%2Frender*%2Fdevice%2Fdriver"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">ls</span> -l /sys/class/drm/card*/device/driver</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">ls</span> -l /sys/class/drm/render*/device/driver</span>
+          </div></code>
+</code></pre><p>类似输出：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="lrwxrwxrwx%201%20root%20root%200%20%204%E6%9C%8825%E6%97%A5%2020%3A54%20%2Fsys%2Fclass%2Fdrm%2Fcard0%2Fdevice%2Fdriver%20-%3E%20..%2F..%2F..%2F..%2Fbus%2Fpci%2Fdrivers%2Fnvidia%0Alrwxrwxrwx%201%20root%20root%200%20%204%E6%9C%8825%E6%97%A5%2020%3A54%20%2Fsys%2Fclass%2Fdrm%2Fcard1%2Fdevice%2Fdriver%20-%3E%20..%2F..%2F..%2F..%2Fbus%2Fpci%2Fdrivers%2Famdgpu%0Alrwxrwxrwx%201%20root%20root%200%20%204%E6%9C%8825%E6%97%A5%2020%3A54%20%2Fsys%2Fclass%2Fdrm%2FrenderD128%2Fdevice%2Fdriver%20-%3E%20..%2F..%2F..%2F..%2Fbus%2Fpci%2Fdrivers%2Famdgpu%0Alrwxrwxrwx%201%20root%20root%200%20%204%E6%9C%8825%E6%97%A5%2020%3A54%20%2Fsys%2Fclass%2Fdrm%2FrenderD129%2Fdevice%2Fdriver%20-%3E%20..%2F..%2F..%2F..%2Fbus%2Fpci%2Fdrivers%2Fnvidia"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root 0  4月25日 20:54 /sys/class/drm/card0/device/driver -&gt; ../../../../bus/pci/drivers/nvidia</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root 0  4月25日 20:54 /sys/class/drm/card1/device/driver -&gt; ../../../../bus/pci/drivers/amdgpu</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root 0  4月25日 20:54 /sys/class/drm/renderD128/device/driver -&gt; ../../../../bus/pci/drivers/amdgpu</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root 0  4月25日 20:54 /sys/class/drm/renderD129/device/driver -&gt; ../../../../bus/pci/drivers/nvidia</span>
+          </div></code>
+</code></pre><p>记住所有带<code>nvidia</code>的文件名：<code>card0</code>和<code>renderD128</code>，这两个文件名因人而异且会随机分配，因此需要用下面的命令再进一步确定其pci路径：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="ls%20-l%20%2Fdev%2Fdri%2Fby-path%2F"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">ls</span> -l /dev/dri/by-path/</span>
+          </div></code>
+</code></pre><p>输出如下：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="lrwxrwxrwx%201%20root%20root%20%208%20%204%E6%9C%8825%E6%97%A5%2020%3A49%20pci-0000%3A01%3A00.0-card%20-%3E%20..%2Fcard0%0Alrwxrwxrwx%201%20root%20root%2013%20%204%E6%9C%8825%E6%97%A5%2020%3A49%20pci-0000%3A01%3A00.0-render%20-%3E%20..%2FrenderD129%0Alrwxrwxrwx%201%20root%20root%20%208%20%204%E6%9C%8825%E6%97%A5%2014%3A08%20pci-0000%3A66%3A00.0-card%20-%3E%20..%2Fcard1%0Alrwxrwxrwx%201%20root%20root%2013%20%204%E6%9C%8825%E6%97%A5%2014%3A08%20pci-0000%3A66%3A00.0-render%20-%3E%20..%2FrenderD128"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root  8  4月25日 20:49 pci-0000:01:00.0-card -&gt; ../card0</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root 13  4月25日 20:49 pci-0000:01:00.0-render -&gt; ../renderD129</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root  8  4月25日 14:08 pci-0000:66:00.0-card -&gt; ../card1</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">lrwxrwxrwx 1 root root 13  4月25日 14:08 pci-0000:66:00.0-render -&gt; ../renderD128</span>
+          </div></code>
+</code></pre><p>记住之前的文件名对应的<code>pci-xxxx:xx....</code>，后面会用</p>
+<h3 id="heading-10" data-id="heading-10">杀死进程</h3>
+<p>再查看所有在n卡上运行的进程：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20fuser%20-v%20%2Fdev%2Fnvidia*%0Asudo%20fuser%20-v%20%2Fdev%2Fdri%2Fcard0%0Asudo%20fuser%20-v%20%2Fdev%2Fdri%2FrenderD129"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> fuser -v /dev/nvidia*</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> fuser -v /dev/dri/card0</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> fuser -v /dev/dri/renderD129</span>
+          </div></code>
+</code></pre><p>类似输出：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E7%94%A8%E6%88%B7%20%20%20%20%20%E8%BF%9B%E7%A8%8B%E5%8F%B7%20%E6%9D%83%E9%99%90%20%20%20%E5%91%BD%E4%BB%A4%0A%2Fdev%2Fnvidiactl%3A%20%20%20%20%20%20lengineerc%20%20139584%20F....%20code%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20lengineerc%20%20146370%20F....%20obsidian%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E7%94%A8%E6%88%B7%20%20%20%20%20%E8%BF%9B%E7%A8%8B%E5%8F%B7%20%E6%9D%83%E9%99%90%20%20%20%E5%91%BD%E4%BB%A4%0A%2Fdev%2Fdri%2FrenderD129%3A%20lengineerc%20%20139584%20F....%20code%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20lengineerc%20%20146370%20F....%20obsidian"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">                     用户     进程号 权限   命令</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">/dev/nvidiactl:      lengineerc  139584 F.... code</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">                     lengineerc  146370 F.... obsidian</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">                     用户     进程号 权限   命令</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">/dev/dri/renderD129: lengineerc  139584 F.... code</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">                     lengineerc  146370 F.... obsidian</span>
+          </div></code>
+</code></pre><p><strong>特别注意一点</strong>：如果你的<strong>linux桌面环境或窗口管理器</strong>运行在n卡上，需要特殊处理。原文中的例子是niri, 恰好我使用的也是niri, 因此在此只能给出niri的解决方案，需要其他方案请另外搜寻。如果桌面环境或窗口管理器没有运行在n卡上的，可以直接跳过下面有关niri的一步。</p>
+<p>niri的配置文件一般在<code>/home/user/.config/niri/config.kdl</code>中，编辑该文件，在<code>debug</code>项中添加下面两行，排除之前获取的pci路径，然后重启niri即可。</p>
+<pre><code><code class="hljs language-plaintext" data-raw="ignore-drm-device%20%22%2Fdev%2Fdri%2Fby-path%2Fpci-0000%3A01%3A00.0-card%22%0Aignore-drm-device%20%22%2Fdev%2Fdri%2Fby-path%2Fpci-0000%3A01%3A00.0-render%22"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">ignore-drm-device &quot;/dev/dri/by-path/pci-0000:01:00.0-card&quot;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">ignore-drm-device &quot;/dev/dri/by-path/pci-0000:01:00.0-render&quot;</span>
+          </div></code>
+</code></pre><p>然后使用杀死运行在n卡上的所有进程（最好多运行几遍，防止个别进程重启）</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20fuser%20-k%20-9%20%2Fdev%2Fnvidia*"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> fuser -k -9 /dev/nvidia*</span>
+          </div></code>
+</code></pre><h3 id="heading-11" data-id="heading-11">移除模块</h3>
+<p>再按顺序移除nvidia的所有模块（也最好多运行几遍）</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20rmmod%20nvidia_drm%0Asudo%20rmmod%20nvidia_modeset%0Asudo%20rmmod%20nvidia_uvm%0Asudo%20rmmod%20nvidia"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> rmmod nvidia_drm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> rmmod nvidia_modeset</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> rmmod nvidia_uvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> rmmod nvidia</span>
+          </div></code>
+</code></pre><p>当四个<code>rmmod</code>都报错：<code>ERROR: Module nvidia_drm is not currently loaded</code>就好了。</p>
+<h3 id="heading-12" data-id="heading-12">解绑驱动</h3>
+<p>使用下面命令确认和n卡同IOMMU（输入/输出内存管理单元）组的pci地址。因为IOMMU 组是主板硬件层面上，能够被独立隔离并分配给虚拟机的最小设备集合。</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="for%20d%20in%20%2Fsys%2Fkernel%2Fiommu_groups%2F*%2Fdevices%2F*%3B%20do%0A%20%20%20%20n%3D%24%7Bd%23*%2Fiommu_groups%2F*%7D%3B%20n%3D%24%7Bn%25%25%2F*%7D%0A%20%20%20%20printf%20'IOMMU%20Group%20%25s%20'%20%22%24n%22%0A%20%20%20%20lspci%20-D%20-nns%20%22%24%7Bd%23%23*%2F%7D%22%0Adone"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-keyword">for</span> d <span class="hljs-keyword">in</span> /sys/kernel/iommu_groups/*/devices/*; <span class="hljs-keyword">do</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">    n=<span class="hljs-variable">${d#*/iommu_groups/*}</span>; n=<span class="hljs-variable">${n%%/*}</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">    <span class="hljs-built_in">printf</span> <span class="hljs-string">&#x27;IOMMU Group %s &#x27;</span> <span class="hljs-string">&quot;<span class="hljs-variable">$n</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">    lspci -D -nns <span class="hljs-string">&quot;<span class="hljs-variable">${d##*/}</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content"><span class="hljs-keyword">done</span></span>
+          </div></code>
+</code></pre><p>输出（可见两个都在Groups 15）：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="IOMMU%20Groups%2015%200000%3A01%3A00.0%20VGA%20compatible%20controller%20%5B0300%5D%3A%20NVIDIA%20Corporation%20AD107M%20%5BGeForce%20RTX%204060%20Max-Q%20%2F%20Mobile%5D%20%5B10de%3A28e0%5D%20(rev%20a1)%0AIOMMU%20Groups%2015%200000%3A01%3A00.1%20Audio%20device%20%5B0403%5D%3A%20NVIDIA%20Corporation%20AD107%20High%20Definition%20Audio%20Controller%20%5B10de%3A22be%5D%20(rev%20a1)"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">IOMMU Groups 15 0000:01:00.0 VGA compatible controller [0300]: NVIDIA Corporation AD107M [GeForce RTX 4060 Max-Q / Mobile] [10de:28e0] (rev a1)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">IOMMU Groups 15 0000:01:00.1 Audio device [0403]: NVIDIA Corporation AD107 High Definition Audio Controller [10de:22be] (rev a1)</span>
+          </div></code>
+</code></pre><p>像我这个RTX 4060 Laptop就带个音频控制器，显卡不同组内单元数量也就不同。比如我这个就要先记住<code>0000:01:00.0</code>和<code>0000:01:00.1</code>两个物理硬件地址，后续必须把组内所有单元<strong>一起处理</strong>，不能剩下任何一个。</p>
+<p>先查看一下组内每个单元对应的驱动：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="lspci%20-Dk"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">lspci -Dk</span>
+          </div></code>
+</code></pre><p>输出：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="0000%3A01%3A00.0%20VGA%20compatible%20controller%3A%20NVIDIA%20Corporation%20AD107M%20%5BGeForce%20RTX%204060%20Max-Q%20%2F%20Mobile%5D%20(rev%20a1)%0A%20%20%20%20Subsystem%3A%20ASUSTeK%20Computer%20Inc.%20Device%20199d%0A%20%20%20%20Kernel%20driver%20in%20use%3A%20nvidia%0A%20%20%20%20Kernel%20modules%3A%20nouveau%2C%20nvidia_drm%2C%20nvidia%0A0000%3A01%3A00.1%20Audio%20device%3A%20NVIDIA%20Corporation%20AD107%20High%20Definition%20Audio%20Controller%20(rev%20a1)%0A%20%20%20%20Subsystem%3A%20ASUSTeK%20Computer%20Inc.%20Device%20199d%0A%20%20%20%20Kernel%20driver%20in%20use%3A%20snd_hda_intel%0A%20%20%20%20Kernel%20modules%3A%20snd_hda_intel"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">0000:01:00.0 VGA compatible controller: NVIDIA Corporation AD107M [GeForce RTX 4060 Max-Q / Mobile] (rev a1)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">    Subsystem: ASUSTeK Computer Inc. Device 199d</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">    Kernel driver in use: nvidia</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">    Kernel modules: nouveau, nvidia_drm, nvidia</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">0000:01:00.1 Audio device: NVIDIA Corporation AD107 High Definition Audio Controller (rev a1)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">    Subsystem: ASUSTeK Computer Inc. Device 199d</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">    Kernel driver in use: snd_hda_intel</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content">    Kernel modules: snd_hda_intel</span>
+          </div></code>
+</code></pre><p>只需要关注物理硬件地址和<code>Kernel driver in use</code>后面的内容即可</p>
+<p>然后进行驱动解绑，如果有不同的内容请自行增减对应命令（记得把引号内容还有<code>/sys/bus/pci/drivers/xxx/unbind</code>中的驱动名称替换为实际的）：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="echo%20%220000%3A01%3A00.0%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers%2Fnvidia%2Funbind%20%23%20%E8%AF%A5%E5%91%BD%E4%BB%A4%E5%9C%A8rmmod%E6%97%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%A7%A3%E7%BB%91%EF%BC%8C%E6%8A%A5%E9%94%99%E6%98%AF%E6%AD%A3%E5%B8%B8%E6%83%85%E5%86%B5%0Aecho%20%220000%3A01%3A00.1%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers%2Fsnd_hda_intel%2Funbind"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.0&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers/nvidia/unbind <span class="hljs-comment"># 该命令在rmmod时可能会解绑，报错是正常情况</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.1&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers/snd_hda_intel/unbind</span>
+          </div></code>
+</code></pre><h3 id="heading-13" data-id="heading-13">vfio接管</h3>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="%23%20%E5%8A%A0%E8%BD%BDvfio%E6%A8%A1%E5%9D%97%0Asudo%20modprobe%20vfio-pci%0A%0A%23%20%E8%A6%86%E7%9B%96%E9%A9%B1%E5%8A%A8%E4%B8%BAvfio(%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E5%86%85%E5%AE%B9%E8%AF%B7%E8%87%AA%E8%A1%8C%E5%A2%9E%E5%87%8F%EF%BC%8C%E7%89%A9%E7%90%86%E7%A1%AC%E4%BB%B6%E5%9C%B0%E5%9D%80%E8%AE%B0%E5%BE%97%E6%8D%A2)%0Aecho%20%22vfio-pci%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdevices%2F0000%3A01%3A00.0%2Fdriver_override%0Aecho%20%22vfio-pci%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdevices%2F0000%3A01%3A00.1%2Fdriver_override%0A%0A%23%20%E9%87%8D%E6%96%B0%E6%89%AB%E6%8F%8F%E8%AE%BE%E5%A4%87%E7%BB%91%E5%AE%9Avfio(%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E5%86%85%E5%AE%B9%E8%AF%B7%E8%87%AA%E8%A1%8C%E5%A2%9E%E5%87%8F%EF%BC%8C%E7%89%A9%E7%90%86%E7%A1%AC%E4%BB%B6%E5%9C%B0%E5%9D%80%E8%AE%B0%E5%BE%97%E6%8D%A2)%0Aecho%20%220000%3A01%3A00.0%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers_probe%0Aecho%20%220000%3A01%3A00.1%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers_probe"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-comment"># 加载vfio模块</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> modprobe vfio-pci</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content"><span class="hljs-comment"># 覆盖驱动为vfio(有不同的内容请自行增减，物理硬件地址记得换)</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;vfio-pci&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/devices/0000:01:00.0/driver_override</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;vfio-pci&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/devices/0000:01:00.1/driver_override</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content"><span class="hljs-comment"># 重新扫描设备绑定vfio(有不同的内容请自行增减，物理硬件地址记得换)</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="9"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.0&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers_probe</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="10"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.1&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers_probe</span>
+          </div></code>
+</code></pre><p>执行完成无报错之后，使用下面命令验证：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="lspci%20-k%20%7C%20grep%20-A%202%20-i%20nvidia"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">lspci -k | grep -A 2 -i nvidia</span>
+          </div></code>
+</code></pre><p>输出：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="pcilib%3A%20Error%20reading%20%2Fsys%2Fbus%2Fpci%2Fdevices%2F0000%3A00%3A08.3%2Flabel%3A%20Operation%20not%20permitted%0A01%3A00.0%20VGA%20compatible%20controller%3A%20NVIDIA%20Corporation%20AD107M%20%5BGeForce%20RTX%204060%20Max-Q%20%2F%20Mobile%5D%20(rev%20a1)%0A%20%20%20%20Subsystem%3A%20ASUSTeK%20Computer%20Inc.%20Device%20199d%0A%20%20%20%20Kernel%20driver%20in%20use%3A%20vfio-pci%0A%20%20%20%20Kernel%20modules%3A%20nouveau%2C%20nvidia_drm%2C%20nvidia%0A01%3A00.1%20Audio%20device%3A%20NVIDIA%20Corporation%20AD107%20High%20Definition%20Audio%20Controller%20(rev%20a1)%0A%20%20%20%20Subsystem%3A%20ASUSTeK%20Computer%20Inc.%20Device%20199d%0A%20%20%20%20Kernel%20driver%20in%20use%3A%20vfio-pci"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">pcilib: Error reading /sys/bus/pci/devices/0000:00:08.3/label: Operation not permitted</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">01:00.0 VGA compatible controller: NVIDIA Corporation AD107M [GeForce RTX 4060 Max-Q / Mobile] (rev a1)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">    Subsystem: ASUSTeK Computer Inc. Device 199d</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">    Kernel driver in use: vfio-pci</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">    Kernel modules: nouveau, nvidia_drm, nvidia</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">01:00.1 Audio device: NVIDIA Corporation AD107 High Definition Audio Controller (rev a1)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">    Subsystem: ASUSTeK Computer Inc. Device 199d</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content">    Kernel driver in use: vfio-pci</span>
+          </div></code>
+</code></pre><p><code>Kernel driver in use</code>字段为<code>vfio-pci</code>则接管成功。</p>
+<h3 id="heading-14" data-id="heading-14">虚拟机配置</h3>
+<p>现在回到虚拟机配置中，点击添加硬件弹出下面的窗口：
+<img data-markdown-image="true" src="https://files.seeusercontent.com/2026/04/25/H7dq/add_gpu.png" alt="add_gpu.png"></p>
+<p>在PCI主机设备中选中显卡添加。之后再次开启虚拟机，<strong>安装对应显卡驱动</strong>，然后英伟达控制面板中凭个人喜好设置。然后关机。至此显卡直通配置完毕。</p>
+<h2 id="heading-15" data-id="heading-15">性能优化</h2>
+<p>原文章中提供了很多的性能优化方式，在此我列举一下从中选取的一些效果明显的设置。</p>
+<h3 id="heading-16" data-id="heading-16">禁用memballoon</h3>
+<p>禁用后可以减少虚拟机内存转移，效果立竿见影，找到虚拟机XML中的<code>memballoon</code>选项（一般是<code>devices中的最后一个</code>），将其<code>model</code>设置为<code>none</code>：</p>
+<pre><code class="hljs language-shell"><code class="hljs language-shell" data-raw="%3Cmemballoon%20model%3D%22none%22%2F%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">&lt;memballoon model=&quot;none&quot;/&gt;</span>
+          </div></code>
+</code></pre><h3 id="heading-17" data-id="heading-17">开启内存大页</h3>
+<p>分两种设置，一种2MB还有个1GB。1GB适用于64GB往上的物理内存使用，我只有32GB,就写2MB的设置了。</p>
+<p>首先需要在虚拟机的XML的<code>memoryBacking</code>选项中添加<code>hugepages</code></p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%20%20%3CmemoryBacking%3E%0A%20%20%20%20%3Chugepages%2F%3E%0A%20%20%3C%2FmemoryBacking%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">memoryBacking</span>&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">    <span class="hljs-tag">&lt;<span class="hljs-name">hugepages</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;/<span class="hljs-name">memoryBacking</span>&gt;</span></span>
+          </div></code>
+</code></pre><p>有两种形式配置大页数量，一种是永久写死，一种是临时动态配置。先说临时配置。</p>
+<h4 id="heading-18" data-id="heading-18">临时配置</h4>
+<p>首先清理内存碎片和缓存：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20sync%0Aecho%203%20%7C%20sudo%20tee%20%2Fproc%2Fsys%2Fvm%2Fdrop_caches%0Aecho%201%20%7C%20sudo%20tee%20%2Fproc%2Fsys%2Fvm%2Fcompact_memory"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">sync</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> 3 | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /proc/sys/vm/drop_caches</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> 1 | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /proc/sys/vm/compact_memory</span>
+          </div></code>
+</code></pre><p>在分配内存大页，我设置的是虚拟机内存的一半：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sysctl%20-w%20vm.nr_hugepages%3D8192"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">sysctl -w vm.nr_hugepages=8192</span>
+          </div></code>
+</code></pre><p>分配好后可以使用下面的命令验证是否为设置的值：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="cat%20%2Fproc%2Fsys%2Fvm%2Fnr_hugepages"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">cat</span> /proc/sys/vm/nr_hugepages</span>
+          </div></code>
+</code></pre><h4 id="heading-19" data-id="heading-19">配置文件永久生效</h4>
+<p>编辑<code>/etc/sysctl.d/40-hugepage.conf</code>文件（没有就新建），写入</p>
+<pre><code><code class="hljs language-plaintext" data-raw="vm.nr_hugepages%20%3D%208192"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">vm.nr_hugepages = 8192</span>
+          </div></code>
+</code></pre><p>保存重启电脑后就会生效。</p>
+<p>这里要先说明一下物理内存占用的问题，按我的设置（虚拟机内存16GB,大页内存8GB）为例：大页内存会<strong>强行占用</strong>，不管虚拟机是否开启，这8GB会永远在物理内存中扣除，所以这也是我没有选用配置文件把大页内存大小写死的原因。</p>
+<blockquote>
+<p>现在可以打开虚拟机看一下能否正常启动，如果报错<code>qemu-system-x86_64: unable to map backing store for guest RAM: Cannot allocate memory</code>，就按照上面的命令清理一下清理内存碎片和缓存再重新打开就可以解决。</p>
+</blockquote>
+<h2 id="heading-20" data-id="heading-20">屏幕共享</h2>
+<p>之前创建虚拟机时设置的共享内存就会在这个地方生效，<a href="https://github.com/gnif/LookingGlass">LookingGlass</a>会使用共享内存来实现屏幕分享。现在可以打开虚拟机，查看任务管理器，会发现spice或vnc显示的虚拟机画面不会调用一点显卡，所以还需要一个虚拟显示器来诱骗显卡直接接入。有诱骗器的可以直接用，没有的可以使用<a href="https://github.com/VirtualDrivers/Virtual-Display-Driver">Virtual-Display-Driver</a>创建一个虚拟显示器。VDD需要在windows内安装，下载完成后打开点击install就安装完毕不用再管了。</p>
+<h3 id="heading-21" data-id="heading-21">文件配置</h3>
+<p>回到linux, 使用<code>group</code>查看当前用户是否在<code>kvm</code>组内，没有就使用<code>sudo gpasswd -a $USER kvm</code>添加，然后注销用户重新登录。</p>
+<p>接下来设置LookingGlass的共享内存大小，计算公式是：</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>内存大小（</mtext><mi>M</mi><mi>B</mi><mtext>）</mtext><mo>=</mo><mstyle scriptlevel="0" displaystyle="true"><mfrac><mrow><mtext>分辨率宽度</mtext><mo>×</mo><mtext>分辨率高度</mtext><mo>×</mo><mn>4</mn><mo>×</mo><mn>2</mn></mrow><mrow><mn>1024</mn><mo>×</mo><mn>1024</mn></mrow></mfrac></mstyle></mrow><annotation encoding="application/x-tex">内存大小（MB）= \dfrac{分辨率宽度 \times 分辨率高度 \times 4 \times 2}{1024 \times 1024}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord cjk_fallback">内存大小（</span><span class="mord mathnormal" style="margin-right:0.109em;">M</span><span class="mord mathnormal" style="margin-right:0.0502em;">B</span><span class="mord cjk_fallback">）</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.1297em;vertical-align:-0.7693em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3603em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1024</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1024</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord cjk_fallback">分辨率宽度</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord cjk_fallback">分辨率高度</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">4</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.7693em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
+<p>原文档内的简单判断方法：</p>
+<ul>
+<li>1080p非高刷32MB</li>
+<li>1080p高刷或2k高刷64MB</li>
+<li>2k超高刷或4K高刷128MB</li>
+</ul>
+<p>然后安装kvmfr内核</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="yay%20-S%20--needed%20linux-headers%20looking-glass-module-dkms-git"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">yay -S --needed linux-headers looking-glass-module-dkms-git</span>
+          </div></code>
+</code></pre><p>安装完成后需要配置一系列文件（没有就新建）：</p>
+<ul>
+<li>配置<code>/etc/modprobe.d/kvmfr.conf</code>文件中的共享内存大小（MB）</li>
+</ul>
+<pre><code><code class="hljs language-plaintext" data-raw="options%20kvmfr%20static_size_mb%3D128"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">options kvmfr static_size_mb=128</span>
+          </div></code>
+</code></pre><ul>
+<li>往<code>/etc/modules-load.d/kvmfr.conf</code>内写入：</li>
+</ul>
+<pre><code><code class="hljs language-plaintext" data-raw="kvmfr"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">kvmfr</span>
+          </div></code>
+</code></pre><ul>
+<li>然后是<code>/etc/udev/rules.d/99-kvmfr.rules</code>，要把<code>username</code>换成当前用户名</li>
+</ul>
+<pre><code><code class="hljs language-plaintext" data-raw="SUBSYSTEM%3D%3D%22kvmfr%22%2C%20OWNER%3D%22username%22%2C%20GROUP%3D%22kvm%22%2C%20MODE%3D%220660%22"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">SUBSYSTEM==&quot;kvmfr&quot;, OWNER=&quot;username&quot;, GROUP=&quot;kvm&quot;, MODE=&quot;0660&quot;</span>
+          </div></code>
+</code></pre><ul>
+<li>最后是<code>/etc/libvirt/qemu.conf</code>，取消下面配置的注释，并新增<code>&quot;/dev/kvmfr0&quot;</code></li>
+</ul>
+<pre><code><code class="hljs language-plaintext" data-raw="cgroup_device_acl%20%3D%5B%0A%20%20%20%20%22%2Fdev%2Fnull%22%2C%20%22%2Fdev%2Ffull%22%2C%20%22%2Fdev%2Fzero%22%2C%0A%20%20%20%20%22%2Fdev%2Frandom%22%2C%20%22%2Fdev%2Furandom%22%2C%0A%20%20%20%20%22%2Fdev%2Fptmx%22%2C%20%22%2Fdev%2Fkvm%22%2C%20%22%2Fdev%2Fkqemu%22%2C%0A%20%20%20%20%22%2Fdev%2Frtc%22%2C%22%2Fdev%2Fhpet%22%2C%20%22%2Fdev%2Fvfio%2Fvfio%22%2C%0A%20%20%20%20%22%2Fdev%2Fkvmfr0%22%0A%5D"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">cgroup_device_acl =[</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">    &quot;/dev/null&quot;, &quot;/dev/full&quot;, &quot;/dev/zero&quot;,</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">    &quot;/dev/random&quot;, &quot;/dev/urandom&quot;,</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">    &quot;/dev/ptmx&quot;, &quot;/dev/kvm&quot;, &quot;/dev/kqemu&quot;,</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">    &quot;/dev/rtc&quot;,&quot;/dev/hpet&quot;, &quot;/dev/vfio/vfio&quot;,</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">    &quot;/dev/kvmfr0&quot;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">]</span>
+          </div></code>
+</code></pre><p><em>如果使用了AppArmor的自行去原文档查看对应配置</em></p>
+<h3 id="heading-22" data-id="heading-22">虚拟机配置</h3>
+<p>把虚拟机XML开头的<code>&lt;domain type=&#39;kvm&#39;&gt;</code>替换为<code>&lt;domain xmlns:qemu=&quot;http://libvirt.org/schemas/domain/qemu/1.0&quot; type=&quot;kvm&quot;&gt;</code>，然后在最底部的<code>&lt;/domain&gt;</code>上面添加</p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%3Cqemu%3Acommandline%3E%0A%20%20%3Cqemu%3Aarg%20value%3D%22-device%22%2F%3E%0A%20%20%3Cqemu%3Aarg%20value%3D%22%7B'driver'%3A'ivshmem-plain'%2C'id'%3A'shmem0'%2C'memdev'%3A'looking-glass'%7D%22%2F%3E%0A%20%20%3Cqemu%3Aarg%20value%3D%22-object%22%2F%3E%0A%20%20%3Cqemu%3Aarg%20value%3D%22%7B'qom-type'%3A'memory-backend-file'%2C'id'%3A'looking-glass'%2C'mem-path'%3A'%2Fdev%2Fkvmfr0'%2C'size'%3A%3Csize%3E%2C'share'%3Atrue%7D%22%2F%3E%0A%3C%2Fqemu%3Acommandline%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">qemu:commandline</span>&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">qemu:arg</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;-device&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">qemu:arg</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;{&#x27;driver&#x27;:&#x27;ivshmem-plain&#x27;,&#x27;id&#x27;:&#x27;shmem0&#x27;,&#x27;memdev&#x27;:&#x27;looking-glass&#x27;}&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">qemu:arg</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;-object&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">qemu:arg</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;{&#x27;qom-type&#x27;:&#x27;memory-backend-file&#x27;,&#x27;id&#x27;:&#x27;looking-glass&#x27;,&#x27;mem-path&#x27;:&#x27;/dev/kvmfr0&#x27;,&#x27;size&#x27;:&lt;size&gt;,&#x27;share&#x27;:true}&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;/<span class="hljs-name">qemu:commandline</span>&gt;</span></span>
+          </div></code>
+</code></pre><p>其中<code>&lt;size&gt;</code>替换为之前计算出的 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>共享内存大小</mtext><mo>×</mo><mn>1024</mn><mo>×</mo><mn>1024</mn></mrow><annotation encoding="application/x-tex">共享内存大小\times 1024 \times 1024</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord cjk_fallback">共享内存大小</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">1024</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1024</span></span></span></span> 。</p>
+<p>然后关闭虚拟显卡，在<code>&lt;devices&gt;</code>中查找<code>&lt;video&gt;</code>，修改为：</p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%3Cvideo%3E%0A%20%20%3Cmodel%20type%3D%22none%22%2F%3E%0A%3C%2Fvideo%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">video</span>&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">model</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;none&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;/<span class="hljs-name">video</span>&gt;</span></span>
+          </div></code>
+</code></pre><p>最后确认有声卡<code>ich9</code>，并且标签内的<code>audio</code>标签的<code>type</code>为<code>spice</code>：</p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%3Caudio%20id%3D'1'%20type%3D'spice'%2F%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">audio</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&#x27;1&#x27;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&#x27;spice&#x27;</span>/&gt;</span></span>
+          </div></code>
+</code></pre><p>然后运行虚拟机，安装<a href="https://looking-glass.io/downloads">LookingGlass host</a>，选择Download中的Windows Host下载安装完成后，就配置完成了。</p>
+<h3 id="heading-23" data-id="heading-23">安装Looking Glass客户端</h3>
+<p>回到linux, 通过AUR安装客户端：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="yay%20-S%20looking-glass-git"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">yay -S looking-glass-git</span>
+          </div></code>
+</code></pre><p>不巧的是我正好遇到AUR被攻击无法访问，所以直接拉的<a href="https://github.com/gnif/LookingGlass">源码</a>构建。</p>
+<p>之后就可以启动虚拟机，然后回linux打开Looking Glass客户端使用高性能虚拟机了。</p>
+<h2 id="heading-24" data-id="heading-24">恢复配置</h2>
+<h3 id="heading-25" data-id="heading-25">关闭显卡直通</h3>
+<blockquote>
+<p><strong>虚拟机必须处于完全关闭状态才可以后续操作！！！</strong></p>
+</blockquote>
+<p>记得把下面代码中的所有物理硬件地址换为本机实际地址：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="%23%20%E7%A7%BB%E9%99%A4%E9%A9%B1%E5%8A%A8%E8%A6%86%E7%9B%96%0Aecho%20%22%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdevices%2F0000%3A01%3A00.0%2Fdriver_override%0Aecho%20%22%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdevices%2F0000%3A01%3A00.1%2Fdriver_override%0A%0A%23%20%E8%A7%A3%E7%BB%91vfio%0Aecho%20%220000%3A01%3A00.0%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers%2Fvfio-pci%2Funbind%0Aecho%20%220000%3A01%3A00.1%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers%2Fvfio-pci%2Funbind%0A%0A%23%20%E9%87%8D%E6%96%B0%E5%8A%A0%E8%BD%BDnvidia%E6%A8%A1%E5%9D%97%0Asudo%20modprobe%20nvidia%0Asudo%20modprobe%20nvidia_drm%0Asudo%20modprobe%20nvidia_modeset%0Asudo%20modprobe%20nvidia_uvm%0A%0A%23%20%E9%87%8D%E6%96%B0%E6%A3%80%E6%B5%8B%EF%BC%8C%E6%BF%80%E6%B4%BB%E6%98%BE%E5%8D%A1%0Aecho%20%220000%3A01%3A00.0%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers_probe%0Aecho%20%220000%3A01%3A00.1%22%20%7C%20sudo%20tee%20%2Fsys%2Fbus%2Fpci%2Fdrivers_probe"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-comment"># 移除驱动覆盖</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/devices/0000:01:00.0/driver_override</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/devices/0000:01:00.1/driver_override</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content"><span class="hljs-comment"># 解绑vfio</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.0&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers/vfio-pci/unbind</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.1&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers/vfio-pci/unbind</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="9"></span>
+            <span class="code-content"><span class="hljs-comment"># 重新加载nvidia模块</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="10"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> modprobe nvidia</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="11"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> modprobe nvidia_drm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="12"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> modprobe nvidia_modeset</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="13"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> modprobe nvidia_uvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="14"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="15"></span>
+            <span class="code-content"><span class="hljs-comment"># 重新检测，激活显卡</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="16"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.0&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers_probe</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="17"></span>
+            <span class="code-content"><span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;0000:01:00.1&quot;</span> | <span class="hljs-built_in">sudo</span> <span class="hljs-built_in">tee</span> /sys/bus/pci/drivers_probe</span>
+          </div></code>
+</code></pre><h3 id="heading-26" data-id="heading-26">释放内存大页（针对2MB配置）</h3>
+<h4 id="heading-27" data-id="heading-27">临时配置的释放</h4>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sysctl%20-w%20vm.nr_hugepages%3D0%0A%0A%23%20%E7%94%A8%E4%BA%8E%E7%A1%AE%E8%AE%A4%0Acat%20%2Fproc%2Fsys%2Fvm%2Fnr_hugepages"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">sysctl -w vm.nr_hugepages=0</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-comment"># 用于确认</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content"><span class="hljs-built_in">cat</span> /proc/sys/vm/nr_hugepages</span>
+          </div></code>
+</code></pre><h4 id="heading-28" data-id="heading-28">文件配置的释放</h4>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20rm%20%2Fetc%2Fsysctl.d%2F40-hugepage.conf"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">rm</span> /etc/sysctl.d/40-hugepage.conf</span>
+          </div></code>
+</code></pre><p>运行后重启就会释放</p>
+<h2 id="heading-29" data-id="heading-29">总结</h2>
+<p>亲自体验了一次一趟操作下来性能损耗在接受范围内，更多选项和优化还是参照<a href="https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/wiki/KVM%E8%99%9A%E6%8B%9F%E6%9C%BA">原文</a></p>
+<hr>
+<h2 id="heading-30" data-id="heading-30">错误处理</h2>
+<p>记录目前碰到的错误以及处理方式</p>
+<h3 id="heading-31" data-id="heading-31">Can&#39;t open backing store /dev/kvmfr0 for guest RAM: Permission denied</h3>
+<p>报错信息：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="%E5%90%AF%E5%8A%A8%E5%9F%9F%E6%97%B6%E5%87%BA%E9%94%99%3A%20%E5%86%85%E9%83%A8%E9%94%99%E8%AF%AF%EF%BC%9AQEMU%20unexpectedly%20closed%20the%20monitor%20(vm%3D'win11')%3A%202026-05-08T09%3A40%3A12.246154Z%20qemu-system-x86_64%3A%20can't%20open%20backing%20store%20%2Fdev%2Fkvmfr0%20for%20guest%20RAM%3A%20Permission%20denied"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">启动域时出错: 内部错误：QEMU unexpectedly closed the monitor (vm=&#x27;win11&#x27;): 2026-05-08T09:40:12.246154Z qemu-system-x86_64: can&#x27;t open backing store /dev/kvmfr0 for guest RAM: Permission denied</span>
+          </div></code>
+</code></pre><h4 id="heading-32" data-id="heading-32">解决</h4>
+<ol>
+<li>查看udev规则是否创建</li>
+</ol>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20vim%20%2Fetc%2Fudev%2Frules.d%2F99-kvmfr.rules"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> vim /etc/udev/rules.d/99-kvmfr.rules</span>
+          </div></code>
+</code></pre><p>是否有：</p>
+<pre><code><code class="hljs language-plaintext" data-raw="SUBSYSTEM%3D%3D%22kvmfr%22%2C%20OWNER%3D%22username%22%2C%20GROUP%3D%22kvm%22%2C%20MODE%3D%220660%22"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">SUBSYSTEM==&quot;kvmfr&quot;, OWNER=&quot;username&quot;, GROUP=&quot;kvm&quot;, MODE=&quot;0660&quot;</span>
+          </div></code>
+</code></pre><p>检查<code>kvmfr</code>内存分配是否正确</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="cat%20%2Fetc%2Fmodprobe.d%2Fkvmfr.conf"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">cat</span> /etc/modprobe.d/kvmfr.conf</span>
+          </div></code>
+</code></pre><p>检查内存大小是否正确</p>
+<pre><code><code class="hljs language-plaintext" data-raw="options%20kvmfr%20static_size_mb%3D%E5%86%85%E5%AD%98%E5%A4%A7%E5%B0%8F"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">options kvmfr static_size_mb=内存大小</span>
+          </div></code>
+</code></pre><p>检查<code>kvmfr</code>是否存在</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20modprobe%20kvmfr"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> modprobe kvmfr</span>
+          </div></code>
+</code></pre><p>没有输出则代表模块还存在，如果报错<code>not found</code>之类的，执行</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="dkms%20status"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">dkms status</span>
+          </div></code>
+</code></pre><p>如果报错<code>command not found: dkms</code>则执行</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20pacman%20-S%20dkms%20linux-headers%20base-devel"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> pacman -S dkms linux-headers base-devel</span>
+          </div></code>
+</code></pre><blockquote>
+<p>安装的注意事项：标准版内核安装<code>linux-headers</code>，如果用的是 <code>linux-zen</code>，则需要安装 <code>linux-zen-headers</code>；如果是 <code>linux-lts</code>，则是 <code>linux-lts-headers</code></p>
+</blockquote>
+<p>我是使用的<code>LookingGlass</code>，可以尝试重新安装</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="yay%20-S%20looking-glass-git"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">yay -S looking-glass-git</span>
+          </div></code>
+</code></pre><p>也可以进行手动构建，拉取<a href="https://github.com/gnif/LookingGlass">LookingGlass</a>源码，进入里面的<code>module</code>文件夹，执行</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20dkms%20install%20."><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> dkms install .</span>
+          </div></code>
+</code></pre><p>之后再次运行<code>sudo modprobe kvmfr</code>验证。同时通过<code>ls -l /dev/kvmfr0</code>查看udev配置是否生效。能看到设备，并且所属用户是设置的用户，组是 <code>kvm</code>就恢复正常</p>
+6:["$","$L14",null,{"id":"kvm_gpu_direct_connection","initialContent":{"html":"$15","toc":[{"id":"heading-0","level":2,"text":"安装","listNo":"1"},{"id":"heading-1","level":3,"text":"镜像下载","listNo":"1.1"},{"id":"heading-2","level":2,"text":"创建虚拟机","listNo":"2"},{"id":"heading-3","level":3,"text":"CPU","listNo":"2.1"},{"id":"heading-4","level":3,"text":"内存","listNo":"2.2"},{"id":"heading-5","level":3,"text":"磁盘","listNo":"2.3"},{"id":"heading-6","level":3,"text":"网络接口","listNo":"2.4"},{"id":"heading-7","level":3,"text":"安装系统","listNo":"2.5"},{"id":"heading-8","level":2,"text":"显卡直通","listNo":"3"},{"id":"heading-9","level":3,"text":"确定文件名","listNo":"3.1"},{"id":"heading-10","level":3,"text":"杀死进程","listNo":"3.2"},{"id":"heading-11","level":3,"text":"移除模块","listNo":"3.3"},{"id":"heading-12","level":3,"text":"解绑驱动","listNo":"3.4"},{"id":"heading-13","level":3,"text":"vfio接管","listNo":"3.5"},{"id":"heading-14","level":3,"text":"虚拟机配置","listNo":"3.6"},{"id":"heading-15","level":2,"text":"性能优化","listNo":"4"},{"id":"heading-16","level":3,"text":"禁用memballoon","listNo":"4.1"},{"id":"heading-17","level":3,"text":"开启内存大页","listNo":"4.2"},{"id":"heading-18","level":4,"text":"临时配置","listNo":"4.2.1"},{"id":"heading-19","level":4,"text":"配置文件永久生效","listNo":"4.2.2"},{"id":"heading-20","level":2,"text":"屏幕共享","listNo":"5"},{"id":"heading-21","level":3,"text":"文件配置","listNo":"5.1"},{"id":"heading-22","level":3,"text":"虚拟机配置","listNo":"5.2"},{"id":"heading-23","level":3,"text":"安装Looking Glass客户端","listNo":"5.3"},{"id":"heading-24","level":2,"text":"恢复配置","listNo":"6"},{"id":"heading-25","level":3,"text":"关闭显卡直通","listNo":"6.1"},{"id":"heading-26","level":3,"text":"释放内存大页（针对2MB配置）","listNo":"6.2"},{"id":"heading-27","level":4,"text":"临时配置的释放","listNo":"6.2.1"},{"id":"heading-28","level":4,"text":"文件配置的释放","listNo":"6.2.2"},{"id":"heading-29","level":2,"text":"总结","listNo":"7"},{"id":"heading-30","level":2,"text":"错误处理","listNo":"8"},{"id":"heading-31","level":3,"text":"Can't open backing store /dev/kvmfr0 for guest RAM: Permission denied","listNo":"8.1"},{"id":"heading-32","level":4,"text":"解决","listNo":"8.1.1"}],"characterCount":12703}}]
+16:I[27201,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"IconMark"]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#67abff"}]]
+f:null
+13:[["$","title","0",{"children":"KVM-QEMU配置显卡直通以及性能优化 | LengineerC's blog"}],["$","meta","1",{"name":"description","content":"本文为热切换显卡直通和KVM虚拟机在天选4笔记本的实践记录。 近日突发奇想想用linux玩洛克王国，可惜腾讯ACE支持SteamOS也不给Arch添加白名单。在使用proton转译之后，还是无法正常打开游戏，最后还是只能使用在linux上运行windows虚拟机的方式来运行。 安装 先简单说明一下KVM以及QEMU的关系：KVM是虚拟机引擎，可以直接调用物理CPU硬件虚拟化指令执行计算以及硬件加速。QEMU则是负责硬件模拟（主板，显卡，网卡等），QEMU也可以模拟CPU,但是如果采用纯软件的方式..."}],["$","meta","2",{"name":"author","content":"LengineerC"}],["$","link","3",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","4",{"name":"keywords","content":"KVM,Linux"}],["$","meta","5",{"name":"creator","content":"LengineerC"}],["$","link","6",{"rel":"canonical","href":"https://blog.lengineerc.com/post/detail/Linux/kvm_gpu_direct_connection/"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/favicon.png"}],["$","link","9",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L16","10",{}]]

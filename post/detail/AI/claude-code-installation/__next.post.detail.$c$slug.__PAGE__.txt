@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[94402,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js","/_next/static/chunks/2hy0vgz84yk4-.js","/_next/static/chunks/14p2r5knx4xeo.js","/_next/static/chunks/1m0bxqw09sr4h.js","/_next/static/chunks/1-870vhwgf5_8.js"],"default"]
+4:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"MetadataBoundary"]
+:HL["/_next/static/chunks/31r2grztmvylx.css","style"]
+:HL["/_next/static/chunks/1mkyb6ha7m1fd.css","style"]
+:HL["/_next/static/chunks/3n3kbmdy45-cn.css","style"]
+:HL["/_next/static/chunks/2fuggdtidgq-j.css","style"]
+:HL["/_next/static/chunks/2pplp-n2-ksz_.css","style"]
+:HL["/_next/static/chunks/085yk5cb1qxwu.css","style"]
+3:T8ac,<h2 id="heading-0" data-id="heading-0">安装</h2>
+<p>通过<a href="https://code.claude.com/docs/zh-CN/overview">Claude Code官网</a>提供的命令行安装：</p>
+<ul>
+<li>mac, linux</li>
+</ul>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="curl%20-fsSL%20https%3A%2F%2Fclaude.ai%2Finstall.sh%20%7C%20bash"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">curl -fsSL https://claude.ai/install.sh | bash</span>
+          </div></code>
+</code></pre><ul>
+<li>windows powershell</li>
+</ul>
+<pre><code class="hljs language-ps"><code class="hljs language-ps" data-raw="irm%20https%3A%2F%2Fclaude.ai%2Finstall.ps1%20%7C%20iex"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">irm</span> https://claude.ai/install.ps1 | <span class="hljs-built_in">iex</span></span>
+          </div></code>
+</code></pre><p>没什么好说的，等他下载完就行。</p>
+<h2 id="heading-1" data-id="heading-1">配置第三方API</h2>
+<p>我用的是<a href="https://github.com/farion1231/cc-switch">cc-switch</a>。打开后新建供应商，填写API Key。</p>
+<p><strong>重点：填写请求地址的时候一定不要以斜杠结尾，而且不要携带请求地址中的v1</strong></p>
+<p>比如原链接是：</p>
+<pre><code class="hljs language-plaintext"><code class="hljs language-plaintext" data-raw="https%3A%2F%2Fapi.xxx.com%2Fv1%2F"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">https://api.xxx.com/v1/</span>
+          </div></code>
+</code></pre><p>就只需要填写</p>
+<pre><code class="hljs language-plaintext"><code class="hljs language-plaintext" data-raw="https%3A%2F%2Fapi.xxx.com"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">https://api.xxx.com</span>
+          </div></code>
+</code></pre><p>模型映射填写你使用的中转站支持的模型名称即可，不一定非要claude，其他的如gpt之类的也行。</p>
+<p>之后就可以进行vide coding了（</p>
+8:X
+18:X
+18:C
+0:{"buildId":"d5shaKPgI6wPKhjMq9b4v","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"AI/claude-code-installation","initialContent":{"html":"$3","toc":[{"id":"heading-0","level":2,"text":"安装","listNo":"1"},{"id":"heading-1","level":2,"text":"配置第三方API","listNo":"2"}],"characterCount":535}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/31r2grztmvylx.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/1mkyb6ha7m1fd.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3n3kbmdy45-cn.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2fuggdtidgq-j.css","precedence":"next"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/2pplp-n2-ksz_.css","precedence":"next"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/085yk5cb1qxwu.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2hy0vgz84yk4-.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/14p2r5knx4xeo.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1m0bxqw09sr4h.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/1-870vhwgf5_8.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#67abff"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Claude Code安装并使用第三方API | LengineerC's blog"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14"]}]}]}],null]}],"isPartial":"$@15","staleTime":"$8","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$8","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$8","varyParams":"$18"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$8","varyParams":"$18"},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
+21:I[27201,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"IconMark"]
+22:I[39756,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default"]
+23:I[37457,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default"]
+24:I[36763,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js"],"default"]
+25:I[94943,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/3i5y3n66uph4o.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/1oc3088uq_8wb.js","/_next/static/chunks/1f0-jlcvu3peu.js"],"default"]
+:HL["/_next/static/chunks/1j1nz1m8ssi9v.css","style"]
+:HL["/_next/static/chunks/2nqzrr1k17b77.css","style"]
+:HL["/generated/font-subset.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/_next/static/chunks/1l-m-8xqhufo2.css","style"]
+6:null
+b:["$","meta","1",{"name":"description","content":"记录一下Claude Code安装方式以及使用中转站API的小坑"}]
+c:["$","meta","2",{"name":"author","content":"LengineerC"}]
+d:["$","link","3",{"rel":"manifest","href":"/manifest.json"}]
+e:["$","meta","4",{"name":"keywords","content":"Claude Code,AI"}]
+f:["$","meta","5",{"name":"creator","content":"LengineerC"}]
+10:["$","link","6",{"rel":"canonical","href":"https://blog.lengineerc.com/post/detail/AI/claude-code-installation/"}]
+11:["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+12:["$","link","8",{"rel":"icon","href":"/favicon.png"}]
+13:["$","link","9",{"rel":"apple-touch-icon","href":"/favicon.png"}]
+14:["$","$L21","10",{}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+1b:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1j1nz1m8ssi9v.css","precedence":"next"}]],["$","$L22",null,{"parallelRouterKey":"children","template":["$","div",null,{"className":"route-page-enter","children":["$","$L23",null,{}]}],"templateStyles":[],"templateScripts":null}]]}]
+1d:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2nqzrr1k17b77.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/05zdfvmr9uzu7.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1u_ur6nk-ac7v.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1vtppmabffa-n.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/1vtieaz8wy-qs.js","async":true}],["$","script","script-4",{"src":"/_next/static/chunks/1w2mylgmi_mxn.js","async":true}],["$","script","script-5",{"src":"/_next/static/chunks/43vp5uuq0rysp.js","async":true}],["$","script","script-6",{"src":"/_next/static/chunks/3i5y3n66uph4o.js","async":true}],["$","script","script-7",{"src":"/_next/static/chunks/38rfc5cjod16a.js","async":true}],["$","script","script-8",{"src":"/_next/static/chunks/2-at84_iyz43q.js","async":true}],["$","script","script-9",{"src":"/_next/static/chunks/1oc3088uq_8wb.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/generated/font-subset.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","style",null,{"children":"@font-face{font-family:'CustomFont1';src:url('/generated/font-subset.woff2') format('woff2');font-display:swap;font-style:normal;font-weight:400}"}]]}],["$","body",null,{"children":[["$","style",null,{"id":"bodyStyle"}],["$","$L24",null,{"children":["$","$L22",null,{"parallelRouterKey":"children","template":["$","div",null,{"className":"route-page-enter","children":["$","$L23",null,{}]}],"templateStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1j1nz1m8ssi9v.css","precedence":"next"}]],"templateScripts":null,"notFound":[["$","$L25",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3n3kbmdy45-cn.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/31r2grztmvylx.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/1l-m-8xqhufo2.css","precedence":"next"}]]]}]}]]}]]}]]}]
+8:300
+20:true
+8:C
+1f:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+1c:"$undefined"
+1e:"$undefined"
+7:"$undefined"

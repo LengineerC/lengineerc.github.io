@@ -1,0 +1,1 @@
+.route-page-enter{animation:.35s ease-out both route-enter}@keyframes route-enter{0%{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}@media (prefers-reduced-motion:reduce){.route-transition{animation:none}}
