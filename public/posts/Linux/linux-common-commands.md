@@ -11,7 +11,7 @@ tags:
   - Shell
 ---
 
-# grep
+## grep
 - `-i, --ignore-case` 忽略大小写
 - `-n` 显示行号
 - `-v` 反向匹配
@@ -21,10 +21,10 @@ tags:
 - `-c` 统计匹配行数
 - `-l` 只显示哪些文件匹配，不显示匹配内容
 - `-H` 正常显示匹配内容，同时在每一行前显示文件名
-## 常用组合
+### 常用组合
 `grep -Hn --color=auto` 打印每个匹配项的文件名和行号，并带彩色输出
 
-# sed
+## sed
 - `sed 's/old/new/' file` 替换每行第一个 `old`
 - `sed 's/old/new/g' file` 全部替换
 - `sed -i 's/old/new/g' file` 直接修改文件，一般采用自动生成备份`sed -i.bak 's/old/new/g' file`
@@ -38,15 +38,15 @@ tags:
 - `sed '3a hello' file` 在第3行后插入行
 - `sed '3i hello' file` 在第3行前插入行
 - `sed '3c hello' file` 替换第3行
-## 常用组合
-### &
+### 常用组合
+#### &
 ```bash
 echo 'hello 123 world' | sed -E 's/[0-9]+/[&]/'
 hello [123] world
 ```
 `&` 表示整个正则匹配到的内容（用于不想改变匹配内容本身，只想在其前后添加东西）
 
-### 捕获组
+#### 捕获组
 ```bash
 echo "hello world" | sed -E 's/(hello) (world)/\2 \1/'
 world hello
@@ -54,14 +54,14 @@ world hello
 `\1` 第1个捕获组
 `\2` 第2个捕获组
 
-# awk
+## awk
 `$0` 整行
 `$n` 第n列
 `$NF` 最后一列
 `NF` 列数
 `NR` 行号
 
-## 列操作
+### 列操作
 - `awk '{print $1}'` 打印第一列
 - `awk '{print $1, $2}'` 打印第一列和第二列
 - `awk '{print $0}'` 表示整行
@@ -70,8 +70,8 @@ world hello
 - `awk '$n ~ /error/ {print}'` 字符串匹配第n列（不写`$n ~ `默认匹配`$0`）
 - `awk '$n !~ /error/ {print}'` 反向字符串匹配第n列（不写`$n ~ `默认匹配`$0`）
 
-## 计算
-### 求和
+### 计算
+#### 求和
 ```bash
 > awk '{sum += $1} END {print sum}' file
 10
@@ -82,10 +82,10 @@ world hello
 60
 ```
 
-### 平均
+#### 平均
 `awk '{sum += $1} END {print sum}'`
 
-### 统计
+#### 统计
 ```bash
 awk '{count[$1]++} END {for (x in count) print x, count[x]}' file
 apple
@@ -99,7 +99,7 @@ apple 3
 banana 2
 ```
 
-### 命令结构
+#### 命令结构
 ```bash
 awk '
 BEGIN {
@@ -124,7 +124,7 @@ BEGIN
 END
 ```
 
-#### example
+##### example
 `awk '{sum += $1} END {print sum}' file`
 ```
 每读取一行：
@@ -134,16 +134,16 @@ END
     print sum
 ```
 
-# 文件描述符
+## 文件描述符
 |  编号 | 名称     | 含义          |
 | :--: | ------ | ----------- |
 | `0` | stdin  | 标准输入，默认来自键盘 |
 | `1` | stdout | 标准输出，普通运行结果 |
 | `2` | stderr | 标准错误，报错和警告  |
 
-# 重定向符
+## 重定向符
 
-## >
+### >
 
 覆盖写入，清空源文件再将`stdout`写入文件（即默认为`1>`）
 
@@ -160,7 +160,7 @@ echo hello 1> output.txt
 command 2> error.log
 ```
 
-### 2>&1
+#### 2>&1
 
 把标准错误重定向到标准输出
 
@@ -188,11 +188,11 @@ command 2>&1 > output.log
 - stdout进入文件
 - stderr仍显示在终端
 
-### 1>&2
+#### 1>&2
 
 把标准输出重定向到标准错误（等价于`>&2`）
 
-#### 使用举例
+##### 使用举例
 ```bash
 # 一般配合exit 1来自定义错误信息
 if [ ! -f config.toml ]; then
@@ -201,7 +201,7 @@ if [ ! -f config.toml ]; then
 fi
 ```
 
-### &>
+#### &>
 
 同时重定向stdout和stderr，但是为bash和zsh支持的语法，不属于POSIX Shell，采用兼容写法
 
@@ -209,7 +209,7 @@ fi
 command > aaaa.txt 2>&1
 ```
 
-## >>
+### >>
 
 在文件后追加写入，和`>`用法一致
 
@@ -220,14 +220,14 @@ command > aaaa.txt 2>&1
 - `>&` 表示复制一个文件描述符。
 - 文件描述符之间不存在“追加复制”这种写法。
 
-### &>>file
+#### &>>file
 同时重定向stdout和stderr，但是依然为bash和zsh支持的语法，不属于POSIX Shell，使用下面的替代写法
 
 ```bash
 command >> aaaa.txt 2>&1
 ```
 
-## <
+### <
 
 从文件中读取输入（将文件作为命令的标准输入）
 
@@ -262,7 +262,7 @@ sort < input.txt > input.txt
 
 shell 会在 `sort` 开始读取前，先因为 `>` 清空 `input.txt`。于是 `sort` 最后只能读到空文件。
 
-## <<
+### <<
 
 又叫here document，用来把多行文本作为命令的标准输入
 
@@ -307,7 +307,7 @@ EOF
 
 ![hd](hd.png)
 
-## <<<
+### <<<
 
 又叫here string，把一段字符串作为标准输入（没见过几个脚本用的，了解就行）。
 
@@ -326,7 +326,7 @@ grep hello <<< "$text"
 printf '%s\n' "$text" | command
 ```
 
-# 管道符
+## 管道符
 
 `|`，把左边命令的标准输出接到右边命令的标准输入
 
@@ -337,7 +337,7 @@ printf '%s\n' "c" "a" "b" | sort
 # printf 的 stdout → sort 的 stdin
 ```
 
-# /dev/null
+## /dev/null
 
 写进去的内容会被丢弃
 

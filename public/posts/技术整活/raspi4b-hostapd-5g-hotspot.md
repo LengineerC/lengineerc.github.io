@@ -13,11 +13,11 @@ tags:
 
 > 适用于树莓派RJ45口连接网线，使用树莓派自带的无线网卡开启AP的情况
 
-# 前置
+## 前置
 用网线连接树莓派的RJ45网口，可以使用DHCP自动分配的IP或者设置静态IP
 
-# 系统配置
-## 设置IP转发
+## 系统配置
+### 设置IP转发
 因为Linux系统默认关闭了IP转发，所以要手动开启，编辑`/etc/sysctl.conf`，取消下列行的注释：
 ```ini
 net.ipv4.ip_forward=1
@@ -26,7 +26,7 @@ net.ipv4.ip_forward=1
 ```bash
 sudo sysctl -p
 ```
-## 设置有线接口的NAT
+### 设置有线接口的NAT
 如果连接网线的接口为`eth0`，设置
 ```bash
 sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
@@ -45,7 +45,7 @@ sudo netfilter-persistent save
 sudo systemctl restart dnsmasq
 ```
 
-## 网络配置
+### 网络配置
 如果树莓派使用的网络管理工具是`systemd-networkd`，先查看其状态
 ```bash
 sudo systemctl status systemd-networkd
@@ -73,15 +73,15 @@ DNS=8.8.8.8 8.8.4.4
 - `Address=192.168.10.1/24`设置`wlan0`的IP地址，和下面`dnsmasq`配置保持一致
 - `PoolOffset=100`和`PoolSize=100`，设置DHCP池的IP偏移量，并设置池大小，所以DHCP的IP池范围为`192.168.10.100`到`192.168.10.200`，和下面`dnsmasq`配置保持一致
 
-# 配置dnsmasq
+## 配置dnsmasq
 > 似乎可以不用配置（未测试）
 
-## 安装`dnsmasq`
+### 安装`dnsmasq`
 安装dnsmasq创建DHCP池实现连接热点自动分配ip
 ```bash
 sudo apt install dnsmasq
 ```
-## 配置
+### 配置
 创建`/etc/dnsmasq.conf`，写入配置：
 ```ini
 interface=wlan0
@@ -94,13 +94,13 @@ dhcp-range=192.168.10.100,192.168.10.200,255.255.255.0,24h
 sudo systemctl restart dnsmasq
 ```
 
-# 配置hostapd
+## 配置hostapd
 安装hostapd用于给无线网卡设置为AP模式
-## 安装`hostapd`
+### 安装`hostapd`
 ```bash
 sudo apt install hostapd
 ```
-## 配置
+### 配置
 创建`/etc/hostapd/hostapd.conf`，配置为：
 ```ini
 interface=wlan0
@@ -137,8 +137,8 @@ cp cyfmac43455-sdio.clm_blob /lib/firmware/brcm/brcmfmac43455-sdio.clm_blob
 
 
 
-# 总结
+## 总结
 树莓派由于硬件限制，无线网卡在2.4GHz情况下热点的速率大概只有70Mb/s左右，开启5GHz信号和设置VHT为80MHz的情况下，Windows显示的连接速度为150Mb/s，从连接速度来看翻了一倍，使用[中国科学技术大学测速网站](https://test.ustc.edu.cn/)测试下载速度，原通过`nmcli`使用2.4GHz信号开启的热点下载速度大约为12Mb/s，改用5GHz后能跑到100多Mb/s，效果提升还是很明显。理论上树莓派4B的无线网卡能跑到千兆速度，~~但实在是优化不来~~。采用openWrt配置无线热点因为树莓派性能过于鸡肋，内存和CPU经常吃满卡死，只能采用这种折中的办法。**有条件还是得整一个正儿八经的路由器**~~<sub>或者Mac mini</sub>~~
 
-# 外部引用参考
+## 外部引用参考
 [[1] 树莓派4B创建5Ghz WiFi热点](https://www.hncldz.com/?p=541)

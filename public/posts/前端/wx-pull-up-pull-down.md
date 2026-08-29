@@ -11,11 +11,11 @@ tags:
   - 微信小程序
 ---
 
-# 使用场景
+## 使用场景
 由于微信小程序本身的限制，使用浏览器中window那一套操作实现监测上下拉大概率是不太行的（微信魔改的那一套渲染架构和沙盒机制）。因此需要使用微信提供的组件和api来实现，本文介绍使用[Taro](https://docs.taro.zone/docs/)总的说来还是比较简单的。
-# 组件的选用
+## 组件的选用
 Taro提供了四种经过封装的视图组件：[CoverView](https://docs.taro.zone/docs/components/viewContainer/cover-view), [MovableView](https://docs.taro.zone/docs/components/viewContainer/movable-view), [ScrollView](https://docs.taro.zone/docs/components/viewContainer/scroll-view), [View](https://docs.taro.zone/docs/components/viewContainer/view)。因为要做的是上拉下拉的检测，查看官方文档，发现`ScrollView`中的`onRefresherRefresh`和`onScrollToLower`属性支持下拉和上拉事件回调的自定义，因此选用该组件实现功能
-# 实现
+## 实现
 虽然`ScrollView`组件名字带个Scroll，但是它其实是默认设置不允许横向纵向滚动的，因此首先需要设置`scrollY`属性为`true`。
 ```JSX
 <ScrollView
