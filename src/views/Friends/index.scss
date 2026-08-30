@@ -61,10 +61,11 @@
       .friends-card-content-title-dark {
         color: rgb(73, 146, 236);
         height: 32px;
-        font-size: 23px;
+        font-size: 1.35rem;
         text-align: center;
         margin-bottom: 3px;
         word-break: keep-all;
+        white-space: nowrap;
         // line-height: 25px;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -77,13 +78,15 @@
       .friends-card-content-description,
       .friends-card-content-description-dark {
         border-top: 1px dashed rgb(159, 159, 159);
-        // padding-top: 5px;
         height: 85px;
-        overflow: hidden;
-        text-overflow: ellipsis;
         word-break: normal;
         font-size: 1rem;
         color: $postColor;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        line-clamp: 4;
       }
 
       .friends-card-content-description-dark {

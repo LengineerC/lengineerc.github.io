@@ -1,20 +1,26 @@
 [
-    {
-        "url": "https://react.dev/",
-        "avatar": "/react-logo.svg",
-        "title": "React",
-        "description": "The library for web and native user interfaces"
-    },
-    {
-        "url": "https://ant-design.antgroup.com/index-cn",
-        "avatar": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
-        "title": "Ant Design 5.0",
-        "description": "助力设计开发者「更灵活」地搭建出「更美」的产品，让用户「快乐工作」"
-    },
-    {
-        "url": "https://chen0jia0jun.github.io/",
-        "avatar": "https://chen0jia0jun.github.io/avatar.webp",
-        "title": "cisyphus",
-        "description": "欢迎光临~"
-    }
+  {
+    "url": "https://react.dev/",
+    "avatar": "/react-logo.svg",
+    "title": "React",
+    "description": "The library for web and native user interfaces"
+  },
+  {
+    "url": "https://nextjs.org/",
+    "avatar": "https://camo.githubusercontent.com/e09de2e26b8969bbdb89a550c09c8cb18f1402707ee24e5d4c323b99aeb4ca52/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67",
+    "title": "Next.js",
+    "description": "Next.js enables you to create high-quality web applications with the power of React components."
+  },
+  {
+    "url": "https://ant-design.antgroup.com/index-cn",
+    "avatar": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
+    "title": "Ant Design 5.0",
+    "description": "助力设计开发者「更灵活」地搭建出「更美」的产品，让用户「快乐工作」"
+  },
+  {
+    "url": "https://chen0jia0jun.github.io/",
+    "avatar": "https://chen0jia0jun.github.io/avatar.webp",
+    "title": "cisyphus",
+    "description": "欢迎光临~"
+  }
 ]
