@@ -13,7 +13,7 @@
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  .katex-display{
+  .katex-display {
     overflow-x: scroll;
     @extend .hv-center;
 
@@ -192,13 +192,13 @@
 
   code {
     background-color: #afb8c15e;
-    padding: 2px 5px;
+    padding: 1px 2px;
     margin: 0 1px;
     border-radius: 5px;
     color: rgb(9, 103, 32);
     white-space: normal;
     overflow-wrap: normal;
-    word-break: keep-all;  
+    word-break: keep-all;
   }
 
   pre {
@@ -376,7 +376,7 @@
     display: none;
   }
 
-  .katex-display{
+  .katex-display {
     overflow-x: scroll;
     @extend .hv-center;
 
