@@ -10,4 +10,4 @@
 :HL["/generated/font-subset.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/_next/static/chunks/1j1nz1m8ssi9v.css","style"]
 :HL["/_next/static/chunks/4552o96iydyco.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"1t9BGT8xaO45A3z3Ebguk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"9UAQjd44tAeGh8_-HSpCl"}
