@@ -1,0 +1,915 @@
+1:"$Sreact.fragment"
+2:I[36763,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"default"]
+3:I[39756,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"default"]
+4:I[37457,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"default"]
+5:I[94943,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js","/_next/static/chunks/258uhdix76rlo.js"],"default"]
+7:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+c:I[68027,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"default",1]
+:HL["/_next/static/chunks/2nqzrr1k17b77.css","style"]
+:HL["/_next/static/chunks/1j1nz1m8ssi9v.css","style"]
+:HL["/_next/static/chunks/31r2grztmvylx.css","style"]
+:HL["/_next/static/chunks/1mjjv92fcd_3s.css","style"]
+:HL["/_next/static/chunks/3n3kbmdy45-cn.css","style"]
+:HL["/_next/static/chunks/2fuggdtidgq-j.css","style"]
+:HL["/_next/static/chunks/2pplp-n2-ksz_.css","style"]
+:HL["/_next/static/chunks/2lvrdpvw0uuzx.css","style"]
+:HL["/generated/font-subset.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/_next/static/chunks/4552o96iydyco.css","style"]
+a:X
+0:{"P":null,"c":["","post","detail","Linux","kvm_multiplexing_of_physical_win11",""],"q":"","i":false,"f":[[["",{"children":["post",{"children":["detail",{"children":[["slug","Linux/kvm_multiplexing_of_physical_win11","c",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2nqzrr1k17b77.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05zdfvmr9uzu7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1u_ur6nk-ac7v.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1vtppmabffa-n.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1vtieaz8wy-qs.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/1w2mylgmi_mxn.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/43vp5uuq0rysp.js","async":true,"nonce":"$undefined"}],["$","script","script-6",{"src":"/_next/static/chunks/06oj1v7gvl5xm.js","async":true,"nonce":"$undefined"}],["$","script","script-7",{"src":"/_next/static/chunks/38rfc5cjod16a.js","async":true,"nonce":"$undefined"}],["$","script","script-8",{"src":"/_next/static/chunks/2-at84_iyz43q.js","async":true,"nonce":"$undefined"}],["$","script","script-9",{"src":"/_next/static/chunks/2wzgtefrbi0w9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/generated/font-subset.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}],["$","style",null,{"children":"@font-face{font-family:'CustomFont1';src:url('/generated/font-subset.woff2') format('woff2');font-display:swap;font-style:normal;font-weight:400}"}]]}],["$","body",null,{"children":[["$","style",null,{"id":"bodyStyle"}],["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"route-page-enter","children":["$","$L4",null,{}]}],"templateStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1j1nz1m8ssi9v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"templateScripts":null,"notFound":[["$","$L5",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/4552o96iydyco.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1j1nz1m8ssi9v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"route-page-enter","children":["$","$L4",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/31r2grztmvylx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/1mjjv92fcd_3s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/3n3kbmdy45-cn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/2fuggdtidgq-j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/2pplp-n2-ksz_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/chunks/2lvrdpvw0uuzx.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2hy0vgz84yk4-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14p2r5knx4xeo.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1m0bxqw09sr4h.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1-870vhwgf5_8.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,"$a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_vLtP_ln5ou_3-YVDUaPd"}
+e:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"MetadataBoundary"]
+a:C
+b:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$L11"}]}]}],null]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2nqzrr1k17b77.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:I[94402,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js","/_next/static/chunks/2hy0vgz84yk4-.js","/_next/static/chunks/14p2r5knx4xeo.js","/_next/static/chunks/1m0bxqw09sr4h.js","/_next/static/chunks/1-870vhwgf5_8.js"],"default"]
+13:T17a22,<blockquote>
+<p><strong>适用场景</strong>：Arch Linux 与 Windows 11 位于同一块物理 NVMe SSD；希望在物理启动 Windows 和 Arch 内的 KVM Windows 之间复用<strong>同一个 NTFS 系统分区</strong>，同时将 NVIDIA 显卡直通给虚拟机。本文只覆盖<strong>物理分区映射、虚拟 EFI、Windows 引导、VirtIO SCSI、VFIO、<code>winvm</code> / <code>mdadm linear</code> 管理</strong>；不讨论 HugePages、CPU Pinning、Looking Glass 的配置。</p>
+<p><strong>风险提示</strong>：这是高风险的共享系统盘方案。操作前备份 Windows 的重要数据、BitLocker 恢复密钥及虚拟 EFI 文件。<strong>同一时间只能有一套 Windows 使用这个 NTFS 分区</strong>。不要把运行 Arch 的整块 NVMe 设备直通给虚拟机。本文中的设备路径和扇区数来自这台机器的实际布局，移植到别的电脑时必须重新核对，不能照抄。</p>
+</blockquote>
+<h2 id="heading-0" data-id="heading-0">0. 目标结构与已知分区</h2>
+<p>物理 SSD 为 <code>/dev/nvme0n1</code>，Arch 和 Windows 共盘。本文实际使用的 Windows 数据分区是 <code>/dev/nvme0n1p3</code>：</p>
+<table>
+<thead>
+<tr>
+<th>物理分区</th>
+<th>用途</th>
+<th>大小／说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>/dev/nvme0n1p1</code></td>
+<td><strong>实体 Windows EFI</strong></td>
+<td>200 MiB；只供物理 Windows 启动</td>
+</tr>
+<tr>
+<td><code>/dev/nvme0n1p2</code></td>
+<td>Windows MSR</td>
+<td>16 MiB</td>
+</tr>
+<tr>
+<td><code>/dev/nvme0n1p3</code></td>
+<td><strong>实体 Windows 11 NTFS 系统分区</strong></td>
+<td>634859520 个 512B 扇区（约 302.7 GiB）</td>
+</tr>
+<tr>
+<td><code>/dev/nvme0n1p4</code></td>
+<td>Windows 恢复分区</td>
+<td>约 954 MiB</td>
+</tr>
+<tr>
+<td><code>/dev/nvme0n1p5</code></td>
+<td>Arch EFI</td>
+<td>1 GiB</td>
+</tr>
+<tr>
+<td><code>/dev/nvme0n1p6</code></td>
+<td>Arch Btrfs</td>
+<td>约 649 GiB</td>
+</tr>
+</tbody></table>
+<p><strong>禁止</strong>将整个 <code>/dev/nvme0n1</code> 作为 QEMU 磁盘：虚拟机可能写入正在由宿主机使用的 Arch 分区、GPT 或 EFI。采用 <code>mdadm --build --level=linear</code> 将三个片段顺序映射成一个只向虚拟机暴露 Windows 的逻辑 GPT 磁盘：</p>
+<pre><code class="hljs language-text"><code class="hljs language-text" data-raw="%E8%99%9A%E6%8B%9F%E7%A3%81%E7%9B%98%20%2Fdev%2Fmd%2Fwinvm%20%20%EF%BC%88%E5%AE%9E%E9%99%85%E5%8F%AF%E8%83%BD%E6%98%BE%E7%A4%BA%20%2Fdev%2Fmd127%EF%BC%89%0A%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%AC%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%AC%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90%0A%E2%94%82%20efi-head.img%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82%20%2Fdev%2Fnvme0n1p3%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82%20gpt-tail.img%20%20%20%20%20%20%20%20%20%E2%94%82%0A%E2%94%82%20128%20MiB%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82%20634859520%20sectors%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82%201%20MiB%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%94%82%0A%E2%94%82%20%E8%99%9A%E6%8B%9F%E4%B8%BB%20GPT%20%2B%20%E8%99%9A%E6%8B%9F%20ESP%20%20%20%E2%94%82%20%E5%8E%9F%E5%B0%81%E4%B8%8D%E5%8A%A8%E7%9A%84%E5%AE%9E%E4%BD%93%20Windows%20NTFS%20%20%20%20%20%E2%94%82%20%E8%99%9A%E6%8B%9F%E5%A4%87%E4%BB%BD%20GPT%20%20%20%20%20%20%20%20%20%E2%94%82%0A%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%B4%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%B4%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%86%93%20%E8%99%9A%E6%8B%9F%20GPT%20%E5%88%86%E5%8C%BA%E8%A1%A8%0A%20%20p1%3A%20EFI%EF%BC%8C%E8%B5%B7%E5%A7%8B%202048%EF%BC%8C%E6%9C%AB%E5%B0%BE%20262143%EF%BC%9Bp2%3A%20NTFS%EF%BC%8C%E8%B5%B7%E5%A7%8B%20262144%EF%BC%8C%E6%9C%AB%E5%B0%BE%20635121663"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">虚拟磁盘 /dev/md/winvm  （实际可能显示 /dev/md127）</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">┌─────────────────────────┬─────────────────────────────────┬──────────────────────┐</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">│ efi-head.img            │ /dev/nvme0n1p3                  │ gpt-tail.img         │</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">│ 128 MiB                 │ 634859520 sectors               │ 1 MiB                │</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">│ 虚拟主 GPT + 虚拟 ESP   │ 原封不动的实体 Windows NTFS     │ 虚拟备份 GPT         │</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">└─────────────────────────┴─────────────────────────────────┴──────────────────────┘</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">                 ↓ 虚拟 GPT 分区表</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content">  p1: EFI，起始 2048，末尾 262143；p2: NTFS，起始 262144，末尾 635121663</span>
+          </div></code>
+</code></pre><p>计算核对：<code>262144 + 634859520 + 2048 = 635123712</code> 个扇区，对应整个 MD 设备约 <strong>302.85 GiB</strong>。虚拟 EFI 分区为 <strong>260096 个扇区（127 MiB）</strong>；前 1 MiB 用于 GPT 和对齐。虚拟 NTFS 的第一个扇区正好是实体 <code>/dev/nvme0n1p3</code> 的第一个扇区。</p>
+<h2 id="heading-1" data-id="heading-1">1. 第一次创建前的安全检查</h2>
+<p>先在<strong>实体 Windows</strong> 的管理员 PowerShell 中关闭休眠和快速启动：</p>
+<pre><code class="hljs language-powershell"><code class="hljs language-powershell" data-raw="powercfg%20%2Fh%20off%0Ashutdown%20%2Fs%20%2Ft%200"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">powercfg /<span class="hljs-built_in">h</span> off</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">shutdown /s /t <span class="hljs-number">0</span></span>
+          </div></code>
+</code></pre><p>如果启用了 BitLocker／设备加密，预先备份恢复密钥，并明确当前 Windows 分区是否加密；切换虚拟 TPM 与实体 TPM 可能触发恢复。请确保 Windows 真正关机，而非休眠。随后进入 Arch：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20pacman%20-S%20--needed%20mdadm%20gptfdisk%20util-linux%20qemu-full%20libvirt%20virt-manager%0Alsblk%20-o%20NAME%2CPATH%2CSTART%2CSIZE%2CFSTYPE%2CMOUNTPOINTS%20%2Fdev%2Fnvme0n1%0Asudo%20blockdev%20--getss%20%2Fdev%2Fnvme0n1p3%0Asudo%20blockdev%20--getsz%20%2Fdev%2Fnvme0n1p3%0Afindmnt%20--source%20%2Fdev%2Fnvme0n1p3%0Asudo%20virsh%20-c%20qemu%3A%2F%2F%2Fsystem%20domstate%20win11%202%3E%2Fdev%2Fnull%20%7C%7C%20true"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> pacman -S --needed mdadm gptfdisk util-linux qemu-full libvirt virt-manager</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">lsblk -o NAME,PATH,START,SIZE,FSTYPE,MOUNTPOINTS /dev/nvme0n1</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> blockdev --getss /dev/nvme0n1p3</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> blockdev --getsz /dev/nvme0n1p3</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">findmnt --<span class="hljs-built_in">source</span> /dev/nvme0n1p3</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh -c qemu:///system domstate win11 2&gt;/dev/null || <span class="hljs-literal">true</span></span>
+          </div></code>
+</code></pre><p>这台机器应为 <strong>512 字节逻辑扇区</strong>、<strong>634859520 个扇区</strong>。<code>findmnt</code> 不应有输出。若磁盘布局、分区尺寸或逻辑扇区大小不同，先重新计算所有 GPT 边界，不要直接运行后面的 <code>sgdisk</code> 命令。</p>
+<blockquote>
+<p><strong>只执行一次的操作</strong>：下一节中的 <code>truncate</code>、<code>sgdisk --clear</code>、<code>mkfs.vfat</code>、Windows <code>bcdboot</code> 是虚拟磁盘首次初始化步骤。<strong>如果你的 <code>/var/lib/libvirt/win-physical/*.img</code> 已经包含之前可启动的虚拟 EFI/GPT，就不要重复初始化！</strong></p>
+</blockquote>
+<h2 id="heading-2" data-id="heading-2">2. 首次构建 MD Linear 虚拟磁盘</h2>
+<h3 id="heading-3" data-id="heading-3">2.1 创建头尾文件（仅首次）</h3>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20mkdir%20-p%20%2Fvar%2Flib%2Flibvirt%2Fwin-physical%0Asudo%20truncate%20-s%20128M%20%2Fvar%2Flib%2Flibvirt%2Fwin-physical%2Fefi-head.img%0Asudo%20truncate%20-s%201M%20%2Fvar%2Flib%2Flibvirt%2Fwin-physical%2Fgpt-tail.img"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">mkdir</span> -p /var/lib/libvirt/win-physical</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">truncate</span> -s 128M /var/lib/libvirt/win-physical/efi-head.img</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">truncate</span> -s 1M /var/lib/libvirt/win-physical/gpt-tail.img</span>
+          </div></code>
+</code></pre><p>头文件以后会保存虚拟 GPT、FAT32 ESP 和 Windows Boot Manager；尾文件保存备份 GPT。它们<strong>不是可随意删除的缓存</strong>，应连同 Windows 数据定期备份。</p>
+<h3 id="heading-4" data-id="heading-4">2.2 附加 Loop 并组装阵列</h3>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="HEAD%3D%24(sudo%20losetup%20--find%20--show%20%2Fvar%2Flib%2Flibvirt%2Fwin-physical%2Fefi-head.img)%0ATAIL%3D%24(sudo%20losetup%20--find%20--show%20%2Fvar%2Flib%2Flibvirt%2Fwin-physical%2Fgpt-tail.img)%0Aprintf%20'HEAD%3D%25s%5CnTAIL%3D%25s%5Cn'%20%22%24HEAD%22%20%22%24TAIL%22%0A%0Asudo%20mdadm%20--build%20%2Fdev%2Fmd%2Fwinvm%20%5C%0A%20%20--level%3Dlinear%20--raid-devices%3D3%20--chunk%3D512%20%5C%0A%20%20%22%24HEAD%22%20%2Fdev%2Fnvme0n1p3%20%22%24TAIL%22%0A%0Asudo%20udevadm%20settle%0Asudo%20mdadm%20--detail%20%2Fdev%2Fmd%2Fwinvm%0Asudo%20blockdev%20--getsz%20%2Fdev%2Fmd%2Fwinvm"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">HEAD=$(<span class="hljs-built_in">sudo</span> losetup --find --show /var/lib/libvirt/win-physical/efi-head.img)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">TAIL=$(<span class="hljs-built_in">sudo</span> losetup --find --show /var/lib/libvirt/win-physical/gpt-tail.img)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">printf</span> <span class="hljs-string">&#x27;HEAD=%s\nTAIL=%s\n&#x27;</span> <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD</span>&quot;</span> <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> mdadm --build /dev/md/winvm \</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">  --level=linear --raid-devices=3 --chunk=512 \</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">  <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD</span>&quot;</span> /dev/nvme0n1p3 <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="9"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> udevadm settle</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="10"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> mdadm --detail /dev/md/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="11"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> blockdev --getsz /dev/md/winvm</span>
+          </div></code>
+</code></pre><p>在本机输出应为 <code>635123712</code> 扇区，成员顺序依次是<strong>头 Loop → 真实 NTFS → 尾 Loop</strong>。<code>--chunk=512</code> 是这个已经验证的阵列采用的参数，不要在后续恢复时擅自改变。</p>
+<h3 id="heading-5" data-id="heading-5">2.3 在<strong>虚拟 MD 设备</strong>上创建 GPT（仅首次）</h3>
+<p>⚠️ 下列命令会<strong>清空目标设备的 GPT</strong>。务必确认目标是新组装的 <strong><code>/dev/md/winvm</code></strong>，绝不是 <code>/dev/nvme0n1</code> 或 <code>/dev/nvme0n1p3</code>。</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20sgdisk%20--clear%20%5C%0A%20%20--new%3D1%3A2048%3A262143%20--typecode%3D1%3AEF00%20--change-name%3D1%3A'Windows%20VM%20EFI'%20%5C%0A%20%20--new%3D2%3A262144%3A635121663%20--typecode%3D2%3A0700%20--change-name%3D2%3A'Windows%2011'%20%5C%0A%20%20%2Fdev%2Fmd%2Fwinvm%0A%0Asudo%20partprobe%20%2Fdev%2Fmd%2Fwinvm%0Asudo%20udevadm%20settle%0Asudo%20sgdisk%20-v%20%2Fdev%2Fmd%2Fwinvm%0Alsblk%20-o%20NAME%2CPATH%2CSTART%2CSIZE%2CFSTYPE%20%2Fdev%2Fmd%2Fwinvm"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> sgdisk --clear \</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">  --new=1:2048:262143 --typecode=1:EF00 --change-name=1:<span class="hljs-string">&#x27;Windows VM EFI&#x27;</span> \</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">  --new=2:262144:635121663 --typecode=2:0700 --change-name=2:<span class="hljs-string">&#x27;Windows 11&#x27;</span> \</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">  /dev/md/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> partprobe /dev/md/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> udevadm settle</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> sgdisk -v /dev/md/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="9"></span>
+            <span class="code-content">lsblk -o NAME,PATH,START,SIZE,FSTYPE /dev/md/winvm</span>
+          </div></code>
+</code></pre><p>如果映射为 <code>/dev/md127</code>，虚拟 ESP 是 <code>/dev/md127p1</code>，映射 Windows NTFS 是 <code>/dev/md127p2</code>。分区号也可用 <code>readlink -f /dev/md/winvm</code> 动态确定。</p>
+<h3 id="heading-6" data-id="heading-6">2.4 只格式化虚拟 EFI（仅首次）</h3>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="MD_REAL%3D%24(readlink%20-f%20%2Fdev%2Fmd%2Fwinvm)%0Asudo%20mkfs.vfat%20-F%2032%20-n%20WINVM_EFI%20%22%24%7BMD_REAL%7Dp1%22"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">MD_REAL=$(<span class="hljs-built_in">readlink</span> -f /dev/md/winvm)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> mkfs.vfat -F 32 -n WINVM_EFI <span class="hljs-string">&quot;<span class="hljs-variable">${MD_REAL}</span>p1&quot;</span></span>
+          </div></code>
+</code></pre><p><strong>绝对不要对 <code>${MD_REAL}p2</code> 或 <code>/dev/nvme0n1p3</code> 执行 <code>mkfs</code>。</strong></p>
+<h3 id="heading-7" data-id="heading-7">2.5 验证 NTFS 零偏移映射</h3>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20blockdev%20--getsz%20%2Fdev%2Fmd%2Fwinvm%20%20%20%20%20%20%23%20635123712%0Asudo%20blockdev%20--getsz%20%22%24%7BMD_REAL%7Dp2%22%20%20%20%20%20%23%20634859520%0Asudo%20cmp%20-n%204096%20%22%24%7BMD_REAL%7Dp2%22%20%2Fdev%2Fnvme0n1p3%20%26%26%20echo%20'NTFS%20mapping%20OK'%0Asudo%20sgdisk%20-v%20%2Fdev%2Fmd%2Fwinvm"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> blockdev --getsz /dev/md/winvm      <span class="hljs-comment"># 635123712</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> blockdev --getsz <span class="hljs-string">&quot;<span class="hljs-variable">${MD_REAL}</span>p2&quot;</span>     <span class="hljs-comment"># 634859520</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> cmp -n 4096 <span class="hljs-string">&quot;<span class="hljs-variable">${MD_REAL}</span>p2&quot;</span> /dev/nvme0n1p3 &amp;&amp; <span class="hljs-built_in">echo</span> <span class="hljs-string">&#x27;NTFS mapping OK&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> sgdisk -v /dev/md/winvm</span>
+          </div></code>
+</code></pre><p><code>cmp</code> 返回 <code>0</code> 代表前 4096 字节完全一致。这只能检查映射起始位置，不是整个 NTFS 的完整一致性校验。</p>
+<h2 id="heading-8" data-id="heading-8">3. 建立 KVM 虚拟机与独立 Windows EFI 引导</h2>
+<h3 id="heading-9" data-id="heading-9">3.1 虚拟机基础设置</h3>
+<p>在 Virt-manager 创建 Windows 11 虚拟机，使用：</p>
+<ul>
+<li>连接：<code>qemu:///system</code>，芯片组：Q35，固件：OVMF UEFI。</li>
+<li>CPU：<code>host-passthrough</code>；内存、核数按需要分配。</li>
+<li>先用 <strong>QXL/SPICE 虚拟显卡</strong>完成安装和诊断，后续 VFIO 验证后再禁用虚拟显卡。</li>
+<li>将已有磁盘 <strong><code>/dev/md/winvm</code> 作为整个块设备</strong>添加，初始使用 <strong>SATA</strong> 总线（Windows 自带 AHCI 启动驱动）；不是将 <code>/dev/md127p2</code> 单独作为启动盘。</li>
+<li>临时挂载 Windows 安装 ISO，用于 WinPE 重建<strong>虚拟 EFI</strong> 中的 Windows Boot Manager。</li>
+</ul>
+<p>磁盘 XML 初始示例：</p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%3Cdisk%20type%3D%22block%22%20device%3D%22disk%22%3E%0A%20%20%3Cdriver%20name%3D%22qemu%22%20type%3D%22raw%22%20cache%3D%22none%22%20io%3D%22native%22%2F%3E%0A%20%20%3Csource%20dev%3D%22%2Fdev%2Fmd%2Fwinvm%22%2F%3E%0A%20%20%3Ctarget%20dev%3D%22sda%22%20bus%3D%22sata%22%2F%3E%0A%20%20%3Cboot%20order%3D%222%22%2F%3E%0A%3C%2Fdisk%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">disk</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;block&quot;</span> <span class="hljs-attr">device</span>=<span class="hljs-string">&quot;disk&quot;</span>&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">driver</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;qemu&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;raw&quot;</span> <span class="hljs-attr">cache</span>=<span class="hljs-string">&quot;none&quot;</span> <span class="hljs-attr">io</span>=<span class="hljs-string">&quot;native&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">source</span> <span class="hljs-attr">dev</span>=<span class="hljs-string">&quot;/dev/md/winvm&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">target</span> <span class="hljs-attr">dev</span>=<span class="hljs-string">&quot;sda&quot;</span> <span class="hljs-attr">bus</span>=<span class="hljs-string">&quot;sata&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">boot</span> <span class="hljs-attr">order</span>=<span class="hljs-string">&quot;2&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;/<span class="hljs-name">disk</span>&gt;</span></span>
+          </div></code>
+</code></pre><p>临时让 Windows 安装 ISO 的 CD-ROM <code>&lt;boot order=&quot;1&quot;/&gt;</code>；不要同时设置冲突的启动顺序，也不要混合使用 <code>&lt;os&gt;&lt;boot dev=...&gt;</code> 与每设备 <code>&lt;boot order&gt;</code>。</p>
+<h3 id="heading-10" data-id="heading-10">3.2 从安装 ISO 进入 WinPE</h3>
+<p>启动虚拟机，进入 Windows 安装程序后按 <strong>Shift + F10</strong> 打开命令提示符：</p>
+<pre><code class="hljs language-text"><code class="hljs language-text" data-raw="diskpart%0Alist%20disk%0Alist%20volume"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">diskpart</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">list disk</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">list volume</span>
+          </div></code>
+</code></pre><p>在本机首次操作时：Windows NTFS 原系统盘显示约 302 GiB；虚拟 EFI 为约 <strong>127 MiB FAT32</strong>，标签 <code>WINVM_EFI</code>。根据实际卷号给虚拟 EFI 指定盘符 <code>S:</code>：</p>
+<pre><code class="hljs language-text"><code class="hljs language-text" data-raw="select%20volume%20%3C127MiB%20FAT32%20%E5%8D%B7%E5%8F%B7%3E%0Aassign%20letter%3DS%0Aexit"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">select volume &lt;127MiB FAT32 卷号&gt;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content">assign letter=S</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">exit</span>
+          </div></code>
+</code></pre><p>不要根据卷号盲选；先检查 Windows 实际盘符：</p>
+<pre><code class="hljs language-cmd"><code class="hljs language-cmd" data-raw="dir%20C%3A%5CWindows%5CSystem32%5Cwinload.efi"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">dir</span> C:\Windows\System32\winload.efi</span>
+          </div></code>
+</code></pre><p>如果 <code>C:</code> 不是 Windows 分区，改为实际盘符。随后<strong>只往虚拟 EFI 写引导文件</strong>：</p>
+<pre><code class="hljs language-cmd"><code class="hljs language-cmd" data-raw="bcdboot%20C%3A%5CWindows%20%2Fs%20S%3A%20%2Ff%20UEFI"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">bcdboot C:\Windows /s S: /f UEFI</span>
+          </div></code>
+</code></pre><p>检查：</p>
+<pre><code class="hljs language-cmd"><code class="hljs language-cmd" data-raw="dir%20S%3A%5CEFI%5CMicrosoft%5CBoot%5Cbootmgfw.efi"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">dir</span> S:\EFI\Microsoft\Boot\bootmgfw.efi</span>
+          </div></code>
+</code></pre><p>完成后通过 <code>wpeutil shutdown</code> 关机，移除安装 ISO 的优先启动顺序，并把 MD 系统盘改为 <code>&lt;boot order=&quot;1&quot;/&gt;</code>。重新启动后应进入<strong>原来的 Windows 11</strong>。物理 <code>/dev/nvme0n1p1</code> EFI 不需要修改。</p>
+<blockquote>
+<p>注意：<code>bcdboot /s S:</code> 使用指定的虚拟 ESP 创建启动文件，UEFI 选择引导项的方式还取决于 OVMF NVRAM 和 EFI 回退路径。如果启动后仍然回到 UEFI Shell，先通过 OVMF Boot Manager 检查虚拟 ESP 的引导项，不要对实体 EFI 操作。</p>
+</blockquote>
+<h2 id="heading-11" data-id="heading-11">4. SATA → VirtIO SCSI（先装驱动，再换系统盘）</h2>
+<p>初次采用 SATA 是为确保原 Windows 直接启动；稳定后再改为 VirtIO SCSI，减少 AHCI 设备模拟开销。<strong>一定先安装 <code>vioscsi</code> 驱动，不能直接把引导盘总线改成 SCSI。</strong></p>
+<h3 id="heading-12" data-id="heading-12">4.1 添加临时测试盘</h3>
+<p>关机后在 Arch 创建一个独立的临时盘：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20qemu-img%20create%20-f%20raw%20%2Fvar%2Flib%2Flibvirt%2Fimages%2Fvirtio-test.img%20128M"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> qemu-img create -f raw /var/lib/libvirt/images/virtio-test.img 128M</span>
+          </div></code>
+</code></pre><p>Virt-manager → 虚拟机详情 → <strong>添加硬件 → 存储</strong>：选择该测试镜像，总线为 <strong>SCSI</strong>；控制器选择 <strong>VirtIO SCSI</strong>。也可以在 XML 中添加：</p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%3Ccontroller%20type%3D%22scsi%22%20index%3D%220%22%20model%3D%22virtio-scsi%22%2F%3E%0A%3Cdisk%20type%3D%22file%22%20device%3D%22disk%22%3E%0A%20%20%3Cdriver%20name%3D%22qemu%22%20type%3D%22raw%22%2F%3E%0A%20%20%3Csource%20file%3D%22%2Fvar%2Flib%2Flibvirt%2Fimages%2Fvirtio-test.img%22%2F%3E%0A%20%20%3Ctarget%20dev%3D%22sdb%22%20bus%3D%22scsi%22%2F%3E%0A%3C%2Fdisk%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">controller</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;scsi&quot;</span> <span class="hljs-attr">index</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">model</span>=<span class="hljs-string">&quot;virtio-scsi&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">disk</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;file&quot;</span> <span class="hljs-attr">device</span>=<span class="hljs-string">&quot;disk&quot;</span>&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">driver</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;qemu&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;raw&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">source</span> <span class="hljs-attr">file</span>=<span class="hljs-string">&quot;/var/lib/libvirt/images/virtio-test.img&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">target</span> <span class="hljs-attr">dev</span>=<span class="hljs-string">&quot;sdb&quot;</span> <span class="hljs-attr">bus</span>=<span class="hljs-string">&quot;scsi&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;/<span class="hljs-name">disk</span>&gt;</span></span>
+          </div></code>
+</code></pre><p>原来的 Windows SATA 磁盘暂时不动。测试盘没有 <code>&lt;boot order&gt;</code>；<strong>同一虚拟机内的磁盘 target 名不能重复</strong>，避免此前遇到的 <code>target &#39;sda&#39; duplicated for disks</code>。</p>
+<h3 id="heading-13" data-id="heading-13">4.2 Windows 中加载驱动</h3>
+<p>挂载 <code>virtio-win.iso</code>，启动 Windows；在管理员 PowerShell 中使用 ISO 实际盘符（例为 <code>D:</code>）：</p>
+<pre><code class="hljs language-powershell"><code class="hljs language-powershell" data-raw="pnputil%20%2Fadd-driver%20%22D%3A%5Cvioscsi%5Cw11%5Camd64%5Cvioscsi.inf%22%20%2Finstall%0AGet-PnpDevice%20-Class%20SCSIAdapter"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">pnputil /<span class="hljs-built_in">add-driver</span> <span class="hljs-string">&quot;D:\vioscsi\w11\amd64\vioscsi.inf&quot;</span> /install</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">Get-PnpDevice</span> <span class="hljs-literal">-Class</span> SCSIAdapter</span>
+          </div></code>
+</code></pre><p>检查出现状态正常的 <strong>Red Hat VirtIO SCSI controller</strong>。可在 SATA 模式下正常重启一次验证驱动。<strong>不需要初始化或格式化临时盘</strong>，不要在磁盘管理中误操作真实系统盘。</p>
+<h3 id="heading-14" data-id="heading-14">4.3 切换系统盘并删除测试盘</h3>
+<p>Windows <strong>完整关机</strong>后备份配置：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20virsh%20dumpxml%20--inactive%20win11%20%3E%20~%2Fwin11-sata-backup.xml"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh dumpxml --inactive win11 &gt; ~/win11-sata-backup.xml</span>
+          </div></code>
+</code></pre><p>在 Virt-manager XML 编辑器中移除临时测试磁盘节点；保留 VirtIO SCSI 控制器；将 <code>/dev/md/winvm</code> 的磁盘节点改为：</p>
+<pre><code class="hljs language-xml"><code class="hljs language-xml" data-raw="%3Ccontroller%20type%3D%22scsi%22%20index%3D%220%22%20model%3D%22virtio-scsi%22%2F%3E%0A%3Cdisk%20type%3D%22block%22%20device%3D%22disk%22%3E%0A%20%20%3Cdriver%20name%3D%22qemu%22%20type%3D%22raw%22%20cache%3D%22none%22%20io%3D%22native%22%2F%3E%0A%20%20%3Csource%20dev%3D%22%2Fdev%2Fmd%2Fwinvm%22%2F%3E%0A%20%20%3Ctarget%20dev%3D%22sda%22%20bus%3D%22scsi%22%2F%3E%0A%20%20%3Cboot%20order%3D%221%22%2F%3E%0A%3C%2Fdisk%3E"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">controller</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;scsi&quot;</span> <span class="hljs-attr">index</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">model</span>=<span class="hljs-string">&quot;virtio-scsi&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;<span class="hljs-name">disk</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;block&quot;</span> <span class="hljs-attr">device</span>=<span class="hljs-string">&quot;disk&quot;</span>&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">driver</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;qemu&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;raw&quot;</span> <span class="hljs-attr">cache</span>=<span class="hljs-string">&quot;none&quot;</span> <span class="hljs-attr">io</span>=<span class="hljs-string">&quot;native&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">source</span> <span class="hljs-attr">dev</span>=<span class="hljs-string">&quot;/dev/md/winvm&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">target</span> <span class="hljs-attr">dev</span>=<span class="hljs-string">&quot;sda&quot;</span> <span class="hljs-attr">bus</span>=<span class="hljs-string">&quot;scsi&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">  <span class="hljs-tag">&lt;<span class="hljs-name">boot</span> <span class="hljs-attr">order</span>=<span class="hljs-string">&quot;1&quot;</span>/&gt;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content"><span class="hljs-tag">&lt;/<span class="hljs-name">disk</span>&gt;</span></span>
+          </div></code>
+</code></pre><p>删除原 SATA 磁盘的旧 <code>&lt;address type=&quot;drive&quot; .../&gt;</code>，由 libvirt 分配新的 SCSI 地址。之后正常启动 Windows。若出现 <code>INACCESSIBLE_BOOT_DEVICE</code>，先关机、恢复 SATA XML（<code>sudo virsh define ~/win11-sata-backup.xml</code>），不要直接运行磁盘修复或重新分区。</p>
+<p>确认虚拟机配置<strong>不再引用</strong> <code>/var/lib/libvirt/images/virtio-test.img</code> 后，才能删除测试文件：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20virsh%20dumpxml%20--inactive%20win11%20%7C%20grep%20-F%20virtio-test.img%20%7C%7C%20true%0Asudo%20rm%20--%20%2Fvar%2Flib%2Flibvirt%2Fimages%2Fvirtio-test.img"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh dumpxml --inactive win11 | grep -F virtio-test.img || <span class="hljs-literal">true</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">rm</span> -- /var/lib/libvirt/images/virtio-test.img</span>
+          </div></code>
+</code></pre><p>这里的 <code>rm</code> 仅针对明确的<strong>临时测试文件</strong>，绝不要删除 <code>efi-head.img</code>、<code>gpt-tail.img</code> 或 <code>/dev/md/winvm</code>。</p>
+<h2 id="heading-15" data-id="heading-15">5. <code>winvm</code>：恢复和停止 MD Linear 的管理脚本</h2>
+<p><code>mdadm --build</code> 建立的是<strong>没有持久 MD 超级块</strong>的线性阵列。重启 Arch 后，<code>/dev/md/winvm</code> 会消失，两个 Loop 设备也可能改变编号；<strong>不能指望普通 RAID 自动扫描永久恢复</strong>。因此使用脚本按固定顺序重建：</p>
+<ul>
+<li><code>sudo winvm start</code>：检测并恢复映射，验证关键几何结构。</li>
+<li><code>sudo winvm stop</code>：只在 VM 已关机、相关文件系统没有挂载时停止映射并释放 Loop。</li>
+<li><code>sudo winvm status</code>：输出 MD、Loop、实体 NTFS 和 VM 状态。</li>
+<li><code>sudo winvm restart</code>：安全停止后再次恢复。</li>
+</ul>
+<h3 id="heading-16" data-id="heading-16">5.1 建立脚本</h3>
+<p>下面是根据这台机器已验证的大小、成员顺序整理的版本，<strong>不执行 <code>sgdisk --clear</code>、<code>mkfs</code> 或 <code>truncate</code></strong>，可重复运行。它在执行 stop 前验证成员身份，避免停止误认的其他 MD 阵列。</p>
+<p>保存为 <code>/usr/local/sbin/winvm</code>：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="%23!%2Fusr%2Fbin%2Fenv%20bash%0Aset%20-Eeuo%20pipefail%0Aexport%20LC_ALL%3DC%0A%0AVM%3Dwin11%0AMD%3D%2Fdev%2Fmd%2Fwinvm%0APART%3D%2Fdev%2Fnvme0n1p3%0ABASE%3D%2Fvar%2Flib%2Flibvirt%2Fwin-physical%0AHEAD_IMG%3D%22%24BASE%2Fefi-head.img%22%0ATAIL_IMG%3D%22%24BASE%2Fgpt-tail.img%22%0A%0A%23%20%E6%9C%AC%E6%9C%BA%E7%BB%8F%E8%BF%87%E6%A0%B8%E5%AF%B9%E7%9A%84%20512B%20%E6%89%87%E5%8C%BA%E6%95%B0%0AWIN_SECTORS%3D634859520%0AMD_SECTORS%3D635123712%0AEFI_SECTORS%3D260096%0A%0Alog()%20%7B%20printf%20'%5Bwinvm%5D%20%25s%5Cn'%20%22%24*%22%3B%20%7D%0Adie()%20%7B%20printf%20'%5Bwinvm%5D%5BERROR%5D%20%25s%5Cn'%20%22%24*%22%20%3E%262%3B%20exit%201%3B%20%7D%0A((%20EUID%20%3D%3D%200%20))%20%7C%7C%20die%20'%E8%AF%B7%E4%BD%BF%E7%94%A8%20sudo'%0A%0Avm_off()%20%7B%0A%20%20local%20s%0A%20%20s%3D%24(virsh%20-c%20qemu%3A%2F%2F%2Fsystem%20domstate%20%22%24VM%22)%20%7C%7C%20die%20'%E6%97%A0%E6%B3%95%E8%AF%BB%E5%8F%96%20VM%20%E7%8A%B6%E6%80%81'%0A%20%20%5B%5B%20%22%24s%22%20%3D%3D%20'shut%20off'%20%5D%5D%20%7C%7C%20die%20%22%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%9C%AA%E5%85%B3%E6%9C%BA%EF%BC%9A%24s%22%0A%7D%0A%0Acheck_files()%20%7B%0A%20%20%5B%5B%20-b%20%22%24PART%22%20%5D%5D%20%7C%7C%20die%20'Windows%20%E5%AE%9E%E4%BD%93%E5%88%86%E5%8C%BA%E4%B8%8D%E5%AD%98%E5%9C%A8'%0A%20%20%5B%5B%20-f%20%22%24HEAD_IMG%22%20%26%26%20-f%20%22%24TAIL_IMG%22%20%5D%5D%20%7C%7C%20die%20'%E8%99%9A%E6%8B%9F%20EFI%2FGPT%20%E9%95%9C%E5%83%8F%E6%96%87%E4%BB%B6%E7%BC%BA%E5%A4%B1'%0A%20%20%5B%5B%20%24(stat%20-c%20%25s%20%22%24HEAD_IMG%22)%20%3D%3D%20134217728%20%5D%5D%20%7C%7C%20die%20'EFI%20%E5%A4%B4%E6%96%87%E4%BB%B6%E5%A4%A7%E5%B0%8F%E4%B8%8D%E7%AC%A6'%0A%20%20%5B%5B%20%24(stat%20-c%20%25s%20%22%24TAIL_IMG%22)%20%3D%3D%201048576%20%5D%5D%20%7C%7C%20die%20'GPT%20%E5%B0%BE%E6%96%87%E4%BB%B6%E5%A4%A7%E5%B0%8F%E4%B8%8D%E7%AC%A6'%0A%20%20%5B%5B%20%24(blockdev%20--getss%20%22%24PART%22)%20%3D%3D%20512%20%5D%5D%20%7C%7C%20die%20'%E5%AE%9E%E4%BD%93%E5%88%86%E5%8C%BA%E9%80%BB%E8%BE%91%E6%89%87%E5%8C%BA%E4%B8%8D%E6%98%AF%20512B'%0A%20%20%5B%5B%20%24(blockdev%20--getsz%20%22%24PART%22)%20%3D%3D%20%22%24WIN_SECTORS%22%20%5D%5D%20%7C%7C%20die%20'Windows%20%E5%88%86%E5%8C%BA%E6%89%87%E5%8C%BA%E6%95%B0%E4%B8%8D%E7%AC%A6'%0A%7D%0A%0A%23%20%E6%89%BE%E5%88%B0%E5%8D%95%E4%B8%AA%E7%BB%91%E5%AE%9A%E5%88%B0%E6%8C%87%E5%AE%9A%E9%95%9C%E5%83%8F%E7%9A%84%20Loop%EF%BC%8C%E7%A6%81%E6%AD%A2%E9%87%8D%E5%85%A5%E9%80%A0%E6%88%90%E5%A4%9A%E4%B8%AA%20Loop%20%E5%88%AB%E5%90%8D%0Aloop_for()%20%7B%0A%20%20local%20-a%20loops%3D()%0A%20%20mapfile%20-t%20loops%20%3C%20%3C(losetup%20-j%20%22%241%22%20%7C%20cut%20-d%3A%20-f1)%0A%20%20((%20%24%7B%23loops%5B%40%5D%7D%20%3C%3D%201%20))%20%7C%7C%20die%20%22%E9%95%9C%E5%83%8F%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%20Loop%20%E6%98%A0%E5%B0%84%EF%BC%9A%241%22%0A%20%20printf%20'%25s'%20%22%24%7Bloops%5B0%5D%3A-%7D%22%0A%7D%0A%0Ais_mounted()%20%7B%0A%20%20findmnt%20-rn%20-S%20%22%241%22%20%3E%2Fdev%2Fnull%202%3E%261%0A%7D%0A%0Acheck_mounts()%20%7B%0A%20%20local%20real%0A%20%20is_mounted%20%22%24PART%22%20%26%26%20die%20'%E5%AE%9E%E4%BD%93%20Windows%20%E5%88%86%E5%8C%BA%E5%B7%B2%E6%8C%82%E8%BD%BD'%0A%20%20if%20%5B%5B%20-b%20%22%24MD%22%20%5D%5D%3B%20then%0A%20%20%20%20real%3D%24(readlink%20-f%20%22%24MD%22)%0A%20%20%20%20for%20d%20in%20%22%24MD%22%20%22%24%7Breal%7Dp1%22%20%22%24%7Breal%7Dp2%22%3B%20do%0A%20%20%20%20%20%20if%20%5B%5B%20-b%20%22%24d%22%20%5D%5D%20%26%26%20is_mounted%20%22%24d%22%3B%20then%0A%20%20%20%20%20%20%20%20die%20%22%24d%20%E5%B7%B2%E6%8C%82%E8%BD%BD%22%0A%20%20%20%20%20%20fi%0A%20%20%20%20done%0A%20%20fi%0A%7D%0A%0Averify()%20%7B%0A%20%20local%20real%20h%20t%0A%20%20%5B%5B%20-b%20%22%24MD%22%20%5D%5D%20%7C%7C%20die%20'MD%20%E8%AE%BE%E5%A4%87%E4%B8%8D%E5%AD%98%E5%9C%A8'%0A%20%20%5B%5B%20%24(blockdev%20--getsz%20%22%24MD%22)%20%3D%3D%20%22%24MD_SECTORS%22%20%5D%5D%20%7C%7C%20die%20'MD%20%E6%80%BB%E6%89%87%E5%8C%BA%E6%95%B0%E9%94%99%E8%AF%AF'%0A%20%20real%3D%24(readlink%20-f%20%22%24MD%22)%0A%20%20%5B%5B%20-b%20%22%24%7Breal%7Dp1%22%20%26%26%20-b%20%22%24%7Breal%7Dp2%22%20%5D%5D%20%7C%7C%20die%20'%E8%99%9A%E6%8B%9F%E5%88%86%E5%8C%BA%E8%8A%82%E7%82%B9%E7%BC%BA%E5%A4%B1'%0A%20%20%5B%5B%20%24(blockdev%20--getsz%20%22%24%7Breal%7Dp1%22)%20%3D%3D%20%22%24EFI_SECTORS%22%20%5D%5D%20%7C%7C%20die%20'EFI%20%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F%E9%94%99%E8%AF%AF'%0A%20%20%5B%5B%20%24(blockdev%20--getsz%20%22%24%7Breal%7Dp2%22)%20%3D%3D%20%22%24WIN_SECTORS%22%20%5D%5D%20%7C%7C%20die%20'NTFS%20%E5%88%86%E5%8C%BA%E5%A4%A7%E5%B0%8F%E9%94%99%E8%AF%AF'%0A%20%20%23%20%E4%B8%8D%E4%BD%BF%E7%94%A8%20lsblk%20-ndo%20START%EF%BC%9A%E6%9F%90%E4%BA%9B%E7%BB%84%E5%90%88%E4%B8%AD%20-d%20%E4%BC%9A%E5%BF%BD%E7%95%A5%E5%88%86%E5%8C%BA%E6%8B%93%E6%89%91%E4%BF%A1%E6%81%AF%0A%20%20%5B%5B%20%24(lsblk%20-nr%20-o%20START%20%22%24%7Breal%7Dp1%22%20%7C%20awk%20'NR%3D%3D1%7Bprint%20%241%7D')%20%3D%3D%202048%20%5D%5D%20%7C%7C%20die%20'EFI%20%E8%B5%B7%E7%82%B9%E9%94%99%E8%AF%AF'%0A%20%20%5B%5B%20%24(lsblk%20-nr%20-o%20START%20%22%24%7Breal%7Dp2%22%20%7C%20awk%20'NR%3D%3D1%7Bprint%20%241%7D')%20%3D%3D%20262144%20%5D%5D%20%7C%7C%20die%20'NTFS%20%E8%B5%B7%E7%82%B9%E9%94%99%E8%AF%AF'%0A%20%20h%3D%24(loop_for%20%22%24HEAD_IMG%22)%3B%20t%3D%24(loop_for%20%22%24TAIL_IMG%22)%0A%20%20%5B%5B%20-n%20%22%24h%22%20%26%26%20-n%20%22%24t%22%20%5D%5D%20%7C%7C%20die%20'Loop%20%E6%98%A0%E5%B0%84%E4%B8%8D%E5%AD%98%E5%9C%A8'%0A%20%20%23%20%E9%80%90%E4%B8%80%E5%8C%B9%E9%85%8D%20mdadm%20--detail%20%E4%B8%AD%E7%9A%84%20RaidDevice%20%E5%8F%B7%E5%92%8C%E7%89%A9%E7%90%86%E6%88%90%E5%91%98%0A%20%20mdadm%20--detail%20%22%24MD%22%20%7C%20awk%20-v%20h%3D%22%24h%22%20-v%20w%3D%22%24PART%22%20-v%20t%3D%22%24t%22%20'%0A%20%20%20%20%241%3D%3D0%20%26%26%20%244%3D%3D0%20%26%26%20%24NF%3D%3Dh%20%7Ba%3D1%7D%0A%20%20%20%20%241%3D%3D1%20%26%26%20%244%3D%3D1%20%26%26%20%24NF%3D%3Dw%20%7Bb%3D1%7D%0A%20%20%20%20%241%3D%3D2%20%26%26%20%244%3D%3D2%20%26%26%20%24NF%3D%3Dt%20%7Bc%3D1%7D%0A%20%20%20%20END%20%7B%20exit%20!(a%20%26%26%20b%20%26%26%20c)%20%7D%0A%20%20'%20%7C%7C%20die%20'MD%20%E6%88%90%E5%91%98%E6%88%96%E9%A1%BA%E5%BA%8F%E4%B8%8D%E5%8C%B9%E9%85%8D'%0A%20%20sgdisk%20-v%20%22%24MD%22%20%3E%2Fdev%2Fnull%20%7C%7C%20die%20'%E8%99%9A%E6%8B%9F%20GPT%20%E6%A0%A1%E9%AA%8C%E5%A4%B1%E8%B4%A5'%0A%20%20cmp%20-s%20-n%204096%20%22%24%7Breal%7Dp2%22%20%22%24PART%22%20%7C%7C%20die%20'NTFS%20%E8%B5%B7%E5%A7%8B%E6%95%B0%E6%8D%AE%E6%98%A0%E5%B0%84%E4%B8%8D%E4%B8%80%E8%87%B4'%0A%20%20log%20'MD%2FGPT%2FNTFS%20%E6%98%A0%E5%B0%84%E9%AA%8C%E8%AF%81%E9%80%9A%E8%BF%87'%0A%7D%0A%0Astart()%20%7B%0A%20%20vm_off%0A%20%20check_files%0A%20%20check_mounts%0A%20%20if%20%5B%5B%20-b%20%22%24MD%22%20%5D%5D%3B%20then%20verify%3B%20log%20'%E9%98%B5%E5%88%97%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8'%3B%20return%3B%20fi%0A%0A%20%20local%20head%20tail%20head_new%3D0%20tail_new%3D0%0A%20%20head%3D%24(loop_for%20%22%24HEAD_IMG%22)%0A%20%20tail%3D%24(loop_for%20%22%24TAIL_IMG%22)%0A%20%20if%20%5B%5B%20-z%20%22%24head%22%20%5D%5D%3B%20then%20head%3D%24(losetup%20--find%20--show%20%22%24HEAD_IMG%22)%3B%20head_new%3D1%3B%20fi%0A%20%20if%20%5B%5B%20-z%20%22%24tail%22%20%5D%5D%3B%20then%20tail%3D%24(losetup%20--find%20--show%20%22%24TAIL_IMG%22)%3B%20tail_new%3D1%3B%20fi%0A%0A%20%20%23%20%E4%BB%85%E6%B8%85%E7%90%86%E6%9C%AC%E6%AC%A1%E5%88%9B%E5%BB%BA%E7%9A%84%E8%B5%84%E6%BA%90%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B9%8B%E5%89%8D%E5%B0%B1%E5%AD%98%E5%9C%A8%E7%9A%84%20Loop%0A%20%20if%20!%20mdadm%20--build%20%22%24MD%22%20--level%3Dlinear%20--raid-devices%3D3%20--chunk%3D512%20%5C%0A%20%20%20%20%20%20%20%22%24head%22%20%22%24PART%22%20%22%24tail%22%3B%20then%0A%20%20%20%20((%20tail_new%20%3D%3D%200%20))%20%7C%7C%20losetup%20-d%20%22%24tail%22%20%7C%7C%20true%0A%20%20%20%20((%20head_new%20%3D%3D%200%20))%20%7C%7C%20losetup%20-d%20%22%24head%22%20%7C%7C%20true%0A%20%20%20%20die%20'%E7%BB%84%E8%A3%85%E5%A4%B1%E8%B4%A5'%0A%20%20fi%0A%20%20udevadm%20settle%0A%20%20%23%20%E8%8B%A5%E9%AA%8C%E8%AF%81%E5%A4%B1%E8%B4%A5%EF%BC%8C%E4%BF%9D%E7%95%99%E9%98%B5%E5%88%97%E4%BE%9B%E4%BA%BA%E5%B7%A5%E6%A3%80%E6%9F%A5%EF%BC%8C%E4%B8%8D%E5%AF%B9%E5%90%AB%E7%9C%9F%E5%AE%9E%20NTFS%20%E7%9A%84%E8%AE%BE%E5%A4%87%E8%87%AA%E5%8A%A8%E6%89%A7%E8%A1%8C%E5%BC%BA%E5%88%B6%E6%8B%86%E5%8D%B8%0A%20%20verify%0A%20%20log%20%22%E5%B7%B2%E6%81%A2%E5%A4%8D%20%24MD%EF%BC%88HEAD%3D%24head%2C%20TAIL%3D%24tail%EF%BC%89%22%0A%7D%0A%0Astop()%20%7B%0A%20%20vm_off%0A%20%20check_files%0A%20%20if%20%5B%5B%20!%20-b%20%22%24MD%22%20%5D%5D%3B%20then%20log%20'%E9%98%B5%E5%88%97%E4%B8%8D%E5%AD%98%E5%9C%A8'%3B%20return%3B%20fi%0A%20%20verify%0A%20%20check_mounts%0A%20%20local%20head%20tail%0A%20%20head%3D%24(loop_for%20%22%24HEAD_IMG%22)%0A%20%20tail%3D%24(loop_for%20%22%24TAIL_IMG%22)%0A%20%20mdadm%20--stop%20%22%24MD%22%20%7C%7C%20die%20'MD%20%E6%AD%A3%E8%A2%AB%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%81%9C%E6%AD%A2%E5%A4%B1%E8%B4%A5'%0A%20%20%5B%5B%20-z%20%22%24head%22%20%5D%5D%20%7C%7C%20losetup%20-d%20%22%24head%22%0A%20%20%5B%5B%20-z%20%22%24tail%22%20%5D%5D%20%7C%7C%20losetup%20-d%20%22%24tail%22%0A%20%20log%20'MD%20%E5%B7%B2%E5%81%9C%E6%AD%A2%EF%BC%8CLoop%20%E5%B7%B2%E9%87%8A%E6%94%BE'%0A%7D%0A%0Astatus()%20%7B%0A%20%20if%20%5B%5B%20-b%20%22%24MD%22%20%5D%5D%3B%20then%0A%20%20%20%20mdadm%20--detail%20%22%24MD%22%0A%20%20%20%20lsblk%20-o%20NAME%2CPATH%2CSTART%2CSIZE%2CFSTYPE%2CMOUNTPOINTS%20%22%24MD%22%0A%20%20else%0A%20%20%20%20log%20'MD%20%E6%9C%AA%E7%BB%84%E8%A3%85'%0A%20%20fi%0A%20%20losetup%20-j%20%22%24HEAD_IMG%22%20%7C%7C%20true%0A%20%20losetup%20-j%20%22%24TAIL_IMG%22%20%7C%7C%20true%0A%20%20lsblk%20-o%20NAME%2CSIZE%2CFSTYPE%2CMOUNTPOINTS%20%22%24PART%22%0A%20%20virsh%20-c%20qemu%3A%2F%2F%2Fsystem%20domstate%20%22%24VM%22%20%7C%7C%20true%0A%7D%0A%0Acase%20%22%24%7B1%3A-%7D%22%20in%0A%20%20start)%20%20%20start%20%3B%3B%0A%20%20stop)%20%20%20%20stop%20%3B%3B%0A%20%20restart)%20stop%3B%20start%20%3B%3B%0A%20%20status)%20%20status%20%3B%3B%0A%20%20*)%20echo%20'%E7%94%A8%E6%B3%95%EF%BC%9Asudo%20winvm%20%7Bstart%7Cstop%7Crestart%7Cstatus%7D'%3B%20exit%202%20%3B%3B%0Aesac"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-meta">#!/usr/bin/env bash</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">set</span> -Eeuo pipefail</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">export</span> LC_ALL=C</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content">VM=win11</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="6"></span>
+            <span class="code-content">MD=/dev/md/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="7"></span>
+            <span class="code-content">PART=/dev/nvme0n1p3</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="8"></span>
+            <span class="code-content">BASE=/var/lib/libvirt/win-physical</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="9"></span>
+            <span class="code-content">HEAD_IMG=<span class="hljs-string">&quot;<span class="hljs-variable">$BASE</span>/efi-head.img&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="10"></span>
+            <span class="code-content">TAIL_IMG=<span class="hljs-string">&quot;<span class="hljs-variable">$BASE</span>/gpt-tail.img&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="11"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="12"></span>
+            <span class="code-content"><span class="hljs-comment"># 本机经过核对的 512B 扇区数</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="13"></span>
+            <span class="code-content">WIN_SECTORS=634859520</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="14"></span>
+            <span class="code-content">MD_SECTORS=635123712</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="15"></span>
+            <span class="code-content">EFI_SECTORS=260096</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="16"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="17"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">log</span></span>() { <span class="hljs-built_in">printf</span> <span class="hljs-string">&#x27;[winvm] %s\n&#x27;</span> <span class="hljs-string">&quot;$*&quot;</span>; }</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="18"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">die</span></span>() { <span class="hljs-built_in">printf</span> <span class="hljs-string">&#x27;[winvm][ERROR] %s\n&#x27;</span> <span class="hljs-string">&quot;$*&quot;</span> &gt;&amp;2; <span class="hljs-built_in">exit</span> 1; }</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="19"></span>
+            <span class="code-content">(( EUID == <span class="hljs-number">0</span> )) || die <span class="hljs-string">&#x27;请使用 sudo&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="20"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="21"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">vm_off</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="22"></span>
+            <span class="code-content">  <span class="hljs-built_in">local</span> s</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="23"></span>
+            <span class="code-content">  s=$(virsh -c qemu:///system domstate <span class="hljs-string">&quot;<span class="hljs-variable">$VM</span>&quot;</span>) || die <span class="hljs-string">&#x27;无法读取 VM 状态&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="24"></span>
+            <span class="code-content">  [[ <span class="hljs-string">&quot;<span class="hljs-variable">$s</span>&quot;</span> == <span class="hljs-string">&#x27;shut off&#x27;</span> ]] || die <span class="hljs-string">&quot;虚拟机未关机：<span class="hljs-variable">$s</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="25"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="26"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="27"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">check_files</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="28"></span>
+            <span class="code-content">  [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;Windows 实体分区不存在&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="29"></span>
+            <span class="code-content">  [[ -f <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span> &amp;&amp; -f <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;虚拟 EFI/GPT 镜像文件缺失&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="30"></span>
+            <span class="code-content">  [[ $(<span class="hljs-built_in">stat</span> -c %s <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span>) == 134217728 ]] || die <span class="hljs-string">&#x27;EFI 头文件大小不符&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="31"></span>
+            <span class="code-content">  [[ $(<span class="hljs-built_in">stat</span> -c %s <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span>) == 1048576 ]] || die <span class="hljs-string">&#x27;GPT 尾文件大小不符&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="32"></span>
+            <span class="code-content">  [[ $(blockdev --getss <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span>) == 512 ]] || die <span class="hljs-string">&#x27;实体分区逻辑扇区不是 512B&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="33"></span>
+            <span class="code-content">  [[ $(blockdev --getsz <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span>) == <span class="hljs-string">&quot;<span class="hljs-variable">$WIN_SECTORS</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;Windows 分区扇区数不符&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="34"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="35"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="36"></span>
+            <span class="code-content"><span class="hljs-comment"># 找到单个绑定到指定镜像的 Loop，禁止重入造成多个 Loop 别名</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="37"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">loop_for</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="38"></span>
+            <span class="code-content">  <span class="hljs-built_in">local</span> -a loops=()</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="39"></span>
+            <span class="code-content">  <span class="hljs-built_in">mapfile</span> -t loops &lt; &lt;(losetup -j <span class="hljs-string">&quot;<span class="hljs-variable">$1</span>&quot;</span> | <span class="hljs-built_in">cut</span> -d: -f1)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="40"></span>
+            <span class="code-content">  (( <span class="hljs-variable">${#loops[@]}</span> &lt;= <span class="hljs-number">1</span> )) || die <span class="hljs-string">&quot;镜像存在重复 Loop 映射：<span class="hljs-variable">$1</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="41"></span>
+            <span class="code-content">  <span class="hljs-built_in">printf</span> <span class="hljs-string">&#x27;%s&#x27;</span> <span class="hljs-string">&quot;<span class="hljs-variable">${loops[0]:-}</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="42"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="43"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="44"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">is_mounted</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="45"></span>
+            <span class="code-content">  findmnt -rn -S <span class="hljs-string">&quot;<span class="hljs-variable">$1</span>&quot;</span> &gt;/dev/null 2&gt;&amp;1</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="46"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="47"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="48"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">check_mounts</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="49"></span>
+            <span class="code-content">  <span class="hljs-built_in">local</span> real</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="50"></span>
+            <span class="code-content">  is_mounted <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span> &amp;&amp; die <span class="hljs-string">&#x27;实体 Windows 分区已挂载&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="51"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> ]]; <span class="hljs-keyword">then</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="52"></span>
+            <span class="code-content">    real=$(<span class="hljs-built_in">readlink</span> -f <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="53"></span>
+            <span class="code-content">    <span class="hljs-keyword">for</span> d <span class="hljs-keyword">in</span> <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p1&quot;</span> <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p2&quot;</span>; <span class="hljs-keyword">do</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="54"></span>
+            <span class="code-content">      <span class="hljs-keyword">if</span> [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">$d</span>&quot;</span> ]] &amp;&amp; is_mounted <span class="hljs-string">&quot;<span class="hljs-variable">$d</span>&quot;</span>; <span class="hljs-keyword">then</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="55"></span>
+            <span class="code-content">        die <span class="hljs-string">&quot;<span class="hljs-variable">$d</span> 已挂载&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="56"></span>
+            <span class="code-content">      <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="57"></span>
+            <span class="code-content">    <span class="hljs-keyword">done</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="58"></span>
+            <span class="code-content">  <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="59"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="60"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="61"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">verify</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="62"></span>
+            <span class="code-content">  <span class="hljs-built_in">local</span> real h t</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="63"></span>
+            <span class="code-content">  [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;MD 设备不存在&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="64"></span>
+            <span class="code-content">  [[ $(blockdev --getsz <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span>) == <span class="hljs-string">&quot;<span class="hljs-variable">$MD_SECTORS</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;MD 总扇区数错误&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="65"></span>
+            <span class="code-content">  real=$(<span class="hljs-built_in">readlink</span> -f <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="66"></span>
+            <span class="code-content">  [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p1&quot;</span> &amp;&amp; -b <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p2&quot;</span> ]] || die <span class="hljs-string">&#x27;虚拟分区节点缺失&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="67"></span>
+            <span class="code-content">  [[ $(blockdev --getsz <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p1&quot;</span>) == <span class="hljs-string">&quot;<span class="hljs-variable">$EFI_SECTORS</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;EFI 分区大小错误&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="68"></span>
+            <span class="code-content">  [[ $(blockdev --getsz <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p2&quot;</span>) == <span class="hljs-string">&quot;<span class="hljs-variable">$WIN_SECTORS</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;NTFS 分区大小错误&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="69"></span>
+            <span class="code-content">  <span class="hljs-comment"># 不使用 lsblk -ndo START：某些组合中 -d 会忽略分区拓扑信息</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="70"></span>
+            <span class="code-content">  [[ $(lsblk -nr -o START <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p1&quot;</span> | awk <span class="hljs-string">&#x27;NR==1{print $1}&#x27;</span>) == 2048 ]] || die <span class="hljs-string">&#x27;EFI 起点错误&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="71"></span>
+            <span class="code-content">  [[ $(lsblk -nr -o START <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p2&quot;</span> | awk <span class="hljs-string">&#x27;NR==1{print $1}&#x27;</span>) == 262144 ]] || die <span class="hljs-string">&#x27;NTFS 起点错误&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="72"></span>
+            <span class="code-content">  h=$(loop_for <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span>); t=$(loop_for <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="73"></span>
+            <span class="code-content">  [[ -n <span class="hljs-string">&quot;<span class="hljs-variable">$h</span>&quot;</span> &amp;&amp; -n <span class="hljs-string">&quot;<span class="hljs-variable">$t</span>&quot;</span> ]] || die <span class="hljs-string">&#x27;Loop 映射不存在&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="74"></span>
+            <span class="code-content">  <span class="hljs-comment"># 逐一匹配 mdadm --detail 中的 RaidDevice 号和物理成员</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="75"></span>
+            <span class="code-content">  mdadm --detail <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> | awk -v h=<span class="hljs-string">&quot;<span class="hljs-variable">$h</span>&quot;</span> -v w=<span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span> -v t=<span class="hljs-string">&quot;<span class="hljs-variable">$t</span>&quot;</span> <span class="hljs-string">&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="76"></span>
+            <span class="code-content"><span class="hljs-string">    $1==0 &amp;&amp; $4==0 &amp;&amp; $NF==h {a=1}</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="77"></span>
+            <span class="code-content"><span class="hljs-string">    $1==1 &amp;&amp; $4==1 &amp;&amp; $NF==w {b=1}</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="78"></span>
+            <span class="code-content"><span class="hljs-string">    $1==2 &amp;&amp; $4==2 &amp;&amp; $NF==t {c=1}</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="79"></span>
+            <span class="code-content"><span class="hljs-string">    END { exit !(a &amp;&amp; b &amp;&amp; c) }</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="80"></span>
+            <span class="code-content"><span class="hljs-string">  &#x27;</span> || die <span class="hljs-string">&#x27;MD 成员或顺序不匹配&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="81"></span>
+            <span class="code-content">  sgdisk -v <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> &gt;/dev/null || die <span class="hljs-string">&#x27;虚拟 GPT 校验失败&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="82"></span>
+            <span class="code-content">  cmp -s -n 4096 <span class="hljs-string">&quot;<span class="hljs-variable">${real}</span>p2&quot;</span> <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span> || die <span class="hljs-string">&#x27;NTFS 起始数据映射不一致&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="83"></span>
+            <span class="code-content">  <span class="hljs-built_in">log</span> <span class="hljs-string">&#x27;MD/GPT/NTFS 映射验证通过&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="84"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="85"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="86"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">start</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="87"></span>
+            <span class="code-content">  vm_off</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="88"></span>
+            <span class="code-content">  check_files</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="89"></span>
+            <span class="code-content">  check_mounts</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="90"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> ]]; <span class="hljs-keyword">then</span> verify; <span class="hljs-built_in">log</span> <span class="hljs-string">&#x27;阵列已经存在&#x27;</span>; <span class="hljs-built_in">return</span>; <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="91"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="92"></span>
+            <span class="code-content">  <span class="hljs-built_in">local</span> <span class="hljs-built_in">head</span> <span class="hljs-built_in">tail</span> head_new=0 tail_new=0</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="93"></span>
+            <span class="code-content">  <span class="hljs-built_in">head</span>=$(loop_for <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="94"></span>
+            <span class="code-content">  <span class="hljs-built_in">tail</span>=$(loop_for <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="95"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> [[ -z <span class="hljs-string">&quot;<span class="hljs-variable">$head</span>&quot;</span> ]]; <span class="hljs-keyword">then</span> <span class="hljs-built_in">head</span>=$(losetup --find --show <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span>); head_new=1; <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="96"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> [[ -z <span class="hljs-string">&quot;<span class="hljs-variable">$tail</span>&quot;</span> ]]; <span class="hljs-keyword">then</span> <span class="hljs-built_in">tail</span>=$(losetup --find --show <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span>); tail_new=1; <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="97"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="98"></span>
+            <span class="code-content">  <span class="hljs-comment"># 仅清理本次创建的资源，保留之前就存在的 Loop</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="99"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> ! mdadm --build <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> --level=linear --raid-devices=3 --chunk=512 \</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="100"></span>
+            <span class="code-content">       <span class="hljs-string">&quot;<span class="hljs-variable">$head</span>&quot;</span> <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span> <span class="hljs-string">&quot;<span class="hljs-variable">$tail</span>&quot;</span>; <span class="hljs-keyword">then</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="101"></span>
+            <span class="code-content">    (( tail_new == <span class="hljs-number">0</span> )) || losetup -d <span class="hljs-string">&quot;<span class="hljs-variable">$tail</span>&quot;</span> || <span class="hljs-literal">true</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="102"></span>
+            <span class="code-content">    (( head_new == <span class="hljs-number">0</span> )) || losetup -d <span class="hljs-string">&quot;<span class="hljs-variable">$head</span>&quot;</span> || <span class="hljs-literal">true</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="103"></span>
+            <span class="code-content">    die <span class="hljs-string">&#x27;组装失败&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="104"></span>
+            <span class="code-content">  <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="105"></span>
+            <span class="code-content">  udevadm settle</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="106"></span>
+            <span class="code-content">  <span class="hljs-comment"># 若验证失败，保留阵列供人工检查，不对含真实 NTFS 的设备自动执行强制拆卸</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="107"></span>
+            <span class="code-content">  verify</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="108"></span>
+            <span class="code-content">  <span class="hljs-built_in">log</span> <span class="hljs-string">&quot;已恢复 <span class="hljs-variable">$MD</span>（HEAD=<span class="hljs-variable">$head</span>, TAIL=<span class="hljs-variable">$tail</span>）&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="109"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="110"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="111"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">stop</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="112"></span>
+            <span class="code-content">  vm_off</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="113"></span>
+            <span class="code-content">  check_files</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="114"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> [[ ! -b <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> ]]; <span class="hljs-keyword">then</span> <span class="hljs-built_in">log</span> <span class="hljs-string">&#x27;阵列不存在&#x27;</span>; <span class="hljs-built_in">return</span>; <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="115"></span>
+            <span class="code-content">  verify</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="116"></span>
+            <span class="code-content">  check_mounts</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="117"></span>
+            <span class="code-content">  <span class="hljs-built_in">local</span> <span class="hljs-built_in">head</span> <span class="hljs-built_in">tail</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="118"></span>
+            <span class="code-content">  <span class="hljs-built_in">head</span>=$(loop_for <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="119"></span>
+            <span class="code-content">  <span class="hljs-built_in">tail</span>=$(loop_for <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span>)</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="120"></span>
+            <span class="code-content">  mdadm --stop <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> || die <span class="hljs-string">&#x27;MD 正被使用，停止失败&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="121"></span>
+            <span class="code-content">  [[ -z <span class="hljs-string">&quot;<span class="hljs-variable">$head</span>&quot;</span> ]] || losetup -d <span class="hljs-string">&quot;<span class="hljs-variable">$head</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="122"></span>
+            <span class="code-content">  [[ -z <span class="hljs-string">&quot;<span class="hljs-variable">$tail</span>&quot;</span> ]] || losetup -d <span class="hljs-string">&quot;<span class="hljs-variable">$tail</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="123"></span>
+            <span class="code-content">  <span class="hljs-built_in">log</span> <span class="hljs-string">&#x27;MD 已停止，Loop 已释放&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="124"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="125"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="126"></span>
+            <span class="code-content"><span class="hljs-function"><span class="hljs-title">status</span></span>() {</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="127"></span>
+            <span class="code-content">  <span class="hljs-keyword">if</span> [[ -b <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span> ]]; <span class="hljs-keyword">then</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="128"></span>
+            <span class="code-content">    mdadm --detail <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="129"></span>
+            <span class="code-content">    lsblk -o NAME,PATH,START,SIZE,FSTYPE,MOUNTPOINTS <span class="hljs-string">&quot;<span class="hljs-variable">$MD</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="130"></span>
+            <span class="code-content">  <span class="hljs-keyword">else</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="131"></span>
+            <span class="code-content">    <span class="hljs-built_in">log</span> <span class="hljs-string">&#x27;MD 未组装&#x27;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="132"></span>
+            <span class="code-content">  <span class="hljs-keyword">fi</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="133"></span>
+            <span class="code-content">  losetup -j <span class="hljs-string">&quot;<span class="hljs-variable">$HEAD_IMG</span>&quot;</span> || <span class="hljs-literal">true</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="134"></span>
+            <span class="code-content">  losetup -j <span class="hljs-string">&quot;<span class="hljs-variable">$TAIL_IMG</span>&quot;</span> || <span class="hljs-literal">true</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="135"></span>
+            <span class="code-content">  lsblk -o NAME,SIZE,FSTYPE,MOUNTPOINTS <span class="hljs-string">&quot;<span class="hljs-variable">$PART</span>&quot;</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="136"></span>
+            <span class="code-content">  virsh -c qemu:///system domstate <span class="hljs-string">&quot;<span class="hljs-variable">$VM</span>&quot;</span> || <span class="hljs-literal">true</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="137"></span>
+            <span class="code-content">}</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="138"></span>
+            <span class="code-content">&nbsp;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="139"></span>
+            <span class="code-content"><span class="hljs-keyword">case</span> <span class="hljs-string">&quot;<span class="hljs-variable">${1:-}</span>&quot;</span> <span class="hljs-keyword">in</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="140"></span>
+            <span class="code-content">  start)   start ;;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="141"></span>
+            <span class="code-content">  stop)    stop ;;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="142"></span>
+            <span class="code-content">  restart) stop; start ;;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="143"></span>
+            <span class="code-content">  status)  status ;;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="144"></span>
+            <span class="code-content">  *) <span class="hljs-built_in">echo</span> <span class="hljs-string">&#x27;用法：sudo winvm {start|stop|restart|status}&#x27;</span>; <span class="hljs-built_in">exit</span> 2 ;;</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="145"></span>
+            <span class="code-content"><span class="hljs-keyword">esac</span></span>
+          </div></code>
+</code></pre><p>安装并检查脚本：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20install%20-m%20755%20%2Fpath%2Fto%2Fyour%2Fwinvm%20%2Fusr%2Flocal%2Fsbin%2Fwinvm%0Asudo%20bash%20-n%20%2Fusr%2Flocal%2Fsbin%2Fwinvm%0Asudo%20winvm%20status"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> install -m 755 /path/to/your/winvm /usr/local/sbin/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> bash -n /usr/local/sbin/winvm</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> winvm status</span>
+          </div></code>
+</code></pre><p><strong>注意</strong>：<code>/path/to/your/winvm</code> 需要替换为保存脚本的真实路径。也可以直接用 <code>sudoedit /usr/local/sbin/winvm</code> 粘贴上述代码。此脚本针对<strong>固定磁盘布局</strong>，仅作为本机管理工具；若 SSD 分区调整、设备名更换或存在其他使用该分区的虚拟机，必须重新评估，不能照搬。设备已被其他进程打开时，<code>mdadm --stop</code> 会失败，不要用强制手段清除占用。</p>
+<h3 id="heading-17" data-id="heading-17">5.2 常见故障与对应解释</h3>
+<p><strong>A. 重启后虚拟机报</strong> <code>Cannot access storage file &#39;/dev/md/winvm&#39;: No such file or directory</code>：MD Linear 没有持久超级块，先运行 <code>sudo winvm start</code>；启动 VM 之前核对 <code>sudo winvm status</code>。</p>
+<p><strong>B. <code>cat /proc/mdstat</code> 提示不存在</strong>：不必单凭该文件判断 MD 是否可用，以 <code>mdadm --detail /dev/md/winvm</code>、<code>lsblk</code> 和 <code>blockdev --getsz</code> 为准。</p>
+<p><strong>C. 脚本提示 EFI 分区起点异常，但 <code>lsblk -o START</code> 看到 2048</strong>：旧脚本使用 <code>lsblk -ndo START</code> 可能因为 <code>-d</code> 的设备过滤而得到异常输出；新版使用 <code>lsblk -nr -o START</code>。不能因此重新执行 <code>sgdisk --clear</code>。</p>
+<p><strong>D. <code>target &#39;sda&#39; duplicated for disks</code></strong>：临时测试盘与系统盘使用了同一 target 名称；修改测试盘名称或移除它，不需要改变物理 Windows 分区。</p>
+<p><strong>E. 物理 Windows 与 KVM 时间差</strong>：实体 Windows 若设置了 <code>RealTimeIsUniversal=1</code>，虚拟机的 RTC 建议 <code>&lt;clock offset=&quot;utc&quot;&gt;</code>，不要使用 <code>localtime</code>。</p>
+<h2 id="heading-18" data-id="heading-18">6. 日常启停与切换实体 Windows</h2>
+<h3 id="heading-19" data-id="heading-19">Arch → KVM Windows</h3>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20winvm%20start%0Asudo%20winvm%20status%0Asudo%20virsh%20-c%20qemu%3A%2F%2F%2Fsystem%20start%20win11"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> winvm start</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> winvm status</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh -c qemu:///system start win11</span>
+          </div></code>
+</code></pre><p>启动前确保 Windows NTFS 不被 Arch 挂载、实体 Windows 已经完全关机，且虚拟机没有其他实例正在使用这块分区。</p>
+<h3 id="heading-20" data-id="heading-20">KVM Windows → 实体 Windows</h3>
+<p>在 Windows 客体内正常关机：</p>
+<pre><code class="hljs language-powershell"><code class="hljs language-powershell" data-raw="shutdown%20%2Fs%20%2Ft%200"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content">shutdown /s /t <span class="hljs-number">0</span></span>
+          </div></code>
+</code></pre><p>回到 Arch：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20virsh%20-c%20qemu%3A%2F%2F%2Fsystem%20domstate%20win11%20%20%23%20%E5%BA%94%E4%B8%BA%20shut%20off%0Asudo%20winvm%20stop%0Asudo%20reboot"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> virsh -c qemu:///system domstate win11  <span class="hljs-comment"># 应为 shut off</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> winvm stop</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> reboot</span>
+          </div></code>
+</code></pre><p>在 BIOS/UEFI 启动菜单选择物理 SSD 原有的 <strong>Windows Boot Manager</strong>。<code>winvm stop</code> 只清理临时映射，不删除虚拟 EFI 文件；<strong>不要删除 <code>efi-head.img</code>、<code>gpt-tail.img</code></strong>。</p>
+<h3 id="heading-21" data-id="heading-21">只读查看实体 Windows 文件（维护场景）</h3>
+<p>在 VM <strong>完全关闭</strong>、<code>winvm stop</code> 成功、MD 不再存在后：</p>
+<pre><code class="hljs language-bash"><code class="hljs language-bash" data-raw="sudo%20mkdir%20-p%20%2Fmnt%2Fwindows%0Asudo%20mount%20-t%20ntfs3%20-o%20ro%20%2Fdev%2Fnvme0n1p3%20%2Fmnt%2Fwindows%0A%23%20%E6%9F%A5%E7%9C%8B%E5%AE%8C%E6%88%90%E5%90%8E%0Asudo%20umount%20%2Fmnt%2Fwindows%0Asudo%20winvm%20start"><div class="code-row">
+            <span class="line-num" data-num="1"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> <span class="hljs-built_in">mkdir</span> -p /mnt/windows</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="2"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> mount -t ntfs3 -o ro /dev/nvme0n1p3 /mnt/windows</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="3"></span>
+            <span class="code-content"><span class="hljs-comment"># 查看完成后</span></span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="4"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> umount /mnt/windows</span>
+          </div><div class="code-row">
+            <span class="line-num" data-num="5"></span>
+            <span class="code-content"><span class="hljs-built_in">sudo</span> winvm start</span>
+          </div></code>
+</code></pre><p>如果 Windows 仍处于休眠状态或挂载报“不安全”，不要用 <code>force</code> 或 <code>remove_hiberfile</code> 绕过保护。<strong>严禁 Windows 客体运行期间让 Arch 再挂载同一 NTFS</strong>。</p>
+<hr>
+<h3 id="heading-22" data-id="heading-22">参考资料</h3>
+<ul>
+<li><a href="https://libvirt.org/formatdomain.html">libvirt Domain XML（磁盘、SCSI 控制器、PCI Hostdev）</a></li>
+<li><a href="https://man7.org/linux/man-pages/man8/mdadm.8.html">mdadm 手册</a></li>
+<li><a href="https://www.rodsbooks.com/gdisk/sgdisk-walkthrough.html">GNU Parted / GPT 工具与 <code>sgdisk</code> 文档</a></li>
+<li><a href="https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/">VirtIO Windows 驱动 ISO</a></li>
+</ul>
+<p><em>本文按这台机器实际跑通的分区布局编写，属于技术操作记录，不是跨设备通用的一键脚本。</em></p>
+14:I[27201,["/_next/static/chunks/05zdfvmr9uzu7.js","/_next/static/chunks/1u_ur6nk-ac7v.js","/_next/static/chunks/1vtppmabffa-n.js","/_next/static/chunks/1vtieaz8wy-qs.js","/_next/static/chunks/1w2mylgmi_mxn.js","/_next/static/chunks/43vp5uuq0rysp.js","/_next/static/chunks/06oj1v7gvl5xm.js","/_next/static/chunks/38rfc5cjod16a.js","/_next/static/chunks/2-at84_iyz43q.js","/_next/static/chunks/2wzgtefrbi0w9.js"],"IconMark"]
+6:["$","$L12",null,{"id":"Linux/kvm_multiplexing_of_physical_win11","initialContent":{"html":"$13","toc":[{"id":"heading-0","level":2,"text":"目标结构与已知分区","listNo":"1"},{"id":"heading-1","level":2,"text":"第一次创建前的安全检查","listNo":"2"},{"id":"heading-2","level":2,"text":"首次构建 MD Linear 虚拟磁盘","listNo":"3"},{"id":"heading-3","level":3,"text":"2.1 创建头尾文件（仅首次）","listNo":"3.1"},{"id":"heading-4","level":3,"text":"2.2 附加 Loop 并组装阵列","listNo":"3.2"},{"id":"heading-5","level":3,"text":"2.3 在 虚拟 MD 设备 上创建 GPT（仅首次）","listNo":"3.3"},{"id":"heading-6","level":3,"text":"2.4 只格式化虚拟 EFI（仅首次）","listNo":"3.4"},{"id":"heading-7","level":3,"text":"2.5 验证 NTFS 零偏移映射","listNo":"3.5"},{"id":"heading-8","level":2,"text":"建立 KVM 虚拟机与独立 Windows EFI 引导","listNo":"4"},{"id":"heading-9","level":3,"text":"3.1 虚拟机基础设置","listNo":"4.1"},{"id":"heading-10","level":3,"text":"3.2 从安装 ISO 进入 WinPE","listNo":"4.2"},{"id":"heading-11","level":2,"text":"SATA → VirtIO SCSI（先装驱动，再换系统盘）","listNo":"5"},{"id":"heading-12","level":3,"text":"4.1 添加临时测试盘","listNo":"5.1"},{"id":"heading-13","level":3,"text":"4.2 Windows 中加载驱动","listNo":"5.2"},{"id":"heading-14","level":3,"text":"4.3 切换系统盘并删除测试盘","listNo":"5.3"},{"id":"heading-15","level":2,"text":"winvm：恢复和停止 MD Linear 的管理脚本","listNo":"6"},{"id":"heading-16","level":3,"text":"5.1 建立脚本","listNo":"6.1"},{"id":"heading-17","level":3,"text":"5.2 常见故障与对应解释","listNo":"6.2"},{"id":"heading-18","level":2,"text":"日常启停与切换实体 Windows","listNo":"7"},{"id":"heading-19","level":3,"text":"Arch → KVM Windows","listNo":"7.1"},{"id":"heading-20","level":3,"text":"KVM Windows → 实体 Windows","listNo":"7.2"},{"id":"heading-21","level":3,"text":"只读查看实体 Windows 文件（维护场景）","listNo":"7.3"},{"id":"heading-22","level":3,"text":"参考资料","listNo":"7.4"}],"characterCount":15456}}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#67abff"}]]
+9:null
+11:[["$","title","0",{"children":"KVM复用实体Windows 11 | LengineerC's blog"}],["$","meta","1",{"name":"description","content":"适用场景 ：Arch Linux 与 Windows 11 位于同一块物理 NVMe SSD；希望在物理启动 Windows 和 Arch 内的 KVM Windows 之间复用 同一个 NTFS 系统分区 ，同时将 NVIDIA 显卡直通给虚拟机。本文只覆盖 物理分区映射、虚拟 EFI、Windows 引导、VirtIO SCSI、VFIO、winvm / mdadm linear 管理 ；不讨论 HugePages、CPU Pinning、Looking Glass 的配置。 风险提示 ：这..."}],["$","meta","2",{"name":"author","content":"LengineerC"}],["$","link","3",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","4",{"name":"keywords","content":"KVM,Linux"}],["$","meta","5",{"name":"creator","content":"LengineerC"}],["$","link","6",{"rel":"canonical","href":"https://blog.lengineerc.com/post/detail/Linux/kvm_multiplexing_of_physical_win11/"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/favicon.png"}],["$","link","9",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L14","10",{}]]

@@ -1,5 +1,21 @@
 [
   {
+    "id": "Linux/kvm_multiplexing_of_physical_win11",
+    "tags": [
+      "KVM",
+      "Linux"
+    ],
+    "category": "Linux",
+    "top": true,
+    "author": "LengineerC",
+    "time": "2026-11-23 19:38:02",
+    "lock": false,
+    "password": "",
+    "title": "KVM复用实体Windows 11",
+    "abstract": "适用场景 ：Arch Linux 与 Windows 11 位于同一块物理 NVMe SSD；希望在物理启动 Windows 和 Arch 内的 KVM Windows 之间复用 同一个 NTFS 系统分区 ，同时将 NVIDIA 显卡直通给虚拟机。本文只覆盖 物理分区映射、虚拟 EFI、Windows 引导、VirtIO SCSI、VFIO、winvm / mdadm linear 管理 ；不讨论 HugePages、CPU Pinning、Looking Glass 的配置。 风险提示 ：这...",
+    "contentPath": "/generated/posts/Linux/kvm_multiplexing_of_physical_win11.json"
+  },
+  {
     "id": "Linux/linux-common-commands",
     "tags": [
       "Linux",

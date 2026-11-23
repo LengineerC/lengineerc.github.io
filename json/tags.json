@@ -1,5 +1,55 @@
 {
+  "KVM": [
+    {
+      "id": "Linux/kvm_multiplexing_of_physical_win11",
+      "tags": [
+        "KVM",
+        "Linux"
+      ],
+      "category": "Linux",
+      "top": true,
+      "author": "LengineerC",
+      "time": "2026-11-23 19:38:02",
+      "lock": false,
+      "password": "",
+      "title": "KVM复用实体Windows 11",
+      "abstract": "适用场景 ：Arch Linux 与 Windows 11 位于同一块物理 NVMe SSD；希望在物理启动 Windows 和 Arch 内的 KVM Windows 之间复用 同一个 NTFS 系统分区 ，同时将 NVIDIA 显卡直通给虚拟机。本文只覆盖 物理分区映射、虚拟 EFI、Windows 引导、VirtIO SCSI、VFIO、winvm / mdadm linear 管理 ；不讨论 HugePages、CPU Pinning、Looking Glass 的配置。 风险提示 ：这...",
+      "contentPath": "/generated/posts/Linux/kvm_multiplexing_of_physical_win11.json"
+    },
+    {
+      "id": "Linux/kvm_gpu_direct_connection",
+      "tags": [
+        "KVM",
+        "Linux"
+      ],
+      "category": "Linux",
+      "top": true,
+      "author": "LengineerC",
+      "time": "2026-04-25 21:04:19",
+      "lock": false,
+      "password": "",
+      "title": "KVM-QEMU配置显卡直通以及性能优化",
+      "abstract": "本文为热切换显卡直通和KVM虚拟机在天选4笔记本的实践记录。 近日突发奇想想用linux玩洛克王国，可惜腾讯ACE支持SteamOS也不给Arch添加白名单。在使用proton转译之后，还是无法正常打开游戏，最后还是只能使用在linux上运行windows虚拟机的方式来运行。 安装 先简单说明一下KVM以及QEMU的关系：KVM是虚拟机引擎，可以直接调用物理CPU硬件虚拟化指令执行计算以及硬件加速。QEMU则是负责硬件模拟（主板，显卡，网卡等），QEMU也可以模拟CPU,但是如果采用纯软件的方式...",
+      "contentPath": "/generated/posts/Linux/kvm_gpu_direct_connection.json"
+    }
+  ],
   "Linux": [
+    {
+      "id": "Linux/kvm_multiplexing_of_physical_win11",
+      "tags": [
+        "KVM",
+        "Linux"
+      ],
+      "category": "Linux",
+      "top": true,
+      "author": "LengineerC",
+      "time": "2026-11-23 19:38:02",
+      "lock": false,
+      "password": "",
+      "title": "KVM复用实体Windows 11",
+      "abstract": "适用场景 ：Arch Linux 与 Windows 11 位于同一块物理 NVMe SSD；希望在物理启动 Windows 和 Arch 内的 KVM Windows 之间复用 同一个 NTFS 系统分区 ，同时将 NVIDIA 显卡直通给虚拟机。本文只覆盖 物理分区映射、虚拟 EFI、Windows 引导、VirtIO SCSI、VFIO、winvm / mdadm linear 管理 ；不讨论 HugePages、CPU Pinning、Looking Glass 的配置。 风险提示 ：这...",
+      "contentPath": "/generated/posts/Linux/kvm_multiplexing_of_physical_win11.json"
+    },
     {
       "id": "Linux/linux-common-commands",
       "tags": [
@@ -49,24 +99,6 @@
       "title": "Linux常用命令",
       "abstract": "grep -i, --ignore-case 忽略大小写 -n 显示行号 -v 反向匹配 -R 递归搜索目录 -o, --only-matching 仅打印匹配的文本 -E, --extended regexp 扩展正则（替代旧的egrep） -c 统计匹配行数 -l 只显示哪些文件匹配，不显示匹配内容 -H 正常显示匹配内容，同时在每一行前显示文件名 常用组合 grep -Hn --color=auto 打印每个匹配项的文件名和行号，并带彩色输出 sed sed 's/old/new/' fi...",
       "contentPath": "/generated/posts/Linux/linux-common-commands.json"
-    }
-  ],
-  "KVM": [
-    {
-      "id": "Linux/kvm_gpu_direct_connection",
-      "tags": [
-        "KVM",
-        "Linux"
-      ],
-      "category": "Linux",
-      "top": true,
-      "author": "LengineerC",
-      "time": "2026-04-25 21:04:19",
-      "lock": false,
-      "password": "",
-      "title": "KVM-QEMU配置显卡直通以及性能优化",
-      "abstract": "本文为热切换显卡直通和KVM虚拟机在天选4笔记本的实践记录。 近日突发奇想想用linux玩洛克王国，可惜腾讯ACE支持SteamOS也不给Arch添加白名单。在使用proton转译之后，还是无法正常打开游戏，最后还是只能使用在linux上运行windows虚拟机的方式来运行。 安装 先简单说明一下KVM以及QEMU的关系：KVM是虚拟机引擎，可以直接调用物理CPU硬件虚拟化指令执行计算以及硬件加速。QEMU则是负责硬件模拟（主板，显卡，网卡等），QEMU也可以模拟CPU,但是如果采用纯软件的方式...",
-      "contentPath": "/generated/posts/Linux/kvm_gpu_direct_connection.json"
     }
   ],
   "Claude Code": [
